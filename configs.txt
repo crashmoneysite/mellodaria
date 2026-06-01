@@ -97,7 +97,7 @@ trojan://humanity@45.130.125.76:443?path=/assignment&security=tls&alpn=http/1.1&
 trojan://humanity@www.calmloud.com:443?path=/assignment&security=tls&alpn=http/1.1&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=www.calmloud.com#@v2rayNplus |🇺🇸
 trojan://humanity@www.calmlunch.com:443?security=tls&sni=www.calmlunch.com&fp=chrome&allowInsecure=0&type=ws&path=/assignment#@sogoandfuckyourlove
 trojan://humanity@www.multiplydose.com:443?path=/assignment&security=tls&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=www.multiplydose.com#⚡Telegram =@CUSTOMVPNSERVER
-vless://06b65903-406d-4a41-8463-6fd5c0ee7798@43.169.18.179:443?path=/proxyip&security=tls&encryption=none&insecure=0&host=sni.skylee4.cloudns.ch&fp=chrome&type=ws&allowInsecure=0&sni=sni.skylee4.cloudns.ch#@v2raybaaz
+trojan://humanity@104.17.121.71:443?path=/assignment&security=tls&alpn=http/1.1&insecure=1&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmloud.com#@v2raybaaz
 vless://19804f6b-3661-4eca-b294-ba37196dab5b@129.6.29.255:443?path=/id-tksi&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=graph.instagram.com.cyylr.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=graph.instagram.com.cyylr.eu.cc#🔵@chillguy_vpn
 vless://3e809b21-e29b-49ec-a7fb-5301ec7c1cee@food.artmisserver.site:8443?path=/&security=none&encryption=none&host=ap.isowli.ir&type=ws#@filembad
 vless://ad29e9f7-2213-416c-8967-00a689c5e491@185.189.58.195:443?path=/ws&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=185.189.58.195&fp=chrome&type=ws&allowInsecure=0&sni=185.189.58.195#@musiclovers85جوین بدید
@@ -126,7 +126,6 @@ vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@dx.mmhh.eu.cc:443?encryption=none&h
 vless://19804f6b-3661-4eca-b294-ba37196dab5b@129.6.29.255:443?path=/id-tksi&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=graph.instagram.com.cyylr.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=graph.instagram.com.cyylr.eu.cc#🔵@chillguy_vpn
 vless://19804f6b-3661-4eca-b294-ba37196dab5b@129.6.29.255:443?path=/id-tksi&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=graph.instagram.com.cyylr.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=graph.instagram.com.cyylr.eu.cc#🔵@chillguy_vpn
 vless://19804f6b-3661-4eca-b294-ba37196dab5b@129.6.29.255:443?path=/id-tksi&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=graph.instagram.com.cyylr.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=graph.instagram.com.cyylr.eu.cc#🔵@chillguy_vpn
-trojan://humanity@43.169.18.179:443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 trojan://humanity@104.18.13.149:443/?type=ws&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&alpn=http%2F1.1&allowInsecure=1&fp=chrome#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
 trojan://humanity@104.18.13.149:443/?type=ws&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&alpn=http%2F1.1&allowInsecure=1&fp=chrome#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
 trojan://humanity@104.18.13.149:443/?type=ws&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&alpn=http%2F1.1&allowInsecure=1&fp=chrome#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
