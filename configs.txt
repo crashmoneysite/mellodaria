@@ -41,7 +41,6 @@ vless://228639b0-48de-4162-a818-d5651ee297b3@27.50.48.49:443?encryption=none&fp=
 vless://228639b0-48de-4162-a818-d5651ee297b3@27.50.48.49:443?path=/in-do&security=tls&encryption=none&insecure=0&host=investors.spotify.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=investors.spotify.com.cyylr.eu.cc#@llFreak
 vless://28f79470-c550-40b0-9e46-834a46ac8da8@208.103.161.170:443?encryption=none&security=tls&sni=help.viu.com.cyylr.eu.cc&type=ws&host=help.viu.com.cyylr.eu.cc&path=/id-pusat#🇺🇸43952 | ⚡️Telegram = t.me/SOSkeyNET
 vless://28f79470-c550-40b0-9e46-834a46ac8da8@cyylr.eu.cc:443?encryption=none&security=tls&sni=help.viu.com.cyylr.eu.cc&type=ws&host=help.viu.com.cyylr.eu.cc&path=/id-pusat#🔵@chillguy_vpn
-trojan://386bd471-4e29-4e79-9a3c-6bc6076ce4b6@208.103.161.170:443?path=/id-tksi&security=tls&host=edu.ruangguru.com.cyylr.eu.cc&type=ws&sni=edu.ruangguru.com.cyylr.eu.cc#@hi_proxy_iran :👈کانال تلگرام
 vless://334e484f-7f7c-4895-a6e4-8951de2626f8@188.114.97.6:443?path=/ae-bo&security=tls&encryption=none&insecure=0&host=unnes.ac.id.cyylr.eu.cc&type=ws&allowInsecure=0&sni=unnes.ac.id.cyylr.eu.cc#صبح بخیر ایران @ProxyEliteVPN
 vless://429f43ca-087a-4fbc-9d88-9d9007bf30bc@188.114.97.6:443?path=/my-wbv&security=tls&encryption=none&insecure=0&host=unnes.ac.id.cyylr.eu.cc&type=ws&allowInsecure=0&sni=unnes.ac.id.cyylr.eu.cc#🇨🇦44093 | ⚡️Telegram = t.me/SOSkeyNET
 vless://49e9da45-aecc-463b-abe7-abfed1d2086b@188.114.97.6:80?security=none&type=ws&path=/sg-orcl&host=web.whatsapp.com.cyylr.eu.cc&encryption=none#👉🆔@freenettir📡🇨🇦®️Canada©️Toronto🅿️ping:115ms
