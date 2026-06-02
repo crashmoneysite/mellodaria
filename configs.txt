@@ -59,7 +59,6 @@ vless://cc752a3e-1537-4e86-bb50-1b897bf7b33c@support.zoom.us.cyylr.eu.cc:443?Tel
 vless://cff04824-47a3-4a85-a9df-83af9181f84c@45.130.125.0:443?path=/in-pdr&security=tls&encryption=none&insecure=0&host=zaintest.vuclip.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=zaintest.vuclip.com.cyylr.eu.cc#@filembad
 vless://e84064cc-617f-4ba8-aa6f-13e920fd2610@104.21.23.131:80?security=none&type=ws&path=/&host=main.boobie.eu.cc#🇨🇦44060 | ⚡️Telegram = t.me/SOSkeyNET
 vless://e84064cc-617f-4ba8-aa6f-13e920fd2610@172.67.211.74:80?security=none&type=ws&path=/&host=main.boobie.eu.cc#🇨🇦44065 | ⚡️Telegram = t.me/SOSkeyNET
-vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@162.159.36.5:443?encryption=none&host=octopusss4.com&path=/tsghdws&security=tls&sni=octopusss4.com&type=ws#🐤79@Vasl_b
 vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@172.64.146.138:443?allowInsecure=1&encryption=none&host=octopusss4.com&path=/tsghdws&security=tls&sni=octopusss4.com&type=ws#🐤82@Vasl_b
 vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@172.66.47.45:443?encryption=none&host=octopusss4.com&path=/tsghdws&security=tls&sni=octopusss4.com&type=ws#🐤83@Vasl_b
 vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@188.114.97.6:443?path=/tsghdws&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=octopusss4.com&fp=chrome&type=ws&sni=octopusss4.com#@outline_ir
