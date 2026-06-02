@@ -95,7 +95,6 @@ trojan://humanity@45.130.125.76:443?path=%2Fassignment&security=tls&alpn=http%2F
 trojan://humanity@104.17.121.71:443?path=/assignment&security=tls&alpn=http/1.1&insecure=1&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmloud.com#@meliproxyy
 trojan://humanity@104.21.40.34:443?path=%2Fassignment&security=tls&insecure=1&host=www.gossipglove.com&type=ws&allowInsecure=1&sni=www.gossipglove.com#%3E%3E%40FreakConfig%3A%3AFR
 trojan://humanity@185.18.250.245:443?path=%2Fassignment&security=tls&insecure=1&host=www.calmlunch.com&type=ws&allowInsecure=1&sni=www.calmlunch.com#%3E%3E%40configV2rayNG%3A%3AFR
-trojan://humanity@185.18.250.245:443?path=%2Fassignment&security=tls&insecure=1&host=www.calmlunch.com&type=ws&allowInsecure=1&sni=www.calmlunch.com#%3E%3E%40configV2rayNG%3A%3AFR
 trojan://humanity@8.6.112.6:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#%3E%3E%40v2rayNG_Matsuri%3A%3AFR
 vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@173.245.58.75:443?encryption=none&host=octopusss4.com&path=%2Ftsghdws&security=tls&sni=octopusss4.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFI
 vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@173.245.58.75:443?encryption=none&host=octopusss4.com&path=%2Ftsghdws&security=tls&sni=octopusss4.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFI
