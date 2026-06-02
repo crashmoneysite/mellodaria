@@ -160,9 +160,6 @@ vless://2dc797c8-9588-48a6-bc4a-265c23d87cd6@208.103.161.170:443?path=%2Fid-pusa
 vless://0a4eabad-a6b8-4f4a-b610-4540b9c8f49a@188.114.97.6:443?encryption=none&security=tls&sni=ava.game.naver.com.cyylr.eu.cc&type=ws&host=ava.game.naver.com.cyylr.eu.cc&path=%2Fsg-orcl#%3E%3E%40v2rayngvpn%3A%3AUS
 vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@172.64.33.162:443?path=%2Fudfyfws&security=tls&encryption=none&insecure=0&host=octopusss5.info&type=ws&allowInsecure=0&sni=octopusss5.info#%3E%3E%40outline_vpn%3A%3AFI
 vless://997b5119-c015-4203-b402-0eb0f60b77c3@204.168.234.22:80?encryption=none&host=nobody.fastspeed.ir&path=%2Fws&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFI
-vless://997b5119-c015-4203-b402-0eb0f60b77c3@204.168.234.22:80?encryption=none&host=nobody.fastspeed.ir&path=%2Fws&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFI
-vless://997b5119-c015-4203-b402-0eb0f60b77c3@204.168.234.22:80?encryption=none&host=nobody.fastspeed.ir&path=%2Fws&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFI
-vless://997b5119-c015-4203-b402-0eb0f60b77c3@204.168.234.22:80?encryption=none&host=nobody.fastspeed.ir&path=%2Fws&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFI
 vless://cc752a3e-1537-4e86-bb50-1b897bf7b33c@support.zoom.us.cyylr.eu.cc:443?path=%2Fsg-melbi&security=tls&encryption=none&insecure=0&host=support.zoom.us.cyylr.eu.cc&type=ws&allowInsecure=0&sni=support.zoom.us.cyylr.eu.cc#@v2reya88
 vless://cc752a3e-1537-4e86-bb50-1b897bf7b33c@support.zoom.us.cyylr.eu.cc:443?path=%2Fsg-melbi&security=tls&encryption=none&insecure=0&host=support.zoom.us.cyylr.eu.cc&type=ws&allowInsecure=0&sni=support.zoom.us.cyylr.eu.cc#@v2reya88
 vless://cc752a3e-1537-4e86-bb50-1b897bf7b33c@support.zoom.us.cyylr.eu.cc:443?path=%2Fsg-melbi&security=tls&encryption=none&insecure=0&host=support.zoom.us.cyylr.eu.cc&type=ws&allowInsecure=0&sni=support.zoom.us.cyylr.eu.cc#@v2reya88
@@ -306,4 +303,3 @@ vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@de.vpnbase.net:80?path=/http&securi
 vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@173.245.58.75:443?encryption=none&host=octopusss4.com&path=%2Ftsghdws&security=tls&sni=octopusss4.com&type=ws#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@173.245.58.75:443?encryption=none&host=octopusss4.com&path=%2Ftsghdws&security=tls&sni=octopusss4.com&type=ws#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@173.245.58.75:443?encryption=none&host=octopusss4.com&path=%2Ftsghdws&security=tls&sni=octopusss4.com&type=ws#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://e277ac9b-3225-4381-a9fb-3585419f7142@kobe.ns.cloudflare.com:443?encryption=none&type=ws&host=35cdnws.frnstatic.info&path=%2F35cdnws&security=tls&alpn=http%2F1.1&fp=firefox&sni=35cdnws.frnstatic.info#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
