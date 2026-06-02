@@ -70,7 +70,6 @@ trojan://humanity@45.130.125.76:443?path=%2Fassignment&security=tls&alpn=http%2F
 trojan://humanity@104.17.121.71:443?path=/assignment&security=tls&alpn=http/1.1&insecure=1&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmloud.com#@v2raybaaz
 trojan://humanity@104.17.121.71:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmloud.com#%40vpnbaz%20%F0%9F%8C%B4
 trojan://humanity@104.17.121.71:443?path=/assignment&security=tls&alpn=http/1.1&insecure=1&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmloud.com#𝗗𝗔𝗟𝗧𝗢𝗡 𝗣𝗜𝗡𝗚
-trojan://humanity@104.17.121.71:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=0&sni=www.creationlong.org#@ProxyEliteVPN
 trojan://humanity@104.17.121.71:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#@icv2ray
 trojan://humanity@104.17.121.71:443?path=/assignment&security=tls&insecure=0&host=www.multiplydose.com&type=ws&allowInsecure=0&sni=www.multiplydose.com#@bored_vpn
 trojan://humanity@104.17.121.71:443?path=/assignment&security=tls&insecure=0&host=www.multiplydose.com&type=ws&allowInsecure=0&sni=www.multiplydose.com#@vpnbaz 🏓
