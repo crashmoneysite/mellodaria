@@ -47,7 +47,6 @@ vless://a6f1755f-0140-4bea-8727-0db1bed7c4df@104.17.156.197:443?allowInsecure=1&
 vless://a6f1755f-0140-4bea-8727-0db1bed7c4df@104.25.252.37:443?security=tls&type=ws&path=/&host=juzi.qea.ccwu.cc&sni=juzi.qea.ccwu.cc&fp=chrome&encryption=none@kurdconfig
 vless://afc4be1d-07cc-4a73-a4ad-90c3d333efa0@104.17.121.71:443?encryption=none&security=tls&sni=ads.ruangguru.com.cyylr.eu.cc&type=ws&host=ads.ruangguru.com.cyylr.eu.cc&path=/id-tksi#🇨🇦43942 | ⚡️Telegram = t.me/SOSkeyNET
 vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@172.64.33.162:443?path=/udfyfws&security=tls&encryption=none&host=octopusss5.info&type=ws&sni=octopusss5.info#🇫🇮 t.me/Natrixo AA
-vless://cc752a3e-1537-4e86-bb50-1b897bf7b33c@202.37.33.80:443?Telegram=@armindone,@armindone,@armindone,@armindone&alpn=http/1.1&encryption=none&fp=chrome&host=cyylr.eu.cc&path=/sg-melbi&security=tls&sni=cyylr.eu.cc&type=ws#@armindone👈چنل تلگراممون
 vless://cc752a3e-1537-4e86-bb50-1b897bf7b33c@support.zoom.us.cyylr.eu.cc:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&type=ws&path=/sg-melbi&host=&sni=&fp=chrome&encryption=none#@GozargahAzad|🏁
 vless://cff04824-47a3-4a85-a9df-83af9181f84c@45.130.125.0:443?path=/in-pdr&security=tls&encryption=none&insecure=0&host=zaintest.vuclip.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=zaintest.vuclip.com.cyylr.eu.cc#@filembad
 vless://e84064cc-617f-4ba8-aa6f-13e920fd2610@104.21.23.131:80?security=none&type=ws&path=/&host=main.boobie.eu.cc#🇨🇦44060 | ⚡️Telegram = t.me/SOSkeyNET
