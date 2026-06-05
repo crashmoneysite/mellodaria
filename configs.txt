@@ -121,7 +121,7 @@ vless://559ab675-567f-4d61-a742-877bfd51d87c@188.114.97.6:443?path=/in-do&securi
 vless://58341346-98dd-4094-a26c-c378e86261e1@104.16.75.127:443?encryption=none&type=ws&security=tls&path=/in-pdr&host=support.zoom.us.cyylr.eu.cc&sni=support.zoom.us.cyylr.eu.cc&allowInsecure=0#🇩🇪3
 vless://58341346-98dd-4094-a26c-c378e86261e1@188.114.97.6:443?path=/in-pdr&security=tls&encryption=none&insecure=0&host=support.zoom.us.cyylr.eu.cc&type=ws&allowInsecure=0&sni=support.zoom.us.cyylr.eu.cc#@filtershekan_channel |10
 vless://65b59dc4-216b-4fbb-a2db-2e21469532f1@45.130.125.160:443?path=/id-tksi&security=tls&encryption=none&insecure=0&host=graph.instagram.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=graph.instagram.com.cyylr.eu.cc#@nitruStore | 628 🐚
-vless://6682035b-8de0-4603-9e8a-b496857897b2@n6.asmdns.net:2095?path=/&security=none&encryption=none&host=n5.asmdns.net&type=ws#@NETMelliAnti
+vless://1b730662-586f-486f-8b7b-60a93d804175@188.114.97.6:443?path=/ae-bo&security=tls&encryption=none&insecure=0&host=graph.instagram.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=graph.instagram.com.cyylr.eu.cc#@NETMelliAnti
 vless://6e593426-1a8e-4226-984f-0ea174e218c7@216.24.57.1:443?path=/id-pusat&security=tls&encryption=none&insecure=0&host=dl.cvs.freefiremobile.com.cyylr.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=dl.cvs.freefiremobile.com.cyylr.eu.cc&brand=@Arvand_soul#@Arvand_soul @Arvand_soul ❤️🧑‍💻: کانفیگ ملی در
 vless://88806cd6-9686-4eea-92c8-7f8baf7d1505@89.116.46.210:80/?type=ws&encryption=none&flow=&host=unnes.ac.id.cyylr.eu.cc&path=/in-pdr#[71222] - Telegram : @V2All
 vless://88806cd6-9686-4eea-92c8-7f8baf7d1505@89.116.46.210:80?encryption=none&host=unnes.ac.id.cyylr.eu.cc&path=/in-pdr&security=none&type=ws#🖲️37@oneclickvpnkeys
