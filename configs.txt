@@ -59,7 +59,6 @@ trojan://humanity@104.18.152.229:443?path=/assignment&security=tls&insecure=0&ho
 trojan://humanity@104.19.229.21:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🦉@FreeConfigForYou
 trojan://humanity@216.24.57.7:443/?type=ws&host=www.ignitelimit.com&path=/assignment&security=tls&sni=www.ignitelimit.com#🇺🇸 آمریکا | https://t.me/FREECONFIGSPLUS ✨
 trojan://humanity@216.24.57.7:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#@v2ray313 کانالمون 😄
-trojan://humanity@45.130.125.160:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#@Filtershekan_channel |12
 vless://0e9dd08d-e341-4c5d-b116-923842f5a9f9@188.114.97.6:443?path=/sg-melbi&security=tls&encryption=none&insecure=0&host=web.whatsapp.com.cyylr.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=web.whatsapp.com.cyylr.eu.cc#@Arvand_soul ❤️🧑‍💻کانفیگ نت ملی#4
 vless://12d8b109-394d-4d0c-a208-2b9a41f09f36@188.114.97.6:443?path=/my-wbv&security=tls&encryption=none&insecure=0&host=ads.ruangguru.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=ads.ruangguru.com.cyylr.eu.cc#TEL:Father_vpn
 vless://144847c2-6a94-4e0d-ad80-8779d7e083f1@162.159.233.191:443?path=/ae-bo&security=tls&encryption=none&insecure=0&host=edu.ruangguru.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=edu.ruangguru.com.cyylr.eu.cc#🌾 @ProxyVPN11
