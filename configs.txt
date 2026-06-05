@@ -115,7 +115,6 @@ trojan://humanity@208.103.161.170:443?path=/assignment&security=tls&alpn=http/1.
 trojan://humanity@212.183.88.136:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#@v2ray313 کانالمون ✨
 trojan://humanity@216.24.57.7:443/?type=ws&host=www.ignitelimit.com&path=/assignment&security=tls&sni=www.ignitelimit.com#🇺🇸 آمریکا | https://t.me/FREECONFIGSPLUS ✨
 trojan://humanity@216.24.57.7:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#@v2ray313 کانالمون 😄
-trojan://humanity@43.169.18.179:443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org&brand=@Arvand_soul#@Arvand_soul @Arvand_soul ❤️🧑‍💻: کانفیگ ملی در
 trojan://humanity@45.130.125.0:443?path=/assignment&security=tls&alpn=http/1.1&host=www.calmloud.com&fp=chrome&type=ws&sni=www.calmloud.com#@outline_ir
 trojan://humanity@45.130.125.0:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#@mtproto_proserver
 trojan://humanity@45.130.125.160:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#🕊️Tel: @Proxy_Vpney (11)
@@ -158,7 +157,6 @@ vless://49e9da45-aecc-463b-abe7-abfed1d2086b@188.114.97.6:80?path=/sg-orcl&secur
 vless://559ab675-567f-4d61-a742-877bfd51d87c@188.114.97.6:443?path=/in-do&security=tls&encryption=none&insecure=0&host=zaintest.vuclip.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=zaintest.vuclip.com.cyylr.eu.cc#🇵🇪@FreakConfig
 vless://58341346-98dd-4094-a26c-c378e86261e1@104.16.75.127:443?encryption=none&type=ws&security=tls&path=/in-pdr&host=support.zoom.us.cyylr.eu.cc&sni=support.zoom.us.cyylr.eu.cc&allowInsecure=0#🇩🇪3
 vless://58341346-98dd-4094-a26c-c378e86261e1@188.114.97.6:443?path=/in-pdr&security=tls&encryption=none&insecure=0&host=support.zoom.us.cyylr.eu.cc&type=ws&allowInsecure=0&sni=support.zoom.us.cyylr.eu.cc#@filtershekan_channel |10
-vless://62cb1273-d55e-4550-bc4f-1116fafe7f6b@panel.dibaux.ir:80?encryption=none&host=panel.dibaux.ir&path=/stream&security=none&type=ws#🇩🇪49459 | ⚡️Telegram = t.me/SOSkeyNET
 vless://65b59dc4-216b-4fbb-a2db-2e21469532f1@45.130.125.160:443?path=/id-tksi&security=tls&encryption=none&insecure=0&host=graph.instagram.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=graph.instagram.com.cyylr.eu.cc#@nitruStore | 628 🐚
 vless://6682035b-8de0-4603-9e8a-b496857897b2@n6.asmdns.net:2095?path=/&security=none&encryption=none&host=n5.asmdns.net&type=ws#@NETMelliAnti
 vless://6e593426-1a8e-4226-984f-0ea174e218c7@216.24.57.1:443?path=/id-pusat&security=tls&encryption=none&insecure=0&host=dl.cvs.freefiremobile.com.cyylr.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=dl.cvs.freefiremobile.com.cyylr.eu.cc&brand=@Arvand_soul#@Arvand_soul @Arvand_soul ❤️🧑‍💻: کانفیگ ملی در
@@ -209,9 +207,6 @@ vless://d2992c0d-53cb-489c-85af-5eb80e6d9e79@141.193.213.30:443?path=/in-do&secu
 vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@162.159.12.41:443?encryption=none&host=hhlfy.twiladaphne.ndjp.net&path=/fp=chrome&security=tls&sni=hhlfy.twiladaphne.ndjp.net&type=ws#🖲️45@oneclickvpnkeys
 vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@162.159.60.231:443/?type=ws&encryption=none&flow=&host=hhlfy.twiladaphne.ndjp.net&path=/fp=chrome&security=tls&sni=hhlfy.twiladaphne.ndjp.net&alpn=networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-#[71236] - Telegram : @V2All
 vless://e84064cc-617f-4ba8-aa6f-13e920fd2610@104.21.23.131:80?Telegram=&Telegram=&Telegram=&Telegram=&Telegram=&encryption=none&host=main.boobie.eu.cc&path=/&security=none&type=ws#kurdconfig
-vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@185.18.250.245:443?encryption=none&fp=chrome&host=octopusss4.com&path=/tsghdws&security=tls&sni=octopusss4.com&type=ws#🖲️87@oneclickvpnkeys
-vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@185.18.250.252:443?encryption=none&type=ws&security=tls&path=/tsghdws&host=octopusss4.com&sni=octopusss4.com&allowInsecure=1#2https://t.me/ConfigX2ray
-vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@188.114.97.6:443?path=/tsghdws&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=octopusss4.com&fp=chrome&type=ws&allowInsecure=0&sni=octopusss4.com#@v2ray_configs_pools 👈 تلگرام
 vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@188.114.97.6:443?path=/tsghdws&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=1&host=octopusss4.com&fp=chrome&type=ws&allowInsecure=1&sni=octopusss4.com#@v2raybaaz
 vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@188.114.97.6:443?path=/tsghdws&security=tls&encryption=none&insecure=0&host=octopusss4.com&fp=chrome&type=ws&allowInsecure=0&sni=octopusss4.com#@meliproxyy
 vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@188.114.97.6:443?path=/tsghdws?brand=@Arvand_soul&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=octopusss4.com&fp=chrome&type=ws&allowInsecure=0&sni=octopusss4.com&brand=@Arvand_soul#@Arvand_soul ❤️🧑‍💻: کانفیگ ملی در
@@ -225,7 +220,6 @@ vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@45.130.125.160:443?encryption=none&
 vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@45.130.125.160:443?path=/tsghdws&security=tls&encryption=none&host=octopusss4.com&type=ws&sni=octopusss4.com#@outline_ir
 vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@66.81.247.155:443?encryption=none&fp=chrome&host=octopusss4.com&path=/tsghdws&security=tls&sni=octopusss4.com&type=ws#🖲️100@oneclickvpnkeys
 vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@89.116.46.210:443?path=/tsghdws&security=tls&encryption=none&insecure=1&host=octopusss4.com&type=ws&allowInsecure=1&sni=octopusss4.com#🇩🇪49390 | ⚡️Telegram = t.me/SOSkeyNET
-vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@betty.ns.cloudflare.com:443?path=/tsghdws&security=tls&encryption=none&host=octopusss4.com&fp=chrome&type=ws&sni=octopusss4.com#@HiByeVPNN ❤️‍🔥🧧🔥 3
 trojan://humanity@104.20.42.250:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmloud.com&fp=ios&type=ws&allowInsecure=0&sni=www.calmloud.com#%3E%3E%40configV2rayNG%3A%3AFR
 trojan://humanity@104.20.6.134:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#%3E%3E%40prrofile_purple%3A%3AFR
 trojan://humanity@104.17.121.9:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&host=www.calmlunch.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmlunch.com#%3E%3E%40v2ray1_ng%3A%3AFR
@@ -240,7 +234,6 @@ vless://cc752a3e-1537-4e86-bb50-1b897bf7b33c@202.37.33.80:443/?Telegram=@Gozarga
 vless://e84064cc-617f-4ba8-aa6f-13e920fd2610@104.21.23.131:80?encryption=none&host=main.boobie.eu.cc&path=%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFI
 vless://bbcfe26b-32a3-49b1-a357-d4b9d28ac919@cyylr.eu.cc:443?encryption=none&security=tls&sni=ads.ruangguru.com.cyylr.eu.cc&type=ws&host=ads.ruangguru.com.cyylr.eu.cc&path=%2Fid-tksi#🔵@chillguy_vpn
 trojan://humanity@www.ignitelimit.com:443?alpn=http%2F1.1&host=www.ignitelimit.com&path=%2Fassignment&security=tls&type=ws#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-trojan://humanity@43.169.18.179:443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 trojan://humanity@172.67.180.92:443?path=%2Fassignment&security=tls&host=www.multiplydose.com&fp=chrome&type=ws&sni=www.multiplydose.com#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 trojan://A_amr79@188.114.97.6:443?type=ws&host=cyylr.eu.cc&path=%2Fin-pdr&security=tls&sni=cyylr.eu.cc#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 vmess://eyJ2IjoiMiIsImFkZCI6IjEwNC4yMS4zLjUyIiwicG9ydCI6IjgwIiwiaWQiOiI1OGZlMTU0Mi01MjkwLTQwYWQtODE1YS03NzcwN2E4MWFmZTUiLCJhaWQiOiIwIiwic2N5IjoiY2hhY2hhMjAtcG9seTEzMDUiLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJ0bHMiOiIiLCJwYXRoIjoiL0lPZWJoTE1obDFDVGJGSGJMOTVteWZSWDIiLCJob3N0IjoiZGUyLnBpbmctZ2FtZS5pciIsInBzIjoiaGFtZWRwNzE6OvCfh6nwn4eqIn0
