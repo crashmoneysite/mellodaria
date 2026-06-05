@@ -87,7 +87,6 @@ trojan://humanity@216.24.57.7:443?path=/assignment&security=tls&insecure=0&host=
 trojan://humanity@45.130.125.160:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#@Filtershekan_channel |12
 trojan://humanity@45.130.125.160:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com&brand=@Arvand_soul#@Arvand_soul ❤️🧑‍💻: کانفیگ ملی در #4
 trojan://humanity@45.130.125.76:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#⚡Tel: @Proxy_Vpney (3)
-trojan://humanity@45.130.125.76:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#@Proxy_Vpney (6)
 trojan://humanity@45.130.125.76:443?type=ws&security=tls&path=/assignment&host=www.calmlunch.com&sni=www.calmlunch.com&alpn=http/1.1&allowInsecure=0#.2. WiFi 🍀 @RzChanel1
 trojan://humanity@chatgpt.com:443?path=/assignment&security=tls&host=www.gossipglove.com&type=ws&sni=www.gossipglove.com#🇨🇦49540 | ⚡️Telegram = t.me/SOSkeyNET
 trojan://humanity@www.multiplydose.com:443?path=/assignment&security=tls&fp=chrome&type=ws&sni=www.multiplydose.com#@CUSTOMVPNSERVER
@@ -168,7 +167,6 @@ vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@162.159.60.231:443/?type=ws&encrypt
 vless://e84064cc-617f-4ba8-aa6f-13e920fd2610@104.21.23.131:80?Telegram=&Telegram=&Telegram=&Telegram=&Telegram=&encryption=none&host=main.boobie.eu.cc&path=/&security=none&type=ws#kurdconfig
 vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@66.81.247.155:443?encryption=none&fp=chrome&host=octopusss4.com&path=/tsghdws&security=tls&sni=octopusss4.com&type=ws#🖲️100@oneclickvpnkeys
 vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@89.116.46.210:443?path=/tsghdws&security=tls&encryption=none&insecure=1&host=octopusss4.com&type=ws&allowInsecure=1&sni=octopusss4.com#🇩🇪49390 | ⚡️Telegram = t.me/SOSkeyNET
-trojan://humanity@104.20.6.134:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#%3E%3E%40prrofile_purple%3A%3AFR
 trojan://humanity@104.17.121.9:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&host=www.calmlunch.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmlunch.com#%3E%3E%40v2ray1_ng%3A%3AFR
 trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#%3E%3E%40outline_vpn%3A%3AFR
 vless://1ce9392f-caf4-48f7-bbb9-475b101fbde0@188.114.97.6:443?path=%2Fid-tksi&security=tls&encryption=none&host=graph.instagram.com.cyylr.eu.cc&type=ws&sni=graph.instagram.com.cyylr.eu.cc#%3E%3E%40v2ray1_ng%3A%3AUS
