@@ -38,11 +38,9 @@ vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@141.193.213.30:443?encryption=none&
 vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@141.193.213.10:443?encryption=none&type=ws&security=tls&path=%2Ftsghdws&host=octopusss4.com&sni=octopusss4.com&allowInsecure=1#13https://t.me/irconfiig
 vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@89.116.46.68:443?encryption=none&type=ws&security=tls&path=%2Ftsghdws&host=octopusss4.com&sni=octopusss4.com&allowInsecure=1#14https://t.me/irconfiig`
 trojan://humanity@45.130.125.96:443?security=tls&type=ws&sni=www.calmloud.com&path=/assignment&host=www.calmloud.com#%E6%9C%AA%E7%9F%A5
-trojan://humanity@104.17.121.71:443?security=tls&type=ws&sni=www.calmloud.com&path=/assignment&host=www.calmloud.com#%E6%9C%AA%E7%9F%A57
 trojan://humanity@185.18.250.252:443?security=tls&type=ws&sni=www.calmloud.com&path=/assignment&host=www.calmloud.com#%E6%9C%AA%E7%9F%A59
 trojan://humanity@45.130.125.0:443?security=tls&type=ws&sni=www.calmloud.com&path=/assignment&host=www.calmloud.com#%E6%9C%AA%E7%9F%A511
 trojan://humanity@104.20.6.134:443?security=tls&type=ws&sni=www.calmloud.com&path=/assignment&host=www.calmloud.com#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD8
-trojan://humanity@66.81.247.155:443?security=tls&type=ws&sni=www.calmloud.com&path=/assignment&host=www.calmloud.com#%E6%9C%AA%E7%9F%A517
 trojan://humanity@89.116.46.68:443?security=tls&type=ws&sni=www.calmloud.com&path=/assignment&host=www.calmloud.com#%E6%9C%AA%E7%9F%A519
 trojan://humanity@104.18.152.229:443?security=tls&type=ws&sni=www.ignitelimit.com&path=/assignment&host=www.ignitelimit.com#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD12
 trojan://humanity@162.159.195.173:443?security=tls&type=ws&sni=www.calmloud.com&path=/assignment&host=www.calmloud.com#%E6%9C%AA%E7%9F%A521
@@ -95,7 +93,6 @@ vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@172.64.146.138:443?allowInsecure=1&
 vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@172.64.146.68:443?encryption=none&security=tls&sni=octopusss4.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=octopusss4.com&path=/tsghdws#@mtproto_proserver
 vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@172.64.32.75:443?path=/tsghdws&security=tls&encryption=none&host=octopusss4.com&fp=chrome&type=ws&sni=octopusss4.com#@HiByeVPNN ❤️‍🔥🧧🔥 61
 vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@172.66.47.45:443?encryption=none&host=octopusss4.com&path=/tsghdws&security=tls&sni=octopusss4.com&type=ws#🚀@VPNine1
-trojan://humanity@141.193.213.21:443?path=/assignment&security=tls&alpn=http/1.1&host=www.calmloud.com&fp=chrome&type=ws&sni=www.calmloud.com#@hi_proxy_iran :👈کانال تلگرام
 vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@betty.ns.cloudflare.com:443?path=/tsghdws&security=tls&encryption=none&host=octopusss4.com&fp=chrome&type=ws&sni=octopusss4.com#@HiByeVPNN ❤️‍🔥🧧🔥 3
 vmess://eyJhZGQiOiJkZTQubmlla290aW4uZGUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMzhlZDVkNzAtNDQzZS00YWMzLWI4NzctZWEyMWQ5N2ZlZDkzIiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL3ZtZXNzIiwicG9ydCI6IjgwIiwicHMiOiJAZmFzdGthbmZpZyAzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
 trojan://humanity@104.17.121.9:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&host=www.calmlunch.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmlunch.com#%3E%3E%40v2ray1_ng%3A%3AFR
