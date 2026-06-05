@@ -143,11 +143,9 @@ vless://1a5b24bc-6180-4fa7-922d-ba7ee8a7a2b7@103.18.49.100:443?path=/id-pusat&se
 vless://1a5b24bc-6180-4fa7-922d-ba7ee8a7a2b7@216.24.57.1:443?alpn=http/1.1&encryption=none&fp=chrome&host=support.zoom.us.cyylr.eu.cc&path=/id-pusat&security=tls&sni=support.zoom.us.cyylr.eu.cc&type=ws#🖲️60@oneclickvpnkeys
 vless://1b730662-586f-486f-8b7b-60a93d804175@188.114.97.6:443?path=/ae-bo&security=tls&encryption=none&insecure=0&host=graph.instagram.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=graph.instagram.com.cyylr.eu.cc#@NETMelliAnti
 vless://1eb8c38b-0bc2-4a6f-a860-5239c446abc8@45.130.125.0:443?path=/sg-amz&security=tls&encryption=none&insecure=0&host=support.zoom.us.cyylr.eu.cc&type=ws&allowInsecure=0&sni=support.zoom.us.cyylr.eu.cc#@Outline_ir
-vless://20a25a96-61df-4a4f-8424-165fc9cfc84e@172.64.144.162:2096/?type=ws&encryption=none&flow=&host=empty-band-d17d.raana2710.workers.dev&path=/&ed=2048&eh=Sec-WebSocket-Protocol&security=tls&sni=empty-band-d17d.raana2710.workers.dev#[71238] - Telegram : @V2All
 vless://228639b0-48de-4162-a818-d5651ee297b3@27.50.48.49:443/?type=ws&encryption=none&flow=&host=investors.spotify.com.cyylr.eu.cc&path=/in-do&security=tls&sni=investors.spotify.com.cyylr.eu.cc#🖲️52@oneclickvpnkeys
 vless://228639b0-48de-4162-a818-d5651ee297b3@27.50.48.49:443?encryption=none&host=investors.spotify.com.cyylr.eu.cc&path=/in-do&security=tls&sni=investors.spotify.com.cyylr.eu.cc&type=ws#🖲️53@oneclickvpnkeys
-trojan://humanity@45.130.125.69:443?type=ws&security=tls&path=/assignment&host=www.calmloud.com&sni=www.calmloud.com&alpn=http/1.1&fp=chrome&allowInsecure=1#11https://t.me/ConfigX2ray
-vless://228639b0-48de-4162-a818-d5651ee297b3@27.50.48.49:443?path=/in-do&security=tls&encryption=none&insecure=0&host=investors.spotify.com.cyylr.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=investors.spotify.com.cyylr.eu.cc#@filembad
+trojan://humanity@188.114.97.6:443?path=/assignment&security=tls&insecure=0&host=www.calmloud.com&type=ws&allowInsecure=0&sni=www.calmloud.com#@filembad
 vless://228639b0-48de-4162-a818-d5651ee297b3@27.50.48.49:443?path=/in-do&security=tls&encryption=none&insecure=0&host=investors.spotify.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=investors.spotify.com.cyylr.eu.cc#@V2raySup0 | 🚀
 vless://2dc797c8-9588-48a6-bc4a-265c23d87cd6@208.103.161.170:443?path=/id-pusat&security=tls&encryption=none&insecure=0&host=ava.game.naver.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=ava.game.naver.com.cyylr.eu.cc#@v2reya88 | @confinghub2
 vless://334e484f-7f7c-4895-a6e4-8951de2626f8@188.114.97.6:443?path=/ae-bo&security=tls&encryption=none&host=unnes.ac.id.cyylr.eu.cc&type=ws&sni=unnes.ac.id.cyylr.eu.cc#⚡@V2ray_official
@@ -170,7 +168,6 @@ vless://65b59dc4-216b-4fbb-a2db-2e21469532f1@45.130.125.160:443?path=/id-tksi&se
 vless://6682035b-8de0-4603-9e8a-b496857897b2@n6.asmdns.net:2095?path=/&security=none&encryption=none&host=n5.asmdns.net&type=ws#@NETMelliAnti
 vless://6e593426-1a8e-4226-984f-0ea174e218c7@216.24.57.1:443?path=/id-pusat&security=tls&encryption=none&insecure=0&host=dl.cvs.freefiremobile.com.cyylr.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=dl.cvs.freefiremobile.com.cyylr.eu.cc&brand=@Arvand_soul#@Arvand_soul @Arvand_soul ❤️🧑‍💻: کانفیگ ملی در
 vless://7d74eae4-8a06-4306-a923-ad686f30bf26@57.129.41.216:80?encryption=none&host=OV-Germany1.09vpn.com&path=/vless/&security=none&type=ws#🖲️46@oneclickvpnkeys
-vless://8525fe74-67e6-4a55-8a26-95f227bd1384@46.101.196.101:2096?encryption=none&fp=chrome&host=lucky-sky-0104.alvlirm444.workers.dev&path=/&security=tls&sni=lucky-sky-0104.alvlirm444.workers.dev&type=ws#🖲️42@oneclickvpnkeys
 vless://88806cd6-9686-4eea-92c8-7f8baf7d1505@89.116.46.210:80/?type=ws&encryption=none&flow=&host=unnes.ac.id.cyylr.eu.cc&path=/in-pdr#[71222] - Telegram : @V2All
 vless://88806cd6-9686-4eea-92c8-7f8baf7d1505@89.116.46.210:80?encryption=none&host=unnes.ac.id.cyylr.eu.cc&path=/in-pdr&security=none&type=ws#🖲️37@oneclickvpnkeys
 vless://89daf4a8-91fa-4331-ae40-66aef6ab6d32@188.114.97.6:80?encryption=none&host=grabacademyportal.grab.com.cyylr.eu.cc&path=/my-wbv&security=none&type=ws#🖲️71@oneclickvpnkeys
