@@ -130,7 +130,6 @@ trojan://humanity@45.130.125.76:443?type=ws&security=tls&path=/assignment&host=w
 trojan://humanity@chatgpt.com:443?path=/assignment&security=tls&host=www.gossipglove.com&type=ws&sni=www.gossipglove.com#🇨🇦49540 | ⚡️Telegram = t.me/SOSkeyNET
 trojan://humanity@sourceforge.net:443?path=/assignment&security=tls&alpn=http/1.1&host=www.calmloud.com&fp=chrome&allowinsecure=0&type=ws&sni=www.calmloud.com#@V2RFA
 trojan://humanity@www.calmloud.com:443?type=ws&security=tls&path=/assignment&sni=www.calmloud.com&alpn=http/1.1&allowInsecure=1#16https://t.me/ConfigX2ray
-trojan://humanity@www.creationlong.org:443?path=/assignment&security=tls&alpn=http/1.1&host=www.creationlong.org&fp=chrome&type=ws#@HiByeVPNN ❤️‍🔥🧧🔥 18
 trojan://humanity@www.multiplydose.com:443?path=/assignment&security=tls&fp=chrome&type=ws&sni=www.multiplydose.com#@CUSTOMVPNSERVER
 trojan://humanity@www.multiplydose.com:443?path=/assignment&security=tls&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=www.multiplydose.com#⚡Telegram =@CUSTOMVPNSERVER
 vless://08633db1-df68-48c6-90d7-5cbf7e1465bc@113.30.151.151:8443?encryption=none&security=tls&sni=rose.netfre.space&fp=chrome&alpn=h3,h2,http/1.1&insecure=0&allowInsecure=0&type=ws&host=rose.netfre.space&path=/@RoseCommunity?ed=2052#@RoseCommunity-2
@@ -197,7 +196,6 @@ vless://cc752a3e-1537-4e86-bb50-1b897bf7b33c@104.16.72.139:443/?type=ws&encrypti
 vless://cc752a3e-1537-4e86-bb50-1b897bf7b33c@104.16.72.139:443?encryption=none&fp=chrome&host=cyylr.eu.cc&path=/sg-melbi&security=tls&sni=cyylr.eu.cc&type=ws#🖲️32@oneclickvpnkeys
 vless://cc752a3e-1537-4e86-bb50-1b897bf7b33c@104.16.74.121:443?encryption=none&fp=chrome&host=cyylr.eu.cc&path=/sg-melbi&security=tls&sni=cyylr.eu.cc&type=ws#🖲️52@oneclickvpnkeys
 vless://cc752a3e-1537-4e86-bb50-1b897bf7b33c@104.18.153.188:443?path=/sg-melbi&security=tls&encryption=none&insecure=0&host=cyylr.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=cyylr.eu.cc#@filembad
-vless://9232a847-8f7d-4548-a23a-a8b3550e0f15@141.193.213.11:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&type=ws&security=tls&path=/id-tksi&host=grabacademyportal.grab.com.cyylr.eu.cc&sni=grabacademyportal.grab.com.cyylr.eu.cc&allowInsecure=0#@GozargahAzad|🏁
 vless://cc752a3e-1537-4e86-bb50-1b897bf7b33c@104.19.229.21:443?encryption=none&type=ws&security=tls&path=/sg-melbi&host=cyylr.eu.cc&sni=cyylr.eu.cc&allowInsecure=0#17https://t.me/ConfigX2ray
 vless://cc752a3e-1537-4e86-bb50-1b897bf7b33c@104.19.229.21:443?path=/sg-melbi&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=cyylr.eu.cc&type=ws&allowInsecure=0&sni=cyylr.eu.cc#@Outline_ir
 vless://cc752a3e-1537-4e86-bb50-1b897bf7b33c@104.19.229.21:443?path=/sg-melbi&security=tls&encryption=none&insecure=0&host=cyylr.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=cyylr.eu.cc&brand=@Arvand_soul#@Arvand_soul @Arvand_soul ❤️🧑‍💻: کانفیگ ملی در #7
