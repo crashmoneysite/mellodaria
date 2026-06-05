@@ -89,14 +89,13 @@ vless://7d74eae4-8a06-4306-a923-ad686f30bf26@ov-germany1.09vpn.com:80?encryption
 vless://9168313a-6528-4567-ab18-173c8c86fc26@hd.teleincognito.com:80?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=hd.teleincognito.com&path=/tdM8fSnq1aRrgXTanQ7vaHEIH3&security=none&type=ws#♾️54@oneclickvpnkeys
 vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@141.193.213.10:443?path=/tsghdws&security=tls&encryption=none&insecure=0&host=octopusss4.com&fp=chrome&type=ws&allowInsecure=0&sni=octopusss4.com#@FarazV2ray
 vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@141.193.213.10:443?path=/tsghdws&security=tls&encryption=none&insecure=0&host=octopusss4.com&type=ws&allowInsecure=0&sni=octopusss4.com#@Filtershekan_channel |13
-trojan://humanity@141.193.213.21:443?type=ws&security=tls&path=/assignment&host=www.calmloud.com&sni=www.calmloud.com&alpn=http/1.1&fp=chrome&allowInsecure=0#@meliproxyy
 vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@141.193.213.21:443?path=/tsghdws&security=tls&encryption=none&insecure=0&host=octopusss4.com&type=ws&allowInsecure=0&sni=octopusss4.com#@Ap_Ir6
 vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@141.193.213.30:443?path=/tsghdws&security=tls&encryption=none&insecure=1&host=octopusss4.com&type=ws&allowInsecure=1&sni=octopusss4.com#@fastkanfig
 vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@172.64.146.138:443?allowInsecure=1&encryption=none&host=octopusss4.com&path=/tsghdws&security=tls&sni=octopusss4.com&type=ws#♾️72@oneclickvpnkeys
 vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@172.64.146.68:443?encryption=none&security=tls&sni=octopusss4.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=octopusss4.com&path=/tsghdws#@mtproto_proserver
 vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@172.64.32.75:443?path=/tsghdws&security=tls&encryption=none&host=octopusss4.com&fp=chrome&type=ws&sni=octopusss4.com#@HiByeVPNN ❤️‍🔥🧧🔥 61
 vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@172.66.47.45:443?encryption=none&host=octopusss4.com&path=/tsghdws&security=tls&sni=octopusss4.com&type=ws#🚀@VPNine1
-vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@89.116.46.68:443?path=/tsghdws&security=tls&encryption=none&host=octopusss4.com&type=ws&sni=octopusss4.com#@hi_proxy_iran :👈کانال تلگرام
+trojan://humanity@141.193.213.21:443?path=/assignment&security=tls&alpn=http/1.1&host=www.calmloud.com&fp=chrome&type=ws&sni=www.calmloud.com#@hi_proxy_iran :👈کانال تلگرام
 vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@betty.ns.cloudflare.com:443?path=/tsghdws&security=tls&encryption=none&host=octopusss4.com&fp=chrome&type=ws&sni=octopusss4.com#@HiByeVPNN ❤️‍🔥🧧🔥 3
 vmess://eyJhZGQiOiJkZTQubmlla290aW4uZGUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMzhlZDVkNzAtNDQzZS00YWMzLWI4NzctZWEyMWQ5N2ZlZDkzIiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL3ZtZXNzIiwicG9ydCI6IjgwIiwicHMiOiJAZmFzdGthbmZpZyAzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
 trojan://humanity@104.17.121.9:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&host=www.calmlunch.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmlunch.com#%3E%3E%40v2ray1_ng%3A%3AFR
