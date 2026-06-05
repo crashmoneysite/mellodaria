@@ -164,7 +164,6 @@ vless://62cb1273-d55e-4550-bc4f-1116fafe7f6b@panel.dibaux.ir:80?encryption=none&
 vless://65b59dc4-216b-4fbb-a2db-2e21469532f1@45.130.125.160:443?path=/id-tksi&security=tls&encryption=none&insecure=0&host=graph.instagram.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=graph.instagram.com.cyylr.eu.cc#@nitruStore | 628 🐚
 vless://6682035b-8de0-4603-9e8a-b496857897b2@n6.asmdns.net:2095?path=/&security=none&encryption=none&host=n5.asmdns.net&type=ws#@NETMelliAnti
 vless://6e593426-1a8e-4226-984f-0ea174e218c7@216.24.57.1:443?path=/id-pusat&security=tls&encryption=none&insecure=0&host=dl.cvs.freefiremobile.com.cyylr.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=dl.cvs.freefiremobile.com.cyylr.eu.cc&brand=@Arvand_soul#@Arvand_soul @Arvand_soul ❤️🧑‍💻: کانفیگ ملی در
-vless://7d74eae4-8a06-4306-a923-ad686f30bf26@57.129.41.216:80?encryption=none&host=OV-Germany1.09vpn.com&path=/vless/&security=none&type=ws#🖲️46@oneclickvpnkeys
 vless://88806cd6-9686-4eea-92c8-7f8baf7d1505@89.116.46.210:80/?type=ws&encryption=none&flow=&host=unnes.ac.id.cyylr.eu.cc&path=/in-pdr#[71222] - Telegram : @V2All
 vless://88806cd6-9686-4eea-92c8-7f8baf7d1505@89.116.46.210:80?encryption=none&host=unnes.ac.id.cyylr.eu.cc&path=/in-pdr&security=none&type=ws#🖲️37@oneclickvpnkeys
 vless://89daf4a8-91fa-4331-ae40-66aef6ab6d32@188.114.97.6:80?encryption=none&host=grabacademyportal.grab.com.cyylr.eu.cc&path=/my-wbv&security=none&type=ws#🖲️71@oneclickvpnkeys
@@ -262,5 +261,4 @@ trojan://humanity@43.169.18.179:443?path=/assignment&security=tls&insecure=0&hos
 trojan://humanity@172.67.180.92:443?path=%2Fassignment&security=tls&host=www.multiplydose.com&fp=chrome&type=ws&sni=www.multiplydose.com#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 trojan://A_amr79@188.114.97.6:443?type=ws&host=cyylr.eu.cc&path=%2Fin-pdr&security=tls&sni=cyylr.eu.cc#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 vmess://eyJ2IjoiMiIsImFkZCI6IjEwNC4yMS4zLjUyIiwicG9ydCI6IjgwIiwiaWQiOiI1OGZlMTU0Mi01MjkwLTQwYWQtODE1YS03NzcwN2E4MWFmZTUiLCJhaWQiOiIwIiwic2N5IjoiY2hhY2hhMjAtcG9seTEzMDUiLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJ0bHMiOiIiLCJwYXRoIjoiL0lPZWJoTE1obDFDVGJGSGJMOTVteWZSWDIiLCJob3N0IjoiZGUyLnBpbmctZ2FtZS5pciIsInBzIjoiaGFtZWRwNzE6OvCfh6nwn4eqIn0
-vmess://eyJhZGQiOiI1Ny4xMzEuMzIuMTkxIiwiYWlkIjowLCJob3N0IjoiT1YtSXRhbHkxLjA5dnBuLmNvbSIsImlkIjoiODQ4YWYzM2MtODFmMi00MGM5LTkzYjItNDY4MWQwNTY5MzZiIiwibmV0Ijoid3MiLCJwYXRoIjoiL3ZtZXNzLyIsInBvcnQiOjg0NDMsInBzIjoiaGFtZWRwNzE6OvCfh67wn4e5Iiwic2N5IjoiYXV0byIsInNuaSI6Ik9WLUl0YWx5MS4wOXZwbi5jb20iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0
 vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@173.245.58.75:443?path=/tsghdws&security=tls&encryption=none&insecure=0&host=octopusss4.com&type=ws&allowInsecure=0&sni=octopusss4.com#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
