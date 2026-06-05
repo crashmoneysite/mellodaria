@@ -46,7 +46,6 @@ trojan://Config0plus@104.19.229.21:443?path=/in-pdr&security=tls&insecure=0&host
 trojan://Config0plus@185.18.250.252:443?path=/sg-melbi&security=tls&host=unnes.ac.id.cyylr.eu.cc&type=ws&sni=unnes.ac.id.cyylr.eu.cc#🛸@V2ray_official
 trojan://Config0plus@45.130.125.0:443/?type=ws&host=api24-normal.tiktokv.com.cyylr.eu.cc&path=/id-tksi&security=tls&sni=api24-normal.tiktokv.com.cyylr.eu.cc#🖲️58@oneclickvpnkeys
 trojan://Config0plus@45.130.125.0:443?path=/id-tksi&security=tls&host=api24-normal.tiktokv.com.cyylr.eu.cc&type=ws&sni=api24-normal.tiktokv.com.cyylr.eu.cc#@V2rayNG_Cafe
-trojan://386bd471-4e29-4e79-9a3c-6bc6076ce4b6@208.103.161.170:443?path=%2Fid-tksi&security=tls&host=edu.ruangguru.com.cyylr.eu.cc&type=ws&sni=edu.ruangguru.com.cyylr.eu.cc#%40hi_proxy_iran%20%3A%F0%9F%91%88%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
 trojan://Config0plus@45.130.125.160:443?path=/in-pdr&security=tls&insecure=0&host=investors.spotify.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=investors.spotify.com.cyylr.eu.cc#@V2raySup0 | 🚀❗
 trojan://Config0plus@45.130.125.160:443?type=ws&security=tls&path=/id-tksi&host=api24-normal.tiktokv.com.cyylr.eu.cc&sni=api24-normal.tiktokv.com.cyylr.eu.cc&allowInsecure=0#3https://t.me/ConfigX2ray
 trojan://Config0plus@45.130.125.96:443?path=/in-pdr&security=tls&insecure=0&host=investors.spotify.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=investors.spotify.com.cyylr.eu.cc#@tootffarangi🍓 🔥 2
@@ -96,7 +95,6 @@ vless://1eb8c38b-0bc2-4a6f-a860-5239c446abc8@45.130.125.0:443?path=/sg-amz&secur
 vless://228639b0-48de-4162-a818-d5651ee297b3@27.50.48.49:443/?type=ws&encryption=none&flow=&host=investors.spotify.com.cyylr.eu.cc&path=/in-do&security=tls&sni=investors.spotify.com.cyylr.eu.cc#🖲️52@oneclickvpnkeys
 vless://228639b0-48de-4162-a818-d5651ee297b3@27.50.48.49:443?encryption=none&host=investors.spotify.com.cyylr.eu.cc&path=/in-do&security=tls&sni=investors.spotify.com.cyylr.eu.cc&type=ws#🖲️53@oneclickvpnkeys
 vless://228639b0-48de-4162-a818-d5651ee297b3@27.50.48.49:443?path=/in-do&security=tls&encryption=none&insecure=0&host=investors.spotify.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=investors.spotify.com.cyylr.eu.cc#@V2raySup0 | 🚀
-trojan://Config0plus@45.130.125.96:443?type=ws&security=tls&path=/id-tksi&host=api24-normal.tiktokv.com.cyylr.eu.cc&sni=api24-normal.tiktokv.com.cyylr.eu.cc&allowInsecure=0#@v2reya88 | @confinghub2
 vless://334e484f-7f7c-4895-a6e4-8951de2626f8@188.114.97.6:443?path=/ae-bo&security=tls&encryption=none&host=unnes.ac.id.cyylr.eu.cc&type=ws&sni=unnes.ac.id.cyylr.eu.cc#⚡@V2ray_official
 vless://3b01a777-55e7-49f6-8637-d94ee69607c6@188.114.97.6:443?path=/id-tksi&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=m.udemy.com.cyylr.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=m.udemy.com.cyylr.eu.cc#@icv2ray
 vless://3b01a777-55e7-49f6-8637-d94ee69607c6@202.37.33.81:443?encryption=none&type=ws&security=tls&path=/id-tksi&host=m.udemy.com.cyylr.eu.cc&sni=m.udemy.com.cyylr.eu.cc&allowInsecure=0#@meliproxyy
