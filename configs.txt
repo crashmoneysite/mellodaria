@@ -39,26 +39,14 @@ vless://a321980f-54ce-432a-862a-76035b9d78ad@141.193.213.10:443?encryption=none&
 vless://a6f1755f-0140-4bea-8727-0db1bed7c4df@162.159.18.105:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/&security=tls&encryption=none&insecure=0&host=juzi.qea.ccwu.cc&type=ws&allowInsecure=0&sni=juzi.qea.ccwu.cc#👉🆔@freenettir📡🇨🇦®️Canada©️Toronto🅿️ping:43.86ms
 vless://c148c68d-aba0-44b8-8f93-ded816246e2c@188.114.97.6:443?encryption=none&security=tls&sni=zaintest.vuclip.com.r3xxe.eu.cc&type=ws&host=zaintest.vuclip.com.r3xxe.eu.cc&path=/us-gllc#(US)+Google+LLC+
 trojan://humanity@45.130.125.160:443?type=ws&security=tls&path=%2Fassignment&host=www.calmlunch.com&sni=www.calmlunch.com&allowInsecure=0#
-trojan://humanity@185.18.250.245:443?type=ws&security=tls&path=%2Fassignment&host=www.calmlunch.com&sni=www.calmlunch.com&fp=random&allowInsecure=1#%40V2raysCollector%20%F0%9F%92%96
-trojan://humanity@104.16.174.185:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🕊️Tel: @Proxy_Vpney (4)
-trojan://humanity@104.17.121.71:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#@vpnbaz 🎏
 trojan://humanity@104.19.229.21:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🕊️Tel: @Proxy_Vpney (8)
 trojan://humanity@165.215.250.14:443?path=/assignment&security=tls&host=www.calmlunch.com&fp=chrome&type=ws&sni=www.calmlunch.com#telegram:@FVPNProxy
-trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com&note=@FreeOnlineVPN#🇫🇷 - FR - @FreeOnlineVPN
 trojan://humanity@185.18.250.252:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/assignment&security=tls&insecure=1&host=www.calmlunch.com&type=ws&allowInsecure=1&sni=www.calmlunch.com#👉🆔@freenettir📡🇪🇸®️Spain©️Madrid🅿️ping:46.45ms
-trojan://humanity@185.18.250.252:443?path=/assignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#🛸@V2ray_official
-trojan://humanity@185.18.250.252:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#@V2dogs_n
-trojan://humanity@212.183.88.136:443/?type=ws&host=www.calmlunch.com&path=/assignment&security=tls&sni=www.calmlunch.com#🇦🇹
 trojan://humanity@212.183.88.136:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#@v2ray313 کانالمون ✨
-trojan://humanity@45.130.125.160:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#@FASTKANFIG
 trojan://humanity@45.130.125.76:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#@YekeTarikh
-trojan://humanity@45.130.125.76:443?type=ws&security=tls&path=/assignment&host=www.calmlunch.com&sni=www.calmlunch.com&alpn=http/1.1&allowInsecure=0#.2. WiFi 🍀 @RzChanel1
-vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@152.228.162.19:80?path=/vless/&security=none&encryption=none&type=ws#@vmessorg
 vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@152.228.162.19:80?path=/vless/&security=none&encryption=none&type=ws#@vmessorg
 vless://5e042049-f74d-4ccc-a3ac-db27bca2ce99@hyst.purplrose.ir:8443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&host=bastani.purplrose.ir&fp=chrome&type=ws&sni=bastani.purplrose.ir#@on_proxy1
 vless://b585dc5e-55bf-4a8b-913a-27c9ccac05c3@149.202.58.99:443?path=/vws/&security=tls&encryption=none&insecure=0&host=bab-6.site&fp=chrome&type=ws&allowInsecure=0&sni=bab-6.site#@Outline_ir
-vless://bf2e4217-a1ad-41fb-88ac-4878956ae2db@45.130.125.158:443?path=/?edfp&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=sheynezterary.iran-tube-movie.ir&fp=chrome&type=ws&allowInsecure=0&sni=sheynezterary.iran-tube-movie.ir#@v2ray_configs_pools ⌁🚀
-vless://c7addea9-6d8a-48d6-8a00-aa99b8ece143@188.114.97.6:443?path=/path&security=tls&encryption=none&insecure=0&host=ws35.adsvxpro.com&fp=chrome&type=ws&allowInsecure=0&sni=ws35.adsvxpro.com#🛰️ Channel : @NitruStore 173
 vless://e84064cc-617f-4ba8-aa6f-13e920fd2610@172.67.211.74:80?encryption=none&host=main.boobie.eu.cc&path=/&security=none&type=ws#🇨🇦52752 | ⚡️Telegram = t.me/SOSkeyNET
 vmess://eyJhZGQiOiAic3BlZWR0ZXN0Lm9yZyIsICJhaWQiOiAwLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiZGUyLnBpbmctZ2FtZS5pciIsICJpZCI6ICI1OGZlMTU0Mi01MjkwLTQwYWQtODE1YS03NzcwN2E4MWFmZTUiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL0lPZWJoTE1obDFDVGJGSGJMOTVteWZSWDIiLCAicG9ydCI6IDgwLCAicHMiOiAiQFZQc2F2ZSIsICJzY3kiOiAiY2hhY2hhMjAtcG9seTEzMDUiLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
 trojan://humanity@104.17.121.9:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&host=www.calmlunch.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmlunch.com#%3E%3E%40v2ray1_ng%3A%3AFR
@@ -67,5 +55,4 @@ vless://7d74eae4-8a06-4306-a923-ad686f30bf26@ov-germany1.09vpn.com:80?encryption
 vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@ov-france1.09vpn.com:80?encryption=none&path=%2Fvless%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
 vmess://eyJ2IjpudWxsLCJwcyI6ImhhbWVkcDcxOjrwn4ep8J+HqiIsImFkZCI6ImRlNC5uaWVrb3Rpbi5kZSIsInBvcnQiOjgwLCJpZCI6ImU5YTJhYjlkLTU4NTgtNDliMy05NzIxLWQ3MzY0YjQxM2M0OCIsImFpZCI6IjAiLCJzY3kiOm51bGwsIm5ldCI6IndzIiwidHlwZSI6bnVsbCwiaG9zdCI6ImRlNC5uaWVrb3Rpbi5kZSIsImFscG4iOm51bGwsInBhdGgiOiIvdm1lc3MiLCJ0bHMiOiJub25lIiwic25pIjpudWxsLCJmcCI6bnVsbH0
 vless://933e8995-3b6d-4d42-8b23-e649f0e7205f@104.16.75.127:443?path=/us-gllc&security=tls&encryption=none&insecure=1&host=resources.office.com.r3xxe.eu.cc&type=ws&allowInsecure=1&sni=resources.office.com.r3xxe.eu.cc#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
-vmess://eyJ2IjpudWxsLCJwcyI6ImhhbWVkcDcxOjrwn4ep8J+HqiIsImFkZCI6ImRlNC5uaWVrb3Rpbi5kZSIsInBvcnQiOjgwLCJpZCI6ImU5YTJhYjlkLTU4NTgtNDliMy05NzIxLWQ3MzY0YjQxM2M0OCIsImFpZCI6IjAiLCJzY3kiOm51bGwsIm5ldCI6IndzIiwidHlwZSI6bnVsbCwiaG9zdCI6ImRlNC5uaWVrb3Rpbi5kZSIsImFscG4iOm51bGwsInBhdGgiOiIvdm1lc3MiLCJ0bHMiOiJub25lIiwic25pIjpudWxsLCJmcCI6bnVsbH0
 trojan://humanity@www.multiplydose.com:443?security=tls&sni=www.multiplydose.com&fp=chrome&allowInsecure=0&type=ws&path=/assignment#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
