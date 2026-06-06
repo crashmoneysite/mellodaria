@@ -44,9 +44,7 @@ vless://1043634e-8d9d-4736-83fa-f14ddc9d464c@188.114.97.6:443?path=%2Fid-amz&sec
 vless://a253ff3f-fb8d-4160-85e8-61b080f0f561@188.114.97.6:443?path=%2Fmy-mbv&security=tls&encryption=none&insecure=0&host=dfsuporte.garena.com.ex33r.eu.cc&type=ws&allowInsecure=0&sni=dfsuporte.garena.com.ex33r.eu.cc#more%20%3A%20%40Qara_atayi%20%7C%20Warp%207
 trojan://humanity@104.16.174.36:443?security=tls&type=ws&sni=www.ignitelimit.com&path=/assignment&host=www.ignitelimit.com#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD2
 trojan://humanity@104.16.174.12:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🕊️Tel: @Proxy_Vpney (2)
-trojan://humanity@104.16.174.36:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🕊️Tel: @Proxy_Vpney (7)
 trojan://humanity@104.16.174.44:443?path=/assignment&security=tls&host=www.ignitelimit.com&type=ws&sni=www.ignitelimit.com#@Vibe_Zoone|@MojeVazheh|@Radixvpn|@ForiMarketGp
-trojan://humanity@104.18.152.208:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🕊️Tel: @Proxy_Vpney (5)
 vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@152.228.162.19:80?path=/vless/&security=none&encryption=none&type=ws#@vmessorg
 vless://28607fa7-db30-47d6-942a-f5744e4be9ad@45.130.125.96:443?path=/id-pusat&security=tls&encryption=none&insecure=0&host=dfsuporte.garena.com.ex33r.eu.cc&type=ws&allowInsecure=0&sni=dfsuporte.garena.com.ex33r.eu.cc#🇸🇨52833 | ⚡️Telegram = t.me/SOSkeyNET
 vless://a321980f-54ce-432a-862a-76035b9d78ad@141.193.213.10:443?encryption=none&security=tls&sni=m.udemy.com.r3xxe.eu.cc&type=ws&host=m.udemy.com.r3xxe.eu.cc&path=/nl-tw#🇳🇱 t.me/Natrixo AA
