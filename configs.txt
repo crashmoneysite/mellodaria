@@ -14,7 +14,6 @@ trojan://humanity@185.18.250.252:443?security=tls&sni=www.multiplydose.com&fp=ch
 trojan://humanity@104.21.40.34:443?security=tls&type=ws&sni=www.gossipglove.com&path=/assignment&host=www.gossipglove.com#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD6
 vless://7d74eae4-8a06-4306-a923-ad686f30bf26@57.129.41.216:80?path=/vless/&security=none&encryption=none&host=OV-Germany1.09vpn.com&type=ws&brand=@Arvand_soul#@Arvand_soul @Arvand_soul❤️🧑‍💻 کانفیگ ملی در
 trojan://humanity@188.114.96.3:443?Telegram=@armindone,@armindone,@armindone,@armindone&path=/assignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#@armindone👈چنل تلگراممون
-vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?path=/http&security=none&encryption=none&host=de.vpnbase.net&type=ws#@iguanaVPN [5]
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?encryption=none&host=v2rayNplus-v2rayNplus-v2rayNplus&path=%2Fhttp&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ADE
 vless://049e56d8-0ba0-49e3-b764-ee04122b9f00@ov-italy1.09vpn.com:80?encryption=none&host=OV-Italy1.09vpn.com&path=/vless/&security=none&type=ws#🇮🇹56803 | ⚡️Telegram = t.me/SOSkeyNET
 vless://6a3d568e-c3ed-4c22-b13e-d519312d7c61@subs.casr.ir:2096?encryption=none&type=ws&path=/subscasr?ed=2048/@AhmadV2ray&security=tls&fp=chrome&sni=subs.casr.ir#🇨🇦57565 | ⚡️Telegram = t.me/SOSkeyNET
@@ -27,20 +26,19 @@ vless://12e2b366-6426-4e09-9c6f-9c894262b923@de2.niekotin.de:80?path=/vless&secu
 vless://2be7b933-c720-4838-a35a-740ae50987ee@hyperlink-free.poweredproyuz.com:443?encryption=none&host=hyperlink-free.poweredproyuz.com&path=/hyperlink-hyperlink-join-to-hyperlink-hyperlink_ch-hyperlink-hlink_robot-hyperlink&security=tls&sni=hyperlink-free.poweredproyuz.com&type=ws#🔔55@oneclickvpnkeys
 vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@cf.9999669.xyz:2087?encryption=none&security=tls&sni=fgnix832fx.fx6hsv0.ccwu.cc&insecure=0&allowInsecure=0&type=ws&host=fgnix832fx.fx6hsv0.ccwu.cc&path=/#🇨🇦57501 | ⚡️Telegram = t.me/SOSkeyNET
 vless://dc0d0eda-2293-4001-aa03-bd6c9431ed24@ov-italy1.09vpn.com:8443?encryption=none&type=ws&host=ov-italy1.09vpn.com&path=%2Fvless%2F&security=tls#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
-vless://12e2b366-6426-4e09-9c6f-9c894262b923@de2.niekotin.de:80?path=/vless&security=none&encryption=none&type=ws#@filembad
-vless://b8ab1937-611c-4734-b01c-ff3818edf635@188.114.97.6:443?encryption=none&type=ws&host=m.udemy.com.ex33r.eu.cc&path=%2Fid-amz&security=tls&sni=m.udemy.com.ex33r.eu.cc#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vmess://eyJhZGQiOiJzcGVlZHRlc3Qub3JnIiwiYWlkIjowLCJob3N0IjoiZGUyLnBpbmctZ2FtZS5pciIsImlkIjoiNThmZTE1NDItNTI5MC00MGFkLTgxNWEtNzc3MDdhODFhZmU1IiwibmV0Ijoid3MiLCJwYXRoIjoiL0lPZWJoTE1obDFDVGJGSGJMOTVteWZSWDIiLCJwb3J0Ijo4MCwicHMiOiJoYW1lZHA3MTo68J+HqfCfh6oiLCJzY3kiOiJjaGFjaGEyMC1wb2x5MTMwNSIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ
-vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@OV-France1.09vpn.com:80?path=/vless/&security=&encryption=none&type=ws#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.0.1:80?path=/&security=&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#🇨🇦57566 | ⚡️Telegram = t.me/SOSkeyNET
-vless://2bcfbfba-b446-4ad5-93ad-72af9e008f61@172.67.160.192:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&security=tls&sni=nuclear.us.kg&insecure=0&allowInsecure=0&type=ws&host=nuclear.us.kg&path=/free/103.101.153.32:443#@GozargahAzad|🏁
 vless://b585dc5e-55bf-4a8b-913a-27c9ccac05c3@149.202.58.99:443/?type=ws&encryption=none&host=bab-6.site&path=/vws/&security=tls&sni=bab-6.site&fp=chrome#🇫🇷 فرانسه | https://t.me/FREECONFIGSPLUS ✨
-vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@199.232.197.131:80?path=/&security=&encryption=none&host=max-de1.global.ssl.fastly.net&type=ws#@filembad
+vless://12e2b366-6426-4e09-9c6f-9c894262b923@de2.niekotin.de:80?path=/vless&security=none&encryption=none&type=ws#@filembad
 vless://e73df646-1f62-41bf-8c50-653497d603d0@sc-thenetherlands2.09vpn.com:80?encryption=none&host=SC-TheNetherlands2.09vpn.com&path=%2Fvless%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ANL
-trojan://trojan@109.234.211.66:8443?security=tls&sni=store.timimi.dpdns.org&fp=chrome&type=ws&path=/&host=store.timimi.dpdns.org#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-trojan://trojan@109.234.211.66:8443?security=tls&sni=store.timimi.dpdns.org&fp=chrome&type=ws&path=/&host=store.timimi.dpdns.org#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-trojan://43716b3b-df44-409e-beff-e571e39a889c@193.163.85.39:443?type=ws&headerType=none&security=tls&encryption=none&sni=platyscelis.duckdns.org&path=/vpn&insecure=0#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://b8ab1937-611c-4734-b01c-ff3818edf635@188.114.97.6:443?encryption=none&type=ws&host=m.udemy.com.ex33r.eu.cc&path=%2Fid-amz&security=tls&sni=m.udemy.com.ex33r.eu.cc#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
 vless://0cd73f04-4e6c-413e-bad8-36e214e8b55a@188.114.97.6:443?encryption=none&type=ws&host=ma16c.hamiibar.com&path=%2Fwhimsbws&security=tls&sni=ma16c.hamiibar.com#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%B9
-trojan://trojan@109.234.211.66:8443?security=tls&sni=store.timimi.dpdns.org&fp=chrome&type=ws&path=/&host=store.timimi.dpdns.org#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@152.228.162.19:80?type=ws&path=%2Fvless%2F#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@152.228.162.19:80?type=ws&path=%2Fvless%2F#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-trojan://trojan@109.234.211.66:8443?security=tls&sni=store.timimi.dpdns.org&fp=chrome&type=ws&path=/&host=store.timimi.dpdns.org#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
+vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@OV-France1.09vpn.com:80?path=/vless/&security=&encryption=none&type=ws#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+vless://7f031738-00f9-4d46-8e7e-71a92ac69f2b@193.36.85.115:80?encryption=none&host=193.36.85.115&path=/Alpha1&security=none&type=ws#🇩🇪57722 | ⚡️Telegram = t.me/SOSkeyNET
+vless://ad48b5a1-7916-47c3-a7e5-fe3fa9fb9ff1@108.162.193.110:443?encryption=none&security=tls&sni=cdn.myfunlife.ir&alpn=h3,h2,http/1.1&fp=chrome&allowInsecure=1&type=ws&host=cdn.myfunlife.ir&path=/@RoseCommunity?ed=2052#@RoseCommunity
+trojan://humanity@www.gossipglove.com:443?fp=chrome&path=%2Fassignment&security=tls&type=ws#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
+trojan://humanity@www.gossipglove.com:443?fp=chrome&path=%2Fassignment&security=tls&type=ws#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
+vless://342cc065-f5dd-449d-8f27-02dcfd15130a@185.143.234.122:80?encryption=none&security=none&type=ws&host=ivh.ziroxcompany.ir&path=/#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://342cc065-f5dd-449d-8f27-02dcfd15130a@185.143.234.122:80?encryption=none&security=none&type=ws&host=ivh.ziroxcompany.ir&path=/#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@ov-france1.09vpn.com:80?encryption=none&path=%2Fvless%2F&security=none&type=ws#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+trojan://humanity@www.gossipglove.com:443?fp=chrome&path=%2Fassignment&security=tls&type=ws#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
+trojan://humanity@www.gossipglove.com:443?fp=chrome&path=%2Fassignment&security=tls&type=ws#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
