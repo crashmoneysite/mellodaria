@@ -16,7 +16,6 @@ vless://2be7b933-c720-4838-a35a-740ae50987ee@hyperlink-free.poweredproyuz.com:44
 vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@cf.9999669.xyz:2087?encryption=none&security=tls&sni=fgnix832fx.fx6hsv0.ccwu.cc&insecure=0&allowInsecure=0&type=ws&host=fgnix832fx.fx6hsv0.ccwu.cc&path=/#🇨🇦57501 | ⚡️Telegram = t.me/SOSkeyNET
 vless://0cd73f04-4e6c-413e-bad8-36e214e8b55a@188.114.97.6:443?encryption=none&type=ws&host=ma16c.hamiibar.com&path=%2Fwhimsbws&security=tls&sni=ma16c.hamiibar.com#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%B9
 vless://7f031738-00f9-4d46-8e7e-71a92ac69f2b@193.36.85.115:80?encryption=none&host=193.36.85.115&path=/Alpha1&security=none&type=ws#🇩🇪57722 | ⚡️Telegram = t.me/SOSkeyNET
-vless://40cc9b52-25b8-4cd5-8b45-715ae26e6baf@sc-thenetherlands1.09vpn.com:80?encryption=none&path=/vless/&security=none&type=ws#🔔28@oneclickvpnkeys
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?path=/http&security=none&encryption=none&host=de.vpnbase.net&type=ws#@iguanaVPN [5]
 vless://39e1c350-45cf-4dd4-aaff-adba2b9495fb@www.speedtest.net:80?encryption=none&security=none&type=ws&host=lively-paper-a8da.admin1-mrj-chanel.workers.dev&path=/eyJqdW5rIjoiNjhSZGVRVlUiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxODguMjQ1LjE2MS4xNDEiXX0=?ed=2560#🚀@VPNine1
 vless://5b002005-7fb1-413e-8cbd-08e50c87c2ea@104.18.5.46:8880/?type=ws&encryption=none&flow=&host=wetfleagidc-8tsbi8xd-v3.wet-flea-gidc.workers.dev&path=/?@V2rayBaaz&note=@FreeOnlineVPN#🇲🇩 - MD - @FreeOnlineVPN
@@ -40,5 +39,4 @@ vless://8525fe74-67e6-4a55-8a26-95f227bd1384@46.101.196.101:2096?encryption=none
 vless://dc0d0eda-2293-4001-aa03-bd6c9431ed24@ov-italy1.09vpn.com:8443?encryption=none&path=%2Fvless%2F&security=tls&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AIT
 vless://e73df646-1f62-41bf-8c50-653497d603d0@sc-thenetherlands2.09vpn.com:80?encryption=none&host=SC-TheNetherlands2.09vpn.com&path=%2Fvless%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ANL
 vless://f2a73750-3087-48ff-a763-1348c15dce68@medium.com:443?security=tls&sni=rAyAn-007.mAxImA.DpDnS.OrG&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=rAyAn-007.mAxImA.DpDnS.OrG&encryption=none#Fast%20Deploy%20Your%20Own%20Worker%20For%20Creation%20Of%20Configs%20:%20https://telegraph.rayan-config.workers.dev/translate
-trojan://humanity@www.gossipglove.com:443?fp=chrome&path=%2Fassignment&security=tls&type=ws#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
 vless://40cc9b52-25b8-4cd5-8b45-715ae26e6baf@SC-TheNetherlands1.09vpn.com:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
