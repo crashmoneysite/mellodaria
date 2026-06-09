@@ -9,7 +9,6 @@ trojan://humanity@104.18.152.219:443?security=tls&type=ws&sni=www.ignitelimit.co
 trojan://humanity@185.18.250.252:443?security=tls&sni=www.multiplydose.com&fp=chrome&type=ws&host=www.multiplydose.com&path=%2Fassignment#%F0%9F%9F%A2%20telegram%3A%20%40tajrobe_wiki%20%F0%9F%9F%A2
 trojan://humanity@104.21.40.34:443?security=tls&type=ws&sni=www.gossipglove.com&path=/assignment&host=www.gossipglove.com#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD6
 trojan://humanity@188.114.96.3:443?Telegram=@armindone,@armindone,@armindone,@armindone&path=/assignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#@armindone👈چنل تلگراممون
-vless://049e56d8-0ba0-49e3-b764-ee04122b9f00@ov-italy1.09vpn.com:80?encryption=none&host=OV-Italy1.09vpn.com&path=/vless/&security=none&type=ws#🇮🇹56803 | ⚡️Telegram = t.me/SOSkeyNET
 vless://6a3d568e-c3ed-4c22-b13e-d519312d7c61@subs.casr.ir:2096?encryption=none&type=ws&path=/subscasr?ed=2048/@AhmadV2ray&security=tls&fp=chrome&sni=subs.casr.ir#🇨🇦57565 | ⚡️Telegram = t.me/SOSkeyNET
 vless://f4d70ca7-cdf8-4bfe-ac45-c6143a654b20@cdn4.sudonetwork.com:2096?path=/?ed=2560&security=tls&encryption=none&insecure=0&host=mh.sudonetwork.com&fp=chrome&type=ws&allowInsecure=0&sni=mh.sudonetwork.com#9 تلگرام : mtmvpn
 vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@108.162.192.75:443?encryption=none&host=octopusss4.com&path=/tsghdws&security=tls&sni=octopusss4.com&type=ws#1🫒@oneclickvpnkeys
@@ -51,4 +50,3 @@ trojan://humanity@www.gossipglove.com:443?fp=chrome&path=%2Fassignment&security=
 vless://342cc065-f5dd-449d-8f27-02dcfd15130a@185.143.234.122:80?encryption=none&security=none&type=ws&host=ivh.ziroxcompany.ir&path=/#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@ov-france1.09vpn.com:80?encryption=none&path=%2Fvless%2F&security=none&type=ws#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 vless://dc0d0eda-2293-4001-aa03-bd6c9431ed24@ov-italy1.09vpn.com:8443?encryption=none&type=ws&host=ov-italy1.09vpn.com&path=%2Fvless%2F&security=tls#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
-vless://9ce7ac33-5004-40ea-8236-15bc2d25a37c@104.17.57.25:2096?path=/MaSTeRSeRVeR1-MaSTeRSeRVeR1-MaSTeRSeRVeR1-MaSTeRSeRVeR1-MaSTeRSeRVeR1-MaSTeRSeRVeR1&security=tls&encryption=none&host=masterserver1.mlkoijuh.workers.dev&fp=chrome&type=ws&sni=masterserver1.mlkoijuh.workers.dev#🇨🇦 CA | 104.17.57.25
