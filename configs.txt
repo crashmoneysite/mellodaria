@@ -20,34 +20,27 @@ vless://92893d44-8143-4f9a-8e1c-a0d7bc442be0@8.39.125.52:2053?path=/&security=tl
 vless://aed8656b-6479-4c04-9437-c7e16aa52a06@104.21.46.80:80?security=none&allowInsecure=0&encryption=none&type=ws&host=jolly-base-0bce.hamedpop2.workers.dev&path=/eyJqdW5rIjoidXlXRjN1SVB6MllockoiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iXX0=?ed=2560#@Netzone_ir
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.254.140.40:8880?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&security=none&type=ws&host=vms.lifetime54.workers.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2Fyoutube%40ZYFXS%F0%9F%87%A8%F0%9F%87%B3#%3E%3E%40configshub2%3A%3AUS
 trojan://humanity@www.gossipglove.com:443?fp=chrome&path=%2Fassignment&security=tls&type=ws#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://18535741-e8b3-4b43-9348-785b55936751@ov-germany1.09vpn.com:80?path=/vless/&security=none&encryption=none&host=OV-Germany1.09vpn.com&type=ws#@hex_proxy ⁴
-vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@OV-France1.09vpn.com:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#%3E%3E%40vmessorg%3A%3AFR
-vless://5ce84688-f535-46ad-a512-37b17becf6ea@152.228.162.19:80?encryption=none&host=akamaized.net&path=%2Fvless%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
-vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@OV-France1.09vpn.com:80?path=/vless/&security=&encryption=none&type=ws#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?path=/http&security=none&encryption=none&host=de.vpnbase.net&type=ws#@iguanaVPN [5]
 vless://049e56d8-0ba0-49e3-b764-ee04122b9f00@ov-italy1.09vpn.com:80?encryption=none&host=OV-Italy1.09vpn.com&path=%2Fvless%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AIT
-vless://40cc9b52-25b8-4cd5-8b45-715ae26e6baf@sc-thenetherlands1.09vpn.com:80?encryption=none&path=/vless/&security=none&type=ws#🔔28@oneclickvpnkeys
-vless://b585dc5e-55bf-4a8b-913a-27c9ccac05c3@149.202.58.99:443/?type=ws&encryption=none&host=bab-6.site&path=/vws/&security=tls&sni=bab-6.site&fp=chrome#🇫🇷 فرانسه | https://t.me/FREECONFIGSPLUS ✨
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.66.47.45:2083?path=%2F&security=tls&encryption=none&insecure=0&host=wk1.f1w.de5.net&fp=chrome&type=ws&allowInsecure=0&sni=wk1.f1w.de5.net#%3E%3E%40v2rayngvpn%3A%3AUS
 vless://dc0d0eda-2293-4001-aa03-bd6c9431ed24@ov-italy1.09vpn.com:8443?encryption=none&type=ws&host=ov-italy1.09vpn.com&path=%2Fvless%2F&security=tls#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
 trojan://Nova-Proxy@8.39.125.191:2083?path=%2F&security=tls&insecure=1&host=spring-queen-a95f.cewon19053.workers.dev&type=ws&allowInsecure=1&sni=spring-queen-a95f.cewon19053.workers.dev#%3E%3E%40outline_vpn%3A%3AUS
-vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@OV-France1.09vpn.com:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#%3E%3E%40vmessorg%3A%3AFR
-trojan://humanity@www.gossipglove.com:443?fp=chrome&path=%2Fassignment&security=tls&type=ws#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vmess://eyJhZGQiOiJzcGVlZHRlc3Qub3JnIiwiYWlkIjowLCJob3N0IjoiZGUyLnBpbmctZ2FtZS5pciIsImlkIjoiNThmZTE1NDItNTI5MC00MGFkLTgxNWEtNzc3MDdhODFhZmU1IiwibmV0Ijoid3MiLCJwYXRoIjoiL0lPZWJoTE1obDFDVGJGSGJMOTVteWZSWDIiLCJwb3J0Ijo4MCwicHMiOiJoYW1lZHA3MTo68J+HqfCfh6oiLCJzY3kiOiJjaGFjaGEyMC1wb2x5MTMwNSIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ
-vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@OV-France1.09vpn.com:80?path=/vless/&security=&encryption=none&type=ws#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-vless://43949b0c-08a7-43ac-bf93-9cc77e9f4e89@dpv5wxbk2f9f.zozothedog.com:8443?path=/&security=&encryption=none&fm={"udp":[{"settings":{"header":"","value":""},"type":"mkcp-legacy"}]}&type=ws#@filembad
+vless://12e2b366-6426-4e09-9c6f-9c894262b923@de2.niekotin.de:80?path=/vless&security=none&encryption=none&type=ws#@filembad
 vless://b585dc5e-55bf-4a8b-913a-27c9ccac05c3@bab-6.site:443?path=/vws/&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0#@HajmVPN_Config 💣
-vless://2244d9e4-dc80-4c61-9362-dde0afd034dd@104.17.115.113:443?ed=2048&eh=Sec-WebSocket-Protocol&encryption=none&host=hs.qoogl.workers.dev&path=%2F&security=tls&sni=hs.qoogl.workers.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
-vless://2244d9e4-dc80-4c61-9362-dde0afd034dd@104.17.115.113:443?ed=2048&eh=Sec-WebSocket-Protocol&encryption=none&host=hs.qoogl.workers.dev&path=%2F&security=tls&sni=hs.qoogl.workers.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
-vless://2244d9e4-dc80-4c61-9362-dde0afd034dd@104.17.115.113:443?ed=2048&eh=Sec-WebSocket-Protocol&encryption=none&host=hs.qoogl.workers.dev&path=%2F&security=tls&sni=hs.qoogl.workers.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
-vless://2244d9e4-dc80-4c61-9362-dde0afd034dd@104.17.115.113:443?ed=2048&eh=Sec-WebSocket-Protocol&encryption=none&host=hs.qoogl.workers.dev&path=%2F&security=tls&sni=hs.qoogl.workers.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
-vless://2244d9e4-dc80-4c61-9362-dde0afd034dd@104.17.115.113:443?ed=2048&eh=Sec-WebSocket-Protocol&encryption=none&host=hs.qoogl.workers.dev&path=%2F&security=tls&sni=hs.qoogl.workers.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
-vless://2244d9e4-dc80-4c61-9362-dde0afd034dd@104.17.115.113:443?ed=2048&eh=Sec-WebSocket-Protocol&encryption=none&host=hs.qoogl.workers.dev&path=%2F&security=tls&sni=hs.qoogl.workers.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
-trojan://trojan@109.234.211.66:8443?security=tls&sni=store.timimi.dpdns.org&fp=chrome&type=ws&path=/&host=store.timimi.dpdns.org#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-trojan://43716b3b-df44-409e-beff-e571e39a889c@193.163.85.39:443?type=ws&headerType=none&security=tls&encryption=none&sni=platyscelis.duckdns.org&path=/vpn&insecure=0#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-trojan://trojan@109.234.211.66:8443?security=tls&sni=store.timimi.dpdns.org&fp=chrome&type=ws&path=/&host=store.timimi.dpdns.org#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@152.228.162.19:80?type=ws&path=%2Fvless%2F#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@152.228.162.19:80?type=ws&path=%2Fvless%2F#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-vless://40cc9b52-25b8-4cd5-8b45-715ae26e6baf@SC-TheNetherlands1.09vpn.com:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-trojan://trojan@109.234.211.66:8443?security=tls&sni=store.timimi.dpdns.org&fp=chrome&type=ws&path=/&host=store.timimi.dpdns.org#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-trojan://trojan@109.234.211.66:8443?security=tls&sni=store.timimi.dpdns.org&fp=chrome&type=ws&path=/&host=store.timimi.dpdns.org#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
+trojan://humanity@www.gossipglove.com:443?fp=chrome&path=%2Fassignment&security=tls&type=ws#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
+vless://049e56d8-0ba0-49e3-b764-ee04122b9f00@OV-Italy1.09vpn.com:80?path=/vless/&security=&encryption=none&type=ws#%3E%3E%40configshub2%3A%3AIT
+vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@152.228.162.19:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#%3E%3E%40vmessorg%3A%3AFR
+vless://0440e93c-a9d3-4998-aeaa-d0e2363131e4@172.64.48.201:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=rahammahar.photoazadeh9100.workers.dev&path=%2F&security=tls&sni=rahammahar.photoazadeh9100.workers.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
+vless://0440e93c-a9d3-4998-aeaa-d0e2363131e4@172.64.48.201:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=rahammahar.photoazadeh9100.workers.dev&path=%2F&security=tls&sni=rahammahar.photoazadeh9100.workers.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
+vless://0440e93c-a9d3-4998-aeaa-d0e2363131e4@172.64.48.201:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=rahammahar.photoazadeh9100.workers.dev&path=%2F&security=tls&sni=rahammahar.photoazadeh9100.workers.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
+vless://0440e93c-a9d3-4998-aeaa-d0e2363131e4@172.64.48.201:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=rahammahar.photoazadeh9100.workers.dev&path=%2F&security=tls&sni=rahammahar.photoazadeh9100.workers.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
+vless://0440e93c-a9d3-4998-aeaa-d0e2363131e4@172.64.48.201:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=rahammahar.photoazadeh9100.workers.dev&path=%2F&security=tls&sni=rahammahar.photoazadeh9100.workers.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
+vless://dc0d0eda-2293-4001-aa03-bd6c9431ed24@ov-italy1.09vpn.com:8443?encryption=none&path=%2Fvless%2F&security=tls&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AIT
+trojan://humanity@www.gossipglove.com:443?allowInsecure=1&path=%2Fassignment&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ANL
+vless://0440e93c-a9d3-4998-aeaa-d0e2363131e4@172.64.48.201:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=rahammahar.photoazadeh9100.workers.dev&path=%2F&security=tls&sni=rahammahar.photoazadeh9100.workers.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
+trojan://humanity@www.multiplydose.com:443?path=%2Fassignment&security=tls&insecure=1&type=ws&allowInsecure=1#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
+vless://342cc065-f5dd-449d-8f27-02dcfd15130a@185.143.234.122:80?encryption=none&security=none&type=ws&host=ivh.ziroxcompany.ir&path=/#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@ov-france1.09vpn.com:80?encryption=none&path=%2Fvless%2F&security=none&type=ws#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+vless://342cc065-f5dd-449d-8f27-02dcfd15130a@185.143.234.122:80?encryption=none&security=none&type=ws&host=ivh.ziroxcompany.ir&path=/#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+trojan://humanity@www.multiplydose.com:443?path=%2Fassignment&security=tls&insecure=1&type=ws&allowInsecure=1#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
+trojan://humanity@www.multiplydose.com:443?path=%2Fassignment&security=tls&insecure=1&type=ws&allowInsecure=1#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
