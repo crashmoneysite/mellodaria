@@ -9,18 +9,13 @@ vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?path=/http&securi
 trojan://humanity@www.multiplydose.com:443?path=%2Fassignment&security=tls&insecure=1&type=ws&allowInsecure=1#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 vless://40cc9b52-25b8-4cd5-8b45-715ae26e6baf@sc-thenetherlands1.09vpn.com:80?encryption=none&path=%2Fvless%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ANL
 vless://dc0d0eda-2293-4001-aa03-bd6c9431ed24@ov-italy1.09vpn.com:8443?encryption=none&path=%2Fvless%2F&security=tls&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AIT
-trojan://RaxTmLsUysCCyFnHeEbw87Z93F4rGEhxmCEzvTLAssP9zuMA@gm1.bw8848.org:443/?type=ws&host=gm1.bw8848.org&path=/gm1-gm1-j6meub&security=tls&sni=gm1.bw8848.org#🇩🇪DE-🚀@VPNine1
-trojan://N33CBbQDyAjLmcAT7rVaZMeqHcDXLfSTWcxUcebU9ipfoHTP@uk2.bw8848.org:443/?type=ws&host=uk2.bw8848.org&path=/uk2-uk2-csrde2&security=tls&sni=uk2.bw8848.org#🇬🇧GB-🚀@VPNine1
-vless://5e042049-f74d-4ccc-a3ac-db27bca2ce99@hyst.purplrose.ir:8443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&host=bastani.purplrose.ir&fp=chrome&type=ws&sni=bastani.purplrose.ir#@internet_azad_2026 🇩🇪
-vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?encryption=none&host=v2rayNplus-v2rayNplus-v2rayNplus&path=/http&security=none&type=ws#🪭1@oneclickvpnkeys
-vless://dc0d0eda-2293-4001-aa03-bd6c9431ed24@ov-italy1.09vpn.com:8443?encryption=none&path=%2Fvless%2F&security=tls&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AIT
 vless://dc0d0eda-2293-4001-aa03-bd6c9431ed24@ov-italy1.09vpn.com:8443?encryption=none&type=ws&host=ov-italy1.09vpn.com&path=%2Fvless%2F&security=tls#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
-trojan://humanity@www.multiplydose.com:443?path=%2Fassignment&security=tls&insecure=1&type=ws&allowInsecure=1#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 trojan://humanity@104.18.152.219:443?security=tls&type=ws&sni=www.ignitelimit.com&path=/assignment&host=www.ignitelimit.com#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD9
-vless://049e56d8-0ba0-49e3-b764-ee04122b9f00@OV-Italy1.09vpn.com:80?path=/vless/&security=&encryption=none&type=ws#%3E%3E%40configshub2%3A%3AIT
 vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@OV-France1.09vpn.com:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#%3E%3E%40vmessorg%3A%3AFR
-vless://e73df646-1f62-41bf-8c50-653497d603d0@sc-thenetherlands2.09vpn.com:80?encryption=none&host=SC-TheNetherlands2.09vpn.com&path=%2Fvless%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ANL
-trojan://humanity@www.gossipglove.com:443?fp=chrome&path=%2Fassignment&security=tls&type=ws#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 vless://1c4046d3-333f-4e8d-b9cc-333e7ec3143b@104.16.174.39:443?encryption=none&type=ws&host=Drping.nscl.ir&path=%2FDrPing_channel&security=tls&alpn=h2%2Chttp%2F1.1&fp=chrome&sni=Drping.nscl.ir#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://1c4046d3-333f-4e8d-b9cc-333e7ec3143b@104.16.174.39:443?encryption=none&type=ws&host=Drping.nscl.ir&path=%2FDrPing_channel&security=tls&alpn=h2%2Chttp%2F1.1&fp=chrome&sni=Drping.nscl.ir#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://1c4046d3-333f-4e8d-b9cc-333e7ec3143b@104.16.174.39:443?encryption=none&type=ws&host=Drping.nscl.ir&path=%2FDrPing_channel&security=tls&alpn=h2%2Chttp%2F1.1&fp=chrome&sni=Drping.nscl.ir#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+trojan://cczQCxQBdYzynosgqLVSmUnZzwjJcWEnpWnMAjZQUy94hDdN@gm2.bw8848.org:443/?type=ws&host=gm2.bw8848.org&path=/gm2-gm2-mo9ag9&security=tls&sni=gm2.bw8848.org#🇩🇪DE-🚀@VPNine1
+trojan://hF7uSJfeBPtSNXKtuYvTRNaBdGkkXHpKJfLRfbpaDWovomSL@uk1.bw8848.org:443/?type=ws&host=uk1.bw8848.org&path=/uk1-uk1-gcjtze&security=tls&sni=uk1.bw8848.org#🇬🇧GB-🚀@VPNine1
+vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@104.17.108.189:443?ed=2048&eh=Sec-WebSocket-Protocol&encryption=none&host=octopusss4.com&path=/tsghdws&security=tls&sni=octopusss4.com&type=ws#[74989] - Telegram : @V2All
+vless://2e71d8fc-d2e8-44fc-89bd-c8a449a193aa@104.24.45.247:80?encryption=none&host=odd-bread-435d.ahmadrezasteamacc.workers.dev&path=%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
+trojan://2bde1095-b5d2-4749-b57b-04876d3acd10@193.163.85.39:443?security=tls&type=ws&headerType=&path=%2Fvpn&host=&sni=platyscelis.duckdns.org&fp=#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+trojan://2bde1095-b5d2-4749-b57b-04876d3acd10@193.163.85.39:443?security=tls&type=ws&headerType=&path=%2Fvpn&host=&sni=platyscelis.duckdns.org&fp=#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
