@@ -24,7 +24,6 @@ vless://e84064cc-617f-4ba8-aa6f-13e920fd2610@main.boobie.eu.cc:80?encryption=non
 vless://f9558e6a-0447-48a0-94e9-cd69fc638d73@de2.niekotin.de:80?path=/vless&security=none&encryption=none&type=ws#[🇩🇪]
 vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@104.17.108.189:443?ed=2048&eh=Sec-WebSocket-Protocol&encryption=none&host=octopusss4.com&path=/tsghdws&security=tls&sni=octopusss4.com&type=ws#[74989] - Telegram : @V2All
 vless://12e2b366-6426-4e09-9c6f-9c894262b923@de2.niekotin.de:80?path=/vless&security=&encryption=none&type=ws#🇩🇪 Join+Telegram:@Farah_VPN 🇩🇪
-vless://5e042049-f74d-4ccc-a3ac-db27bca2ce99@hyst.purplrose.ir:8443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&host=bastani.purplrose.ir&fp=chrome&type=ws&sni=bastani.purplrose.ir#@internet_azad_2026 🇩🇪
 vless://0a5ab719-2407-4398-b507-8437ef365023@172.66.44.211:8880?ed=2048&eh=Sec-WebSocket-Protocol&encryption=none&host=underthegun.cfd&path=/FCHANNEL---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY&security=none&type=ws#🪭7@oneclickvpnkeys
 vless://25efc727-e853-49ba-9609-3c20009d0e7a@104.18.13.229:2052?encryption=none&host=winbiss-0tpka6-v1.winbiss.workers.dev&path=/&security=none&type=ws#🪭6@oneclickvpnkeys
 vless://5b002005-7fb1-413e-8cbd-08e50c87c2ea@104.18.5.46:8880/?type=ws&encryption=none&flow=&host=wetfleagidc-8tsbi8xd-v3.wet-flea-gidc.workers.dev&path=/?@V2rayBaaz&note=@FreeOnlineVPN#🇲🇩 - MD - @FreeOnlineVPN
