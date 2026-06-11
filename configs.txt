@@ -18,16 +18,18 @@ trojan://humanity@104.16.174.12:443?path=/assignment&security=tls&insecure=0&hos
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?path=/http&security=&encryption=none&host=de.vpnbase.net&type=ws#‎🛰️ @nitruStore 140
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?path=/http&security=none&encryption=none&type=ws&brand=@Arvand_soul#@Arvand_soul @Arvand_soul❤️🧑‍💻 کانفیگ ملی در
 vless://e84064cc-617f-4ba8-aa6f-13e920fd2610@main.boobie.eu.cc:80?encryption=none&path=%2F&security=none&type=ws#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://5ce84688-f535-46ad-a512-37b17becf6ea@152.228.162.19:80?encryption=none&host=akamaized.net&path=%2Fvless%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
-vless://c135158e-5869-4397-8116-6695ca18cd48@188.114.97.6:443?encryption=none&type=ws&security=tls&path=/&host=cf.hulume.ccwu.cc&sni=cf.hulume.ccwu.cc&fp=chrome&insecure=0&allowInsecure=0#@meliproxyy
-vless://037b730a-ea28-5191-ad7c-3424be5efe2e@46.246.97.218:2052?path=/vless&security=&encryption=none&type=ws#@config_NG
-vless://c135158e-5869-4397-8116-6695ca18cd48@188.114.97.6:443?encryption=none&type=ws&security=tls&path=/&host=cf.hulume.ccwu.cc&sni=cf.hulume.ccwu.cc&fp=chrome&insecure=0&allowInsecure=0#@meliproxyy
 vless://b585dc5e-55bf-4a8b-913a-27c9ccac05c3@bab-6.site:443?path=/vws/&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#[🇫🇷]t.me/Raiv2mmr
 vless://7d90f043-ed7f-40c9-ac2f-352987904958@OV-Germany1.09vpn.com:80?path=/vless/&security=none&encryption=none&type=ws#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 trojan://humanity@www.calmloud.com:443?security=tls&alpn=http%2f1.1&fp=chrome&type=ws&path=%2fassignment&allow_insecure=0#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-vless://10a6b923-e349-4594-92bb-d81a6245aaec@104.26.0.7:443?path=/download.php&security=tls&encryption=none&insecure=0&host=sertraline.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=sertraline.adaspoloandco.com#@VPsave
-trojan://humanity@www.ignitelimit.com:443?security=tls&type=ws&path=/assignment#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 trojan://humanity@www.gossipglove.com:443?fp=chrome&path=%2Fassignment&security=tls&type=ws#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-trojan://humanity@www.gossipglove.com:443?fp=chrome&path=%2Fassignment&security=tls&type=ws#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-vmess://eyJhZGQiOiIxMDQuMTcuNzcuNzciLCJpZCI6IjYwNDQxNTQ4LWI2OGUtNDNiMi04MTkxLWUzYjg4NGJlNGIzYyIsInBvcnQiOiI4NDQzIiwic2N5IjoiYXV0byIsInYiOiIyIiwibmV0Ijoid3MiLCJob3N0IjoiIiwicGF0aCI6Ii9sTW5zWlVONC8iLCJ0bHMiOiJ0bHMiLCJhbHBuIjoiIiwiZnAiOiIiLCJzbmkiOiJ2MnJheTEuZG96YXBwLnh5eiIsInBzIjoiaGFtZWRwNzE6OvCfh7rwn4e4In0
-vmess://eyJ2IjpudWxsLCJwcyI6ImhhbWVkcDcxOjrwn4ep8J+HqiIsImFkZCI6ImRlNS50YXNrZmxvd2h1Yi5vcmciLCJwb3J0IjoyMDg3LCJpZCI6IjAxY2NmYTdhLThkZTctNDUxZC1iZDQxLTE5NTdhY2FiYTE1ZiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjpudWxsLCJob3N0IjoiZGU1LnRhc2tmbG93aHViLm9yZyIsImFscG4iOm51bGwsInBhdGgiOiIvcmVhbHRpbWUiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJkZTUudGFza2Zsb3dodWIub3JnIiwiZnAiOm51bGx9
+trojan://mitivpn@188.114.97.6:443?path=https://chatgpt.com&security=tls&alpn=http/1.1&host=mitivpn.de.ssl.global.fastly.net.mitivpn.site&fp=chrome&type=ws&sni=2.1.mitivpn.dee.srfsl.gleobal.fastl3y.n3et.mitivpn.site#@meliproxyy
+vless://037b730a-ea28-5191-ad7c-3424be5efe2e@46.246.97.218:2052?path=/vless&security=none&encryption=none&type=ws#🔵@chillguy_vpn
+vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@104.16.150.246:2087?path=/&security=tls&encryption=none&insecure=0&host=fgnix832fx.fx6hsv0.ccwu.cc&type=ws&allowInsecure=0&sni=fgnix832fx.fx6hsv0.ccwu.cc#👑@Kia_Net -_- 189
+vless://7d74eae4-8a06-4306-a923-ad686f30bf26@57.129.41.216:80?encryption=none&host=OV-Germany1.09vpn.com&path=/vless/&security=none&type=ws#[75415] - Telegram : @V2All
+vless://dc0d0eda-2293-4001-aa03-bd6c9431ed24@ov-italy1.09vpn.com:8443?path=/vless/&security=tls&encryption=none&insecure=0&host=ov-italy1.09vpn.com&type=ws&allowInsecure=0&sni=ov-italy1.09vpn.com#👑@Kia_Net -_- 267
+vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@108.162.192.75:443?path=/tsghdws&security=tls&encryption=none&insecure=0&host=octopusss4.com&fp=chrome&type=ws&allowInsecure=0&sni=octopusss4.com#@FarazV2ray
+trojan://humanity@www.multiplydose.com:443?path=%2Fassignment&security=tls&insecure=1&type=ws&allowInsecure=1#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+vmess://eyJhZGQiOiIxMDQuMjEuODkuMTgxIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJhY2NrbHNqLmJ1ZnUudXMuY2kiLCJpZCI6IjY1YjE3YzBiLTBhNTItNGI1NC05YmM5LTYwZTMxMzk3Yjg0MSIsImluc2VjdXJlIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii82NWIxN2MwYi0wYTUyLTRiNTQtOWJjOS02MGUzMTM5N2I4NDEtdm1lc3MiLCJwb3J0IjoiODAiLCJwcyI6ImhhbWVkcDcxOjrwn4e68J+HuCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ
+trojan://humanity@www.multiplydose.com:443?path=%2Fassignment&security=tls&insecure=1&type=ws&allowInsecure=1#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?security=none&type=ws&path=%2Fhttp#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@OV-France1.09vpn.com:80?path=/vless/&security=&encryption=none&type=ws#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
