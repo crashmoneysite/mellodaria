@@ -21,17 +21,21 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCAiYWRk
 vless://f9558e6a-0447-48a0-94e9-cd69fc638d73@de2.niekotin.de:80?path=/vless&security=none&encryption=none&type=ws#[🇩🇪]
 vless://b585dc5e-55bf-4a8b-913a-27c9ccac05c3@bab-6.site:443?path=/vws/&security=tls&encryption=none&fp=chrome&type=ws#🇫🇷 FR | 149.202.58.99
 vless://037b730a-ea28-5191-ad7c-3424be5efe2e@46.246.97.218:2052?path=/vless&security=&encryption=none&type=ws#@config_NG
-vless://dc0d0eda-2293-4001-aa03-bd6c9431ed24@ov-italy1.09vpn.com:8443?path=/vless/&security=tls&encryption=none&insecure=0&host=ov-italy1.09vpn.com&type=ws&allowInsecure=0&sni=ov-italy1.09vpn.com#👑@Kia_Net -_- 267
-vless://7d90f043-ed7f-40c9-ac2f-352987904958@OV-Germany1.09vpn.com:80?path=/vless/&security=none&encryption=none&type=ws#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 trojan://humanity@104.16.174.12:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#✔︎𝐜𝐡𝐚𝐧𝐧𝐞𝐥➪@ConfigV2rayForFree
-trojan://mitivpn@188.114.97.6:443?path=https://chatgpt.com&security=tls&alpn=http/1.1&host=mitivpn.de.ssl.global.fastly.net.mitivpn.site&fp=chrome&type=ws&sni=2.1.mitivpn.dee.srfsl.gleobal.fastl3y.n3et.mitivpn.site#@meliproxyy
-vless://23b3cbba-e6ac-485a-9481-342a0415eab9@104.21.81.174:80?encryption=none&security=none&type=ws&host=DaWn&path=/wP3dwCyRAVyMJFfW?ed=2560#kurdconfig
+vless://c135158e-5869-4397-8116-6695ca18cd48@188.114.97.6:443?encryption=none&type=ws&security=tls&path=/&host=cf.hulume.ccwu.cc&sni=cf.hulume.ccwu.cc&fp=chrome&insecure=0&allowInsecure=0#@meliproxyy
 vless://b585dc5e-55bf-4a8b-913a-27c9ccac05c3@bab-6.site:443?path=/vws/&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0#@HajmVPN_Config 💣
 vless://b585dc5e-55bf-4a8b-913a-27c9ccac05c3@bab-6.site:443?path=/vws/&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#[🇫🇷]t.me/Raiv2mmr
 vless://5ce84688-f535-46ad-a512-37b17becf6ea@152.228.162.19:80?encryption=none&host=akamaized.net&path=%2Fvless%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
-vmess://eyJ2IjoiMiIsInBzIjoiaGFtZWRwNzE6OvCfh7rwn4e4IiwiYWRkIjoiMTA0LjE2LjAuMCIsInBvcnQiOiI0NDMiLCJpZCI6Ijk1ZDJjNDYxLTYxZjUtNGRhZS1iYzc0LTRkMTBjZTFmNjIzNiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwidGxzIjoidGxzIiwiZnAiOiJjaHJvbWUiLCJzbmkiOiJnb25neWlsbS5kcGRucy5vcmciLCJwYXRoIjoiL3dzLWdvbmd5aSIsImhvc3QiOiJnb25neWlsbS5kcGRucy5vcmcifQ
-vless://049e56d8-0ba0-49e3-b764-ee04122b9f00@ov-italy1.09vpn.com:80?encryption=none&type=ws&path=%2Fvless%2F&security=none#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-trojan://humanity@www.gossipglove.com:443?fp=chrome&path=%2Fassignment&security=tls&type=ws#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-vless://7d74eae4-8a06-4306-a923-ad686f30bf26@OV-Germany1.09vpn.com:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vmess://eyJ2IjoiMiIsInBzIjoiaGFtZWRwNzE6OvCfh7Pwn4exIiwiYWRkIjoibXl2cHNob3N0aW5nLm5hbWUubmciLCJwb3J0IjoiODAiLCJpZCI6Ijk2NDA4ZjlhLWRmMDMtNDQ4Yi1iN2U0LWVjOGUyYzIxNjY4MiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwidGxzIjoiIiwiZnAiOiJjaHJvbWUiLCJwYXRoIjoiL3ZtZXNzIiwiaG9zdCI6Im15dnBzaG9zdGluZy5uYW1lLm5nIn0
-vless://049e56d8-0ba0-49e3-b764-ee04122b9f00@ov-italy1.09vpn.com:80?encryption=none&type=ws&path=%2Fvless%2F&security=none#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
+vless://7d90f043-ed7f-40c9-ac2f-352987904958@OV-Germany1.09vpn.com:80?path=/vless/&security=none&encryption=none&type=ws#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://0814dfea-0f08-4a8c-80fa-60f46ae2efec@cctvhikvision.center:2052?path=/api-v1&security=none&encryption=none&host=uwu.blueknightnet.qzz.io&type=ws#@VPsave
+vless://252272d5-74df-4e86-b603-5894e9b06ef5@172.67.158.125:443?path=/&security=tls&encryption=none&insecure=1&host=pro.nimbaha.info&fp=chrome&type=ws&allowInsecure=1&sni=PrO.nImBaHa.InFo#kurdconfig
+vless://30693e15-1014-443b-88dd-1232b55a06b6@104.16.6.70:443?path=/&security=tls&encryption=none&host=mos.rfiksma.top&fp=chrome&type=ws&sni=sub.rfiksma.top#❤️‍🔥 کانال تلگرام HiByeVPNN@
+vless://b585dc5e-55bf-4a8b-913a-27c9ccac05c3@149.202.58.99:443?path=/vws/&security=tls&encryption=none&insecure=0&host=bab-6.site&fp=chrome&type=ws&allowInsecure=0&sni=bab-6.site#@bored_vpn
+vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?path=/http&security=&encryption=none&host=de.vpnbase.net&type=ws#‎🛰️ @nitruStore 140
+vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@152.228.162.19:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#%3E%3E%40vmessorg%3A%3AXX
+vmess://eyJhZGQiOiIxMDQuMTcuNzcuNzciLCJpZCI6IjYwNDQxNTQ4LWI2OGUtNDNiMi04MTkxLWUzYjg4NGJlNGIzYyIsInBvcnQiOiI4NDQzIiwic2N5IjoiYXV0byIsInYiOiIyIiwibmV0Ijoid3MiLCJob3N0IjoiIiwicGF0aCI6Ii9sTW5zWlVONC8iLCJ0bHMiOiJ0bHMiLCJhbHBuIjoiIiwiZnAiOiIiLCJzbmkiOiJ2MnJheTEuZG96YXBwLnh5eiIsInBzIjoiaGFtZWRwNzE6OvCfh7rwn4e4In0
+vmess://eyJhZGQiOiIxMDQuMTcuNzcuNzciLCJpZCI6IjYwNDQxNTQ4LWI2OGUtNDNiMi04MTkxLWUzYjg4NGJlNGIzYyIsInBvcnQiOiI4NDQzIiwic2N5IjoiYXV0byIsInYiOiIyIiwibmV0Ijoid3MiLCJob3N0IjoiIiwicGF0aCI6Ii9sTW5zWlVONC8iLCJ0bHMiOiJ0bHMiLCJhbHBuIjoiIiwiZnAiOiIiLCJzbmkiOiJ2MnJheTEuZG96YXBwLnh5eiIsInBzIjoiaGFtZWRwNzE6OvCfh7rwn4e4In0
+vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?security=none&type=ws&path=%2Fhttp#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
+trojan://humanity@www.ignitelimit.com:443?path=/assignment&type=ws#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+trojan://humanity@www.ignitelimit.com:443?path=/assignment&type=ws#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?security=none&type=ws&path=%2Fhttp#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
