@@ -4,7 +4,6 @@ vless://91171c46-80f7-4125-a9e1-264e57177299@104.18.110.121:2083?encryption=none
 vmess://eyJhZGQiOiAiMTA0LjE4LjAuMTAwIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogImNocm9tZSIsICJob3N0IjogIm9ta3V6eWdpdi5jb20iLCAiaWQiOiAiZTk5NDdiNDItMjdlZC00MDFlLWI3NWUtYzllYmQzNTdjMGYzIiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwb3J0IjogIjQ0MyIsICJwcyI6ICLwn4eo8J+HpjY1NjYxIHwg4pqh77iPVGVsZWdyYW0gPSB0Lm1lL1NPU2tleU5FVCIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAib21rdXp5Z2l2LmNvbSIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiLS0tIiwgInYiOiAiMiJ9
 vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@josni.hoyes.cloudns.ch:2053?encryption=none&host=josni.hoyes.cloudns.ch&path=/&security=tls&sni=josni.hoyes.cloudns.ch&type=ws#🪬54@oneclickvpnkeys
 vless://7bd180e8-1142-4387-93f5-03e8d750a896@python-graysongon.wasmer.app:443?encryption=none&host=python-graysongon.wasmer.app&path=/7bd180e8&security=tls&sni=python-graysongon.wasmer.app&type=ws#🪬72@oneclickvpnkeys
-vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@104.16.150.246:2087?path=/&security=tls&encryption=none&insecure=0&host=fgnix832fx.fx6hsv0.ccwu.cc&type=ws&allowInsecure=0&sni=fgnix832fx.fx6hsv0.ccwu.cc#👑@Kia_Net -_- 189
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@104.16.0.0:8080?encryption=none&host=tr-cd.sublink-vip2.com&path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=none&type=ws#🪬92@oneclickvpnkeys
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.0.1:80?path=/&security=&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#🔰@V2ray_official
 vless://7d74eae4-8a06-4306-a923-ad686f30bf26@OV-Germany1.09vpn.com:80?path=/vless/&security=&encryption=none&type=ws&note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#[🇩🇪]t.me/Raiv2mmr
@@ -29,18 +28,23 @@ vless://049e56d8-0ba0-49e3-b764-ee04122b9f00@OV-Italy1.09vpn.com:80?path=/vless/
 vless://e73df646-1f62-41bf-8c50-653497d603d0@sc-thenetherlands2.09vpn.com:80?path=/vless/&security=none&encryption=none&host=SC-TheNetherlands2.09vpn.com&type=ws#👑@Kia_Net -_- 276
 vless://b585dc5e-55bf-4a8b-913a-27c9ccac05c3@149.202.58.99:443?path=/vws/&security=tls&encryption=none&insecure=0&host=bab-6.site&fp=chrome&type=ws&allowInsecure=0&sni=bab-6.site#@bored_vpn
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?path=/http&security=none&encryption=none&host=de.vpnbase.net&type=ws#@iguanaVPN [5]
-vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@ov-france1.09vpn.com:80?encryption=none&type=ws&path=%2fvless%2f#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?security=none&type=ws&path=%2Fhttp#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://ac25a33c-a88d-514f-b37b-7e57d4f268c0@195.54.161.222:2052?encryption=none&type=ws&path=%2Fvless&security=none#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 trojan://humanity@104.18.152.229:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#@VPsave
 trojan://mitivpn@188.114.97.6:443?path=/ed=mitivpn&security=tls&alpn=http/1.1&host=sdasdfgv.global.ssl.fastly.top.mitivpn-a.site&fp=chrome&type=ws&sni=global.fastly.com.mitivpn-a.site#@internet_azad_2026 🇩🇪
-vless://0080c59a-a11d-4788-90b9-7d1f4e8f3089@95.182.99.236:80?path=/&security=none&encryption=none&host=95.182.99.236&type=ws#@fastkanfig 5
 vless://7d74eae4-8a06-4306-a923-ad686f30bf26@57.129.41.216:80?path=/vless/&security=none&encryption=none&host=OV-Germany1.09vpn.com&type=ws#👑@Kia_Net -_- 191
-vless://d4b622b8-f004-4148-ba73-047e85ebccf3@anten.ir:80?path=/&security=none&encryption=mlkem768x25519plus.native.0rtt.-U735OnbTdjZCBje5RuC-pnraoZEL7pO_AxqzddX-Us&host=alternative.mhjcdn.ir&type=ws#kurdconfig
-trojan://humanity@www.gossipglove.com:443?fp=chrome&path=%2Fassignment&security=tls&type=ws#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-vless://12e2b366-6426-4e09-9c6f-9c894262b923@de2.niekotin.de:80?path=/vless&security=none&encryption=none&type=ws#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-trojan://humanity@www.gossipglove.com:443?fp=chrome&path=%2Fassignment&security=tls&type=ws#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-vless://12e2b366-6426-4e09-9c6f-9c894262b923@de2.niekotin.de:80?path=/vless&security=none&encryption=none&type=ws#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-trojan://humanity@www.gossipglove.com:443?fp=chrome&path=%2Fassignment&security=tls&type=ws#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-vless://b69b43d1-091d-4d7c-90b2-7a8bbad9d6a9@172.64.34.205:443?encryption=none&type=ws&path=%2FeyJqdW5rIjoiY0U2T212Y21yeEhUZHRKYSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3Fed%3D2560&security=tls&alpn=http%2F1.1&fp=chrome&sni=BItter-CreDIT-61b8.b76EbA0aBb.wORkerS.dEv#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://b69b43d1-091d-4d7c-90b2-7a8bbad9d6a9@172.64.34.205:443?encryption=none&type=ws&path=%2FeyJqdW5rIjoiY0U2T212Y21yeEhUZHRKYSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3Fed%3D2560&security=tls&alpn=http%2F1.1&fp=chrome&sni=BItter-CreDIT-61b8.b76EbA0aBb.wORkerS.dEv#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
+vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@ov-france1.09vpn.com:80?encryption=none&type=ws&path=%2fvless%2f#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?security=none&type=ws&path=%2Fhttp#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://62ea98cf-bd4b-4c1a-9ed0-b322190cc8c8@mizan.onetwothree123.ir:443?encryption=none&security=tls&sni=mizan.onetwothree123.ir&fp=chrome&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=ws&host=mizan.onetwothree123.ir&path=/10275/mehdi#🌍66787 | ⚡️Telegram = t.me/SOSkeyNET
+vless://dc0d0eda-2293-4001-aa03-bd6c9431ed24@ov-italy1.09vpn.com:8443?path=/vless/&security=tls&encryption=none&insecure=0&host=ov-italy1.09vpn.com&type=ws&allowInsecure=0&sni=ov-italy1.09vpn.com#👑@Kia_Net -_- 267
+vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@141.193.213.10:443?path=/tsghdws&security=tls&encryption=none&insecure=0&host=octopusss4.com&fp=chrome&type=ws&allowInsecure=0&sni=octopusss4.com#عضو شو تا وصل بمونی : @fastkanfig
+vless://1e280316-0408-47c4-b058-05b8f1f17f02@57.131.32.191:80?encryption=none&host=OV-Italy1.09vpn.com&path=%2Fvless%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AXX
+trojan://trojan@109.234.211.66:8443?security=tls&sni=store.timimi.dpdns.org&fp=chrome&type=ws&path=/&host=store.timimi.dpdns.org#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
+vless://8ccf871b-6586-44ad-9b4c-e7c6097eac59@192.0.63.255:2083?encryption=none&type=ws&host=liz1.jooje.lat&path=%2F%3Fed%3D2560&security=tls&fp=chrome&sni=liz1.jooje.lat#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://d036cc79-7142-5376-82b3-14acb32a4d8a@193.243.147.244:8880?encryption=none&type=ws&host=openai.com&path=%2Fvless&security=none#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+trojan://trojan@109.234.211.66:8443?security=tls&sni=store.timimi.dpdns.org&fp=chrome&type=ws&path=/&host=store.timimi.dpdns.org#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
+vless://d036cc79-7142-5376-82b3-14acb32a4d8a@193.243.147.244:8880?encryption=none&type=ws&host=openai.com&path=%2Fvless&security=none#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+vless://d036cc79-7142-5376-82b3-14acb32a4d8a@193.243.147.244:8880?encryption=none&type=ws&host=openai.com&path=%2Fvless&security=none#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+vless://d036cc79-7142-5376-82b3-14acb32a4d8a@193.243.147.244:8880?encryption=none&type=ws&host=openai.com&path=%2Fvless&security=none#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+vless://40cc9b52-25b8-4cd5-8b45-715ae26e6baf@SC-TheNetherlands1.09vpn.com:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+vless://8ccf871b-6586-44ad-9b4c-e7c6097eac59@192.0.63.255:2083?encryption=none&type=ws&host=liz1.jooje.lat&path=%2F%3Fed%3D2560&security=tls&fp=chrome&sni=liz1.jooje.lat#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://8ccf871b-6586-44ad-9b4c-e7c6097eac59@192.0.63.255:2083?encryption=none&type=ws&host=liz1.jooje.lat&path=%2F%3Fed%3D2560&security=tls&fp=chrome&sni=liz1.jooje.lat#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
