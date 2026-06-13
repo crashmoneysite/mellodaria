@@ -35,7 +35,6 @@ vmess://eyJhZGQiOiI1MS4yNTQuMTMzLjE1MiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJo
 vmess://eyJhZGQiOiIxMDQuMTguMTkuOTkiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InZ5dnp5aGd6LmNvbSIsImlkIjoiYjRhNjU2MTEtNDk2OS00MmIyLWJjNzQtNTc2OGI5NDBiZDllIiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI0NDMiLCJwcyI6IkBTT05JQ18yNTI0INqp2KfZhtin2YQg2LHZiNio24zaqdinINmIINiq2YTar9ix2KfZhSDwn5WK4q2Q77iPIiwic2N5IjoiYXV0byIsInNuaSI6InZ5dnp5aGd6LmNvbSIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
 trojan://humanity@www.multiplydose.com:443?path=%2Fassignment&security=tls&insecure=1&type=ws&allowInsecure=1#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@188.114.97.6:80?type=ws&security=none&host=de.vpnbase.net&path=%2Fhttp#🇩🇪
-vless://037b730a-ea28-5191-ad7c-3424be5efe2e@46.246.97.218:2052?encryption=none&security=none&type=ws&path=%2Fvless#%40W570W
 trojan://hF7uSJfeBPtSNXKtuYvTRNaBdGkkXHpKJfLRfbpaDWovomSL@3.8.238.251:443?type=ws&security=tls&path=/uk1-uk1-gcjtze&host=uk1.bw8848.org&sni=uk1.bw8848.org&insecure=0&allowInsecure=0#⚪ @AarazV2ray 568
 trojan://mitivpn@188.114.97.6:443?path=https://chatgpt.com&security=tls&alpn=http/1.1&host=mitivpn.de.ssl.global.fastly.net.mitivpn.site&fp=chrome&type=ws&sni=2.1.mitivpn.dee.srfsl.gleobal.fastl3y.n3et.mitivpn.site#Channel id: @internet_azad_2026 🇨🇦
 vless://037b730a-ea28-5191-ad7c-3424be5efe2e@46.246.97.218:2052?path=/vless&security=&encryption=none&type=ws#⚡@V2ray_official
@@ -45,8 +44,6 @@ vless://f5c47e9c-914a-4a91-a81e-a5a77bc10fc1@OV-France1.09vpn.com:80?path=/vless
 vmess://eyJhZGQiOiJteXZwc2hvc3RpbmcubmFtZS5uZyIsImFpZCI6MCwiaG9zdCI6Im15dnBzaG9zdGluZy5uYW1lLm5nIiwiaWQiOiI5NjQwOGY5YS1kZjAzLTQ0OGItYjdlNC1lYzhlMmMyMTY2ODIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdm1lc3MiLCJwb3J0Ijo4MCwicHMiOiJcdWQ4M2NcdWRkZjNcdWQ4M2NcdWRkZjEgSm9pbitUZWxlZ3JhbTpARmFyYWhfVlBOIFx1ZDgzY1x1ZGRmM1x1ZDgzY1x1ZGRmMSIsInRscyI6IiIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoibXl2cHNob3N0aW5nLm5hbWUubmcifQ==
 vless://40cc9b52-25b8-4cd5-8b45-715ae26e6baf@sc-thenetherlands1.09vpn.com:80?encryption=none&path=%2Fvless%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ANL
 vless://5ce84688-f535-46ad-a512-37b17becf6ea@152.228.162.19:80?encryption=none&host=akamaized.net&path=%2Fvless%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
-trojan://trojan@109.234.211.66:8443?security=tls&sni=store.timimi.dpdns.org&fp=chrome&type=ws&path=/&host=store.timimi.dpdns.org#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://7d74eae4-8a06-4306-a923-ad686f30bf26@OV-Germany1.09vpn.com:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://fcff892a-7c48-4ba0-a22f-e7c5cb8781b7@103.21.244.44:80?encryption=none&type=ws&host=poland.a-p-a-r-a-t.top&path=%2Fvideo&security=none#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+vless://c9ec8f14-3e9b-44a0-a1cd-0b1d270c4556@progressiya-vpn.ru:8080?encryption=none&type=ws&host=progressiya-vpn.online&path=%2Fdda12c57317ed12178061db1b799ebd2&security=none#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 vless://f5c47e9c-914a-4a91-a81e-a5a77bc10fc1@ov-france1.09vpn.com:80?encryption=none&type=ws&path=%2Fvless%2F&security=none#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 vless://201a225c-b7aa-401d-a01c-c57d58e9c662@snappfood.ir:80?type=ws&encryption=none&path=/ws&host=bmi.ir.vaslvip.ir&security=none#🇮🇷 IR | 185.143.234.122
