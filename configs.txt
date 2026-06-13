@@ -24,26 +24,26 @@ vmess://eyJhZGQiOiAiMTAzLjc1LjE5Ny44OCIsICJhaWQiOiAiMCIsICJob3N0IjogIiIsICJpZCI6
 vless://c9ec8f14-3e9b-44a0-a1cd-0b1d270c4556@progressiya-vpn.ru:8080?encryption=none&type=ws&host=progressiya-vpn.online&path=%2Fdda12c57317ed12178061db1b799ebd2&security=none#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@104.16.150.246:2087?path=/&security=tls&encryption=none&insecure=0&host=fgnix832fx.fx6hsv0.ccwu.cc&type=ws&allowInsecure=0&sni=fgnix832fx.fx6hsv0.ccwu.cc#🇺🇸 Join+Telegram:@Farah_VPN 🇺🇸
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?encryption=none&security=none&type=ws&host=google.com&path=/http#🏴‍☠️ UN | 162.19.228.119
-vless://40cc9b52-25b8-4cd5-8b45-715ae26e6baf@SC-TheNetherlands1.09vpn.com:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 vless://7d74eae4-8a06-4306-a923-ad686f30bf26@OV-Germany1.09vpn.com:80?path=/vless/&security=&encryption=none&type=ws&note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://b585dc5e-55bf-4a8b-913a-27c9ccac05c3@149.202.58.99:443?allowInsecure=1&encryption=none&fp=chrome&host=bab-6.site&path=/vws/&security=tls&sni=bab-6.site&type=ws#⚕️94@oneclickvpnkeys
 vless://b585dc5e-55bf-4a8b-913a-27c9ccac05c3@bab-6.site:443?path=/vws/&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0#@HajmVPN_Config 💣
-vless://1e280316-0408-47c4-b058-05b8f1f17f02@57.131.32.191:80?encryption=none&host=OV-Italy1.09vpn.com&path=%2Fvless%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AXX
-vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@152.228.162.19:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#%3E%3E%40vmessorg%3A%3AFR
-trojan://humanity@www.gossipglove.com:443?fp=chrome&path=%2Fassignment&security=tls&type=ws#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 trojan://humanity@www.gossipglove.com:443?fp=chrome&path=%2Fassignment&security=tls&type=ws#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 vless://ac25a33c-a88d-514f-b37b-7e57d4f268c0@195.54.161.222:2052?encryption=none&type=ws&path=%2Fvless&security=none#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-vless://7d74eae4-8a06-4306-a923-ad686f30bf26@OV-Germany1.09vpn.com:80?path=/vless/&security=&encryption=none&type=ws&note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 trojan://humanity@198.62.62.23:443?security=tls&type=ws&sni=www.calmlunch.com&path=/assignment&host=www.calmlunch.com#%F0%9F%87%BA%F0%9F%87%B8US%E5%8C%97%E7%BE%8E
-trojan://mitivpn@188.114.97.6:443?path=https://chatgpt.com&security=tls&alpn=http/1.1&host=mitivpn.de.ssl.global.fastly.net.mitivpn.site&fp=chrome&type=ws&sni=2.1.mitivpn.dee.srfsl.gleobal.fastl3y.n3et.mitivpn.site#Channel id: @internet_azad_2026 🇨🇦
 vless://7d74eae4-8a06-4306-a923-ad686f30bf26@57.129.41.216:80?path=/vless/&security=none&encryption=none&host=OV-Germany1.09vpn.com&type=ws#👑@Kia_Net -_- 191
-vless://e6b418af-0ff1-4fe2-a079-8aaa0841781f@162.159.16.239:443?path=/lY4xhKGq8xGZL3CP2na2X60FJ&security=tls&encryption=none&host=cdn-n5.roxi.cc&fp=chrome&type=ws&sni=cdn-n5.roxi.cc#kurdconfig
-vless://049e56d8-0ba0-49e3-b764-ee04122b9f00@OV-Italy1.09vpn.com:80?path=/vless/&security=&encryption=none&type=ws#%3E%3E%40configshub2%3A%3AXX
-trojan://humanity@www.ignitelimit.com:443?allowInsecure=1&path=%2Fassignment&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
-vless://7506fe3e-7e78-497c-bd01-db9d0be4d7e3@104.19.35.49:443?encryption=none&fp=chrome&host=filter.elitesilver002.workers.dev&path=%2F&security=tls&sni=filter.elitesilver002.workers.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
-vless://7506fe3e-7e78-497c-bd01-db9d0be4d7e3@104.19.35.49:443?encryption=none&fp=chrome&host=filter.elitesilver002.workers.dev&path=%2F&security=tls&sni=filter.elitesilver002.workers.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
-vless://049e56d8-0ba0-49e3-b764-ee04122b9f00@ov-italy1.09vpn.com:80?encryption=none&type=ws&path=%2Fvless%2F&security=none#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
-vless://5b6be23b-dff4-428f-8a60-4f11568abe12@63.141.128.205:443?encryption=none&type=ws&host=sync.amordad.xyz&path=%2Fapi%2Fv1%2Fstream&security=tls&sni=sync.amordad.xyz#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://Argooovpnnnn@188.114.97.6:8443?encryption=none&type=ws&host=argoovpn.imanaghapour.ir&path=%2F&security=tls&alpn=http%2F1.1&fp=chrome&sni=argoovpn.imanaghapour.ir#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-vless://5b6be23b-dff4-428f-8a60-4f11568abe12@63.141.128.205:443?encryption=none&type=ws&host=sync.amordad.xyz&path=%2Fapi%2Fv1%2Fstream&security=tls&sni=sync.amordad.xyz#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://7d74eae4-8a06-4306-a923-ad686f30bf26@OV-Germany1.09vpn.com:80?path=/vless/&security=&encryption=none&type=ws&note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 trojan://mitivpn@188.114.97.6:443?path=/ed=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=eee.we.wwww.swsl.glowbal.diwgi.mwy.mitivpn.xyz&fp=chrome&type=ws&allowInsecure=0&sni=www.ssl.global.digi.my.mitivpn.xyz#🇨🇦 CA | 188.114.97.6
+trojan://mitivpn@188.114.97.6:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&type=ws&security=tls&path=/?mitivpn&host=sdasdfgv.global.ssl.fastly.net.mitivpn-a.site&sni=global.fastly.com.mitivpn-a.site&alpn=http/1.1&fp=chrome&insecure=0&allowInsecure=0#@GozargahAzad|🏁
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@104.16.0.0:8080?encryption=none&host=tr-cd.sublink-vip2.com&path=/?TELEGRAM-v2ray_configs_pools?ed=512&security=none&type=ws#🪬92@v2ray_configs_pools
+vless://a2e4a6ec-2402-43b7-9585-cc2b70cb6cb2@xn--b6gac.eu.org:443?encryption=none&security=tls&sni=twilight-tooth-8eb5.asdv6ds4vf.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=twilight-tooth-8eb5.asdv6ds4vf.workers.dev&path=/?ed=2048#🇨🇦67692 | ⚡️Telegram = t.me/SOSkeyNET
+vless://f5c47e9c-914a-4a91-a81e-a5a77bc10fc1@OV-France1.09vpn.com:80?path=/vless/&security=none&encryption=none&type=ws#[kia_net] 🇫🇷 FR-496
+vless://656bb400-3b7a-47e3-94b0-0362f3865072@172.64.153.235:8443?encryption=none&host=socks5.revil-time3.workers.dev&path=%2Fsocks5%3A%2F%2F128.140.46.169%3A13482&security=tls&sni=socks5.revil-time3.workers.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
+vless://656bb400-3b7a-47e3-94b0-0362f3865072@172.64.153.235:8443?encryption=none&host=socks5.revil-time3.workers.dev&path=%2Fsocks5%3A%2F%2F128.140.46.169%3A13482&security=tls&sni=socks5.revil-time3.workers.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
+trojan://humanity@www.multiplydose.com:443?path=%2Fassignment&security=tls&insecure=1&type=ws&allowInsecure=1#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@ov-france1.09vpn.com:80?encryption=none&type=ws&path=%2fvless%2f#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+vless://d036cc79-7142-5376-82b3-14acb32a4d8a@193.243.147.244:8880?encryption=none&type=ws&host=openai.com&path=%2Fvless&security=none#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
+vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@ov-france1.09vpn.com:80?encryption=none&type=ws&path=%2fvless%2f#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+vless://12e2b366-6426-4e09-9c6f-9c894262b923@de2.niekotin.de:80?path=/vless&security=none&encryption=none&type=ws#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@152.228.162.19:80?type=ws&path=%2Fvless%2F#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+vless://7d74eae4-8a06-4306-a923-ad686f30bf26@OV-Germany1.09vpn.com:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://7d74eae4-8a06-4306-a923-ad686f30bf26@OV-Germany1.09vpn.com:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
