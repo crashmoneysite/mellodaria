@@ -34,7 +34,6 @@ vless://3b06a1cb-c162-4bd9-9472-d8efb3564943@chatgpt.com:2086?path=/login&securi
 vless://52450a53-ac49-42ff-be36-0899178d34b9@172.67.213.26:2053?security=tls&allowInsecure=0&encryption=none&type=ws&host=little-violet-8ade.vpnstoregod.workers.dev&path=/eyJqdW5rIjoiOHBjT0w3NmxvazAiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iXX0=?ed=2560&sni=LiTtLE-vIoLet-8ADE.VpnSToREGod.WORkerS.deV&fp=chrome&alpn=http/1.1#🔵@chillguy_vpn
 vless://b3bd8d0e-3cbe-4241-a4f1-e3dd0a9e432c@45.130.125.158:443?path=/page=2&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=server-ir-3.ariyuz.org&fp=chrome&type=ws&allowInsecure=0&sni=server-ir-3.ariyuz.org#@FarazV2ray
 vless://0080c59a-a11d-4788-90b9-7d1f4e8f3089@95.182.99.236:80?path=/&security=none&encryption=none&host=95.182.99.236&type=ws#@fastkanfig 5
-vless://037b730a-ea28-5191-ad7c-3424be5efe2e@46.246.97.218:2052?path=/vless&security=&encryption=none&type=ws#@config_NG
 vless://ad356e93-cc14-417d-9f4e-32376d03f5b7@104.16.121.147:2096?path=/ws?ed=2560&security=tls&encryption=none&host=com.hozheen.ir&type=ws&sni=9b94d317f693703f.hozheen.ir#❤️‍🔥 کانال تلگرام HiByeVPNN@
 vless://e6b418af-0ff1-4fe2-a079-8aaa0841781f@162.159.16.239:443?path=/lY4xhKGq8xGZL3CP2na2X60FJ&security=tls&encryption=none&host=cdn-n5.roxi.cc&fp=chrome&type=ws&sni=cdn-n5.roxi.cc#kurdconfig
 vless://40cc9b52-25b8-4cd5-8b45-715ae26e6baf@sc-thenetherlands1.09vpn.com:80?encryption=none&path=%2Fvless%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ANL
