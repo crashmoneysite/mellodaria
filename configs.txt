@@ -11,9 +11,7 @@ trojan://humanity@www.multiplydose.com:443?path=%2Fassignment&security=tls&insec
 vless://923b7f6a-c264-4707-ba15-be9019fc94e2@de2.niekotin.de:443?encryption=none&type=ws&security=tls&path=/vless&host=de2.niekotin.de&sni=de2.niekotin.de&insecure=1&allowInsecure=1#@meliproxyy
 trojan://hF7uSJfeBPtSNXKtuYvTRNaBdGkkXHpKJfLRfbpaDWovomSL@3.8.238.251:443?path=/uk1-uk1-gcjtze&security=tls&insecure=0&host=uk1.bw8848.org&type=ws&allowInsecure=0&sni=uk1.bw8848.org&note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#[🇬🇧]t.me/Raiv2mmr
 vless://f9558e6a-0447-48a0-94e9-cd69fc638d73@de2.niekotin.de:80?path=/vless&security=none&encryption=none&type=ws#[🇩🇪]
-vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@152.228.162.19:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#%3E%3E%40vmessorg%3A%3AFR
 vless://5ce84688-f535-46ad-a512-37b17becf6ea@152.228.162.19:80?encryption=none&host=akamaized.net&path=%2Fvless%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AXX
-trojan://mitivpn@188.114.97.6:443?path=https://chatgpt.com&security=tls&alpn=http/1.1&host=mitivpn.de.ssl.global.fastly.net.mitivpn.site&fp=chrome&type=ws&sni=2.1.mitivpn.dee.srfsl.gleobal.fastl3y.n3et.mitivpn.site#🇩🇪 @internet_azad_2026
 trojan://mitivpn@sdasdfgv.global.ssl.fastly.top.mitivpn-a.site:443?security=tls&sni=global.fastly.com.mitivpn-a.site&fp=chrome&allowInsecure=0&alpn=http/1.1&type=ws&path=/ed=mitivpn#@NewsDarya
 trojan://humanity@104.16.174.12:443?security=tls&type=ws&sni=www.ignitelimit.com&path=/assignment&host=www.ignitelimit.com#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD17
 trojan://humanity@172.66.47.69:443?security=tls&type=ws&sni=www.multiplydose.com&path=/assignment&host=www.multiplydose.com#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD26
@@ -24,7 +22,6 @@ trojan://mitivpn@188.114.97.6:443?path=/ed=mitivpn&security=tls&alpn=http/1.1&ho
 vless://7d74eae4-8a06-4306-a923-ad686f30bf26@57.129.41.216:80?path=/vless/&security=none&encryption=none&host=OV-Germany1.09vpn.com&type=ws#👑@Kia_Net -_- 191
 trojan://trojan@109.234.211.66:8443?security=tls&sni=store.timimi.dpdns.org&fp=chrome&type=ws&path=/&host=store.timimi.dpdns.org#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?security=none&type=ws&path=%2Fhttp#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@104.16.150.246:2087?path=/&security=tls&encryption=none&insecure=0&host=fgnix832fx.fx6hsv0.ccwu.cc&type=ws&allowInsecure=0&sni=fgnix832fx.fx6hsv0.ccwu.cc#👑@Kia_Net -_- 189
 vmess://eyJhZGQiOiI1MS4yNTQuMTMzLjE1MiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZnI1Lm5pZWtvdGluLmRlIiwiaWQiOiJhYzhiY2Y1ZS1iYjU4LTRlOGItYjRlNC01ZmRlYTAxMGE2YzYiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdm1lc3MiLCJwb3J0IjoiODAiLCJwcyI6IkBoZXhfcHJveHkgwrMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
 trojan://humanity@www.ignitelimit.com:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0#🇨🇦66994 | ⚡️Telegram = t.me/SOSkeyNET
 vless://35a8acf9-3948-4d02-8509-0a9554b1c08d@88.99.73.167:80?type=ws&path=/evilcu&host=its.realreza.ir&security=none#🇩🇪DE-🚀@VPNine1
@@ -37,7 +34,6 @@ vless://40cc9b52-25b8-4cd5-8b45-715ae26e6baf@sc-thenetherlands1.09vpn.com:80?enc
 vless://59f93bfa-99f7-473b-a10b-a74950c005ab@141.101.123.252:8443?encryption=none&security=tls&sni=dry-surf6-0c82.jqxkqk.workers.dev&fp=chrome&type=ws&host=dry-surf6-0c82.jqxkqk.workers.dev&path=/?ed=2560#🇵🇱 PL | 141.101.123.252
 vless://b991b390-dd0f-4061-9150-bee0cb467bce@172.67.230.207:443?encryption=none&security=tls&sni=opu-ao6.pages.dev&alpn=h2,http/1.1&fp=randomized&type=ws&host=opu-ao6.pages.dev&path=/1wgvlggw75ayt15e/ns4yntuumtizljiz?ed=2560#🇨🇦 CA | 172.67.230.207
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?encryption=none&security=none&type=ws&host=google.com&path=/http#🏴‍☠️ UN | 162.19.228.119
-trojan://ppmk@188.114.97.6:8443?type=ws&security=tls&host=flat-firefly-6022.rixewi3168.workers.dev&path=/&sni=flat-firefly-6022.rixewi3168.workers.dev#@Morrfinchnl
 vless://00e94078-bb1e-49aa-8567-e1b3b2843150@172.67.195.229:443?allowInsecure=1&encryption=none&fp=chrome&host=rapid-hat-441d.platovpn.workers.dev&path=/&security=tls&sni=rapid-hat-441d.platovpn.workers.dev&type=ws#3⚕️@oneclickvpnkeys
 vless://037b730a-ea28-5191-ad7c-3424be5efe2e@46.246.97.218:2052?path=/vless&security=none&encryption=none&type=ws#10https://t.me/ConfigX2ray
 vless://037b730a-ea28-5191-ad7c-3424be5efe2e@46.246.97.218:2052?path=/vless&security=&encryption=none&type=ws#@config_NG
@@ -46,7 +42,6 @@ vless://25e0282e-7bb8-4aeb-be15-b5b610f2235a@www.speedtest.net:443?path=/eyJqdW5
 vless://25efc727-e853-49ba-9609-3c20009d0e7a@104.18.13.229:2052?encryption=none&host=winbiss-0tpka6-v1.winbiss.workers.dev&path=/&security=none&type=ws#⚕️21@oneclickvpnkeys
 vless://2bcfbfba-b446-4ad5-93ad-72af9e008f61@nuclear.us.kg:443?path=/free/1.226.227.169:50001&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=nuclear.us.kg#👑@Kia_Net -_- 129
 vless://2f0f84ed-9e4c-40ef-8a6c-286839e11a63@172.64.147.104:8880?encryption=none&host=hmedrza.ghwhdr51.workers.dev&path=/512&security=none&type=ws#⚕️27@oneclickvpnkeys
-vless://52450a53-ac49-42ff-be36-0899178d34b9@172.67.213.26:2053?security=tls&allowInsecure=0&encryption=none&type=ws&host=little-violet-8ade.vpnstoregod.workers.dev&path=/eyJqdW5rIjoiOHBjT0w3NmxvazAiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iXX0=?ed=2560&sni=LiTtLE-vIoLet-8ADE.VpnSToREGod.WORkerS.deV&fp=chrome&alpn=http/1.1#🔵@chillguy_vpn
 vless://5b002005-7fb1-413e-8cbd-08e50c87c2ea@104.18.5.46:8880/?type=ws&encryption=none&flow=&host=wetfleagidc-8tsbi8xd-v3.wet-flea-gidc.workers.dev&path=/?@V2rayBaaz&note=@FreeOnlineVPN#🇲🇩 - MD - @FreeOnlineVPN
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.162.229.50:8880?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=vms.lifetime61.workers.dev&path=/&security=none&type=ws#⚕️5@oneclickvpnkeys
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@50.62.198.50:8880?security=none&allowInsecure=0&encryption=none&type=ws&host=vms.lifetime39.workers.dev&path=/#@Netzone_ir
@@ -58,7 +53,6 @@ vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.whatismyip.net:2095?path=/fp&se
 vless://8cf1e524-ce8c-4c63-8440-3ecd687f5e8d@188.114.97.6:2053?type=ws&security=tls&host=still-lake-3cf7.dls2026.workers.dev&path=/&sni=still-lake-3cf7.dls2026.workers.dev#@Morrfinchnl
 vless://c466ef48-fb57-40c6-808d-ee48d537844d@188.114.97.6:443?encryption=none&security=tls&sni=flashed.kakoolnews118.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=flashed.kakoolnews118.workers.dev&path=/#🇨🇦67285 | ⚡️Telegram = t.me/SOSkeyNET
 vless://c49a0981-6d37-4ec0-9a01-1b63ccc07e4f@peekconfig.hamrahfree1.workers.dev:2096?path=/eyJqdW5rIjoiZHlCcVpqeEYiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iLCJbMjYwMjpmYzU5OjExOjY0OjpdIiwiWzI2MDI6ZmM1OTpiMDo2NDo6XSJdfQ==?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=peekconfig.hamrahfree1.workers.dev&fp=chrome&type=ws&sni=pEeKcOnFig.haMRaHfREe1.wOrKerS.DEv#𝙋𝙚𝙚𝙠𝘾𝙤𝙣𝙛𝙞𝙜 | مخصوص همراه اول | 1
-vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?path=/http&security=none&encryption=none&host=de.vpnbase.net&type=ws#@iguanaVPN [5]
 vless://f2f4e2dc-3e7b-402f-a461-b48acc6aa310@172.67.219.176:2087?path=/eyJqdW5rIjoid2JBOTRVclNMOVdBSVQiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=steep-bonus-8e6a.amirhon1376.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=sTeEp-BoNUs-8E6A.AmIrhon1376.woRKeRS.dEv#@vmesskhodam
 trojan://Nova-Proxy@8.39.125.191:2083?path=%2F&security=tls&insecure=1&host=spring-queen-a95f.cewon19053.workers.dev&type=ws&allowInsecure=1&sni=spring-queen-a95f.cewon19053.workers.dev#%3E%3E%40outline_vpn%3A%3AUS
 vless://3bad1d20-8601-49be-86a2-2141d21dec99@104.20.32.49:2083?path=%2F&security=tls&encryption=none&host=gentle-dream-6aa3.soh8khan13.workers.dev&fp=chrome&type=ws&sni=gentle-dream-6aa3.soh8khan13.workers.dev#%3E%3E%40v2rayng_fast%3A%3AUS
