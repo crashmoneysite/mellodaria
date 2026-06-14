@@ -30,20 +30,11 @@ trojan://hF7uSJfeBPtSNXKtuYvTRNaBdGkkXHpKJfLRfbpaDWovomSL@3.8.238.251:443?path=/
 trojan://humanity@104.18.13.149:443?path=/assignment&security=tls&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#@freenettir
 vless://883ec812-198a-4425-b53d-f1cb311b3026@chess.com:443?encryption=none&security=tls&sni=ergtfdlskfghffh86df4h18b6rsd41hb86f4hg816sz54fd86sa4wr86f4ghr65.kiefer20.woRKErs.DeV&alpn=h2,http/1.1&fp=chrome&type=ws&host=ergtfdlskfghffh86df4h18b6rsd41hb86f4hg816sz54fd86sa4wr86f4ghr65.kiefer20.woRKErs.DeV&path=vless-ws/?ed=2048#🇨🇦70545 | ⚡️Telegram = t.me/SOSkeyNET
 vless://a40d3a03-a6b7-4e70-afdb-f23f1699a8d2@sedfxyz.s16.viptelbot.top:80?path=/watson.php&security=none&encryption=none&type=ws#🇳🇱70474 | ⚡️Telegram = t.me/SOSkeyNET
-vless://b3bd8d0e-3cbe-4241-a4f1-e3dd0a9e432c@45.130.125.158:443?path=/page=2&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=server-ir-3.ariyuz.org&fp=chrome&type=ws&allowInsecure=0&sni=server-ir-3.ariyuz.org#@hex_proxy ⁸
 vless://5461c9bf-93c5-4255-943c-9c4ca9b14b43@pkg.cloudflareclient.com:443?encryption=none&security=tls&sni=ghjgkhgd4g56t4e6d4f8s6e4f8s64f58sf4s684g68de4gtedt48erd4tred6t4.enzo-15.wORkerS.dev&alpn=h2,http/1.1&fp=chrome&type=ws&host=ghjgkhgd4g56t4e6d4f8s6e4f8s64f58sf4s684g68de4gtedt48erd4tred6t4.enzo-15.wORkerS.dev&path=vless-ws/?ed=2048#🇨🇦70582 | ⚡️Telegram = t.me/SOSkeyNET
-vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?encryption=none&host=de.vpnbase.net&path=/http&security=none&type=ws#🦕1@oneclickvpnkeys
 trojan://VIP-VPN-join@141.101.90.101:443?type=ws&host=profile.vexaservice.ir&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1%2Ch3&fp=chrome&sni=profile.vexaservice.ir#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@OV-France1.09vpn.com:80?path=/vless/&security=&encryption=none&type=ws#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-vless://037b730a-ea28-5191-ad7c-3424be5efe2e@46.246.97.218:2052?encryption=none&type=ws&path=/vless#@freenettir
+trojan://humanity@104.18.13.149:443?path=/assignment&security=tls&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#@freenettir
 vless://037b730a-ea28-5191-ad7c-3424be5efe2e@46.246.97.218:2052?path=/vless&security=&encryption=none&type=ws#⚡@V2ray_official
 vless://ac25a33c-a88d-514f-b37b-7e57d4f268c0@195.54.161.222:2052?encryption=none&path=/vless&security=none&type=ws#🐊84@oneclickvpnkeys
-vless://abd3678b-f654-404c-adc7-1355865197e1@vmess.a-amr79.workers.dev:8880?encryption=none&type=ws&path=/eyJqdW5rIjoiNUZVWmdPNWNpTW5LOCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzI2MDI6ZmM1OTpiMDo2NDo6XSJdfQ&host=vless.a-amr79.workers.dev#@freenettir
-vless://d036cc79-7142-5376-82b3-14acb32a4d8a@193.243.147.244:8880?encryption=none&host=openai.com&path=/vless&security=none&type=ws#3🐊@oneclickvpnkeys
-vless://d8c05f47-6ca7-4c6a-badf-b7e5e818699c@172.67.139.51:443?encryption=none&type=ws&path=%2FeyJqdW5rIjoiM25HVThlWGhhcThVT3g2ZSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3Fed%3D2560&security=tls&alpn=http%2F1.1&fp=chrome&sni=noiZvPn.aSAd13321.wORkers.dEv#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
-trojan://5JKj82yC2BNxy8LAZha8Gsj2BAexJJU7ttTfeFcuHzmLjAiZ@46.137.202.140:443?path=/node1-node1-5sczzi&security=tls&insecure=0&host=node1.bw8848.org&type=ws&allowInsecure=0&sni=node1.bw8848.org#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-trojan://5JKj82yC2BNxy8LAZha8Gsj2BAexJJU7ttTfeFcuHzmLjAiZ@46.137.202.140:443?path=/node1-node1-5sczzi&security=tls&insecure=0&host=node1.bw8848.org&type=ws&allowInsecure=0&sni=node1.bw8848.org#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://f9558e6a-0447-48a0-94e9-cd69fc638d73@de2.niekotin.de:80?encryption=none&type=ws&path=%2Fvless&security=none#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-trojan://5JKj82yC2BNxy8LAZha8Gsj2BAexJJU7ttTfeFcuHzmLjAiZ@46.137.202.140:443?path=/node1-node1-5sczzi&security=tls&insecure=0&host=node1.bw8848.org&type=ws&allowInsecure=0&sni=node1.bw8848.org#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-trojan://humanity@www.gossipglove.com:443?security=tls&alpn=http%2f1.1&fp=chrome&type=ws&path=%2fassignment#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-vless://f9558e6a-0447-48a0-94e9-cd69fc638d73@de2.niekotin.de:80?encryption=none&type=ws&path=%2Fvless&security=none#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+trojan://trojan@109.234.211.66:8443?security=tls&sni=store.timimi.dpdns.org&fp=chrome&type=ws&path=/&host=store.timimi.dpdns.org#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
+vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@OV-France1.09vpn.com:80?path=/vless/&security=&encryption=none&type=ws#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
