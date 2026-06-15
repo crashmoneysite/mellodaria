@@ -41,6 +41,3 @@ vless://e73df646-1f62-41bf-8c50-653497d603d0@sc-thenetherlands2.09vpn.com:80?enc
 vless://c9ec8f14-3e9b-44a0-a1cd-0b1d270c4556@31.76.82.3:8080?encryption=none&type=ws&host=progressiya-vpn.online&path=%2Fdda12c57317ed12178061db1b799ebd2&security=none#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://3f3e702b-9ba5-4d21-bc67-0e5fc725df5c@188.114.97.6:2096?encryption=none&type=ws&host=polished-union-8bed.mmdu1386.workers.dev&path=%2FeyJqdW5rIjoiOG9CdVJzZU41QSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE5NS4xMzMuNDQuMjEiXX0%3D%3Fed%3D2560&security=tls&alpn=http%2F1.1&fp=chrome&sni=poLIsHEd-UniOn-8Bed.MmdU1386.wOrKeRS.dEV#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 vless://037b730a-ea28-5191-ad7c-3424be5efe2e@46.246.97.218:2052?encryption=none&type=ws&path=/vless#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
-trojan://humanity@www.gossipglove.com:443?fp=chrome&path=%2Fassignment&security=tls&type=ws#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-vless://c9ec8f14-3e9b-44a0-a1cd-0b1d270c4556@31.76.82.3:8080?encryption=none&type=ws&host=progressiya-vpn.online&path=%2Fdda12c57317ed12178061db1b799ebd2&security=none#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-trojan://7UdfQ85dsJ@45.130.125.158:8080?type=ws&security=none&path=/?ed=2048&host=s1.aananas.ir#🇸🇨 SC | 45.130.125.158
