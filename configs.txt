@@ -13,7 +13,6 @@ vmess://eyJhZGQiOiIxMDQuMTguMTkuOTkiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9z
 vmess://eyJhZGQiOiIxMDMuNzUuMTk3Ljg4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImEyZmY2YzQ0LTBlNTctNGVmMy04YThhLTQwNGVmYWI4NTlmYSIsImluc2VjdXJlIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii92bWVzc3dzIiwicG9ydCI6IjgwIiwicHMiOiJAaGV4X3Byb3h5IMKzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
 vless://b8a47567-be06-4ef5-a707-8879be68caec@www.speedtest.net:2052?encryption=none&host=dl.summercart.net&path=/&security=none&type=ws#@DALTON_PING
 vless://e277ac9b-3225-4381-a9fb-3585419f7142@love.ns.cloudflare.com:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&type=ws&security=tls&sni=media05.halalkhor.info&fp=chrome&alpn=http/1.1&path=/media05&host=media05.halalkhor.info#@GozargahAzad|🏁
-vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@104.16.150.246:2087?path=/&security=tls&encryption=none&insecure=0&host=fgnix832fx.fx6hsv0.ccwu.cc&type=ws&allowInsecure=0&sni=fgnix832fx.fx6hsv0.ccwu.cc#👑@Kia_Net -_- 189
 trojan://humanity@104.16.174.121:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#4https://t.me/ConfigX2ray
 trojan://humanity@www.multiplydose.com:443?path=/assignment&security=tls&type=ws#@outline_ir
 trojan://humanity@www.multiplydose.com:443?path=/assignment&security=tls&insecure=1&type=ws&allowInsecure=1#Channel id: @ShadowProxy66 🇨🇦
