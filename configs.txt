@@ -34,17 +34,11 @@ vless://7d74eae4-8a06-4306-a923-ad686f30bf26@57.129.41.216:80?encryption=none&ho
 trojan://humanity@www.gossipglove.com:443?fp=chrome&path=%2Fassignment&security=tls&type=ws#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 trojan://humanity@104.19.229.21:443?path=/assignment&security=tls&insecure=0&host=www.gossipglove.com&type=ws&allowInsecure=0&sni=www.gossipglove.com#@Filtershekan_channel |7
 vless://1fd53fc6-f1ce-438e-b55e-5780be54d0d7@leecher56.zereshkeqanbar.ir:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=Anten.ir&path=/&security=tls&sni=leecher56.zereshkeqanbar.ir&type=ws#Germany|🇩🇪-@Leecher56-100.00GB📊
-vless://037b730a-ea28-5191-ad7c-3424be5efe2e@46.246.97.218:2052?path=/vless&security=none&encryption=none&type=ws#@FarazV2ray
 vless://c9ec8f14-3e9b-44a0-a1cd-0b1d270c4556@31.76.82.3:8080?encryption=none&type=ws&host=progressiya-vpn.online&path=%2Fdda12c57317ed12178061db1b799ebd2&security=none#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://3f3e702b-9ba5-4d21-bc67-0e5fc725df5c@188.114.97.6:2096?encryption=none&type=ws&host=polished-union-8bed.mmdu1386.workers.dev&path=%2FeyJqdW5rIjoiOG9CdVJzZU41QSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE5NS4xMzMuNDQuMjEiXX0%3D%3Fed%3D2560&security=tls&alpn=http%2F1.1&fp=chrome&sni=poLIsHEd-UniOn-8Bed.MmdU1386.wOrKeRS.dEV#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 vless://12e2b366-6426-4e09-9c6f-9c894262b923@de2.niekotin.de:80?encryption=none&type=ws&path=/vless&host=de2.niekotin.de&brand=@Arvand_soul#@Arvand_soul @Arvand_soul❤️🧑‍💻 کانفیگ ملی در
-vless://91171c46-80f7-4125-a9e1-264e57177299@104.18.110.121:2083?encryption=none&security=tls&sni=2cf031be.joker-c1s.pages.dev&alpn=h2,http/1.1&fp=chrome&type=ws&host=2cf031be.joker-c1s.pages.dev&path=/rv4dkzsztcmkhyki?ed=2560#🚀@VPNine1
-vless://91171c46-80f7-4125-a9e1-264e57177299@104.18.110.121:2083?encryption=none&security=tls&sni=2cf031be.joker-c1s.pages.dev&alpn=h2,http/1.1&fp=chrome&type=ws&host=2cf031be.joker-c1s.pages.dev&path=/rv4dkzsztcmkhyki?ed=2560#🚀@VPNine1
-vless://91171c46-80f7-4125-a9e1-264e57177299@104.18.110.121:2083?encryption=none&security=tls&sni=2cf031be.joker-c1s.pages.dev&alpn=h2,http/1.1&fp=chrome&type=ws&host=2cf031be.joker-c1s.pages.dev&path=/rv4dkzsztcmkhyki?ed=2560#🚀@VPNine1
 vless://7a5cd520-f42a-5190-802f-d2cf86772c95@193.200.16.127:2052?path=/vless&security=none&encryption=none&type=ws#@hex_proxy ³
 vless://ac25a33c-a88d-514f-b37b-7e57d4f268c0@195.54.161.222:2052?encryption=none&path=%2Fvless&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AGB
+trojan://trojan@109.234.211.66:8443?security=tls&sni=store.timimi.dpdns.org&fp=chrome&type=ws&path=/&host=store.timimi.dpdns.org#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
 vless://c9ec8f14-3e9b-44a0-a1cd-0b1d270c4556@31.76.82.3:8080?encryption=none&type=ws&host=progressiya-vpn.online&path=%2Fdda12c57317ed12178061db1b799ebd2&security=none#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?security=none&type=ws&path=%2Fhttp#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@OV-France1.09vpn.com:80?path=/vless/&security=&encryption=none&type=ws#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-vless://7d74eae4-8a06-4306-a923-ad686f30bf26@OV-Germany1.09vpn.com:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-trojan://cIatXQiBDG@45.130.125.158:8080?type=ws&security=none&path=/?ed=2048&host=s2.aananas.ir#🇸🇨 SC | 45.130.125.158
+trojan://7UdfQ85dsJ@45.130.125.158:8080?type=ws&security=none&path=/?ed=2048&host=s1.aananas.ir#🇸🇨 SC | 45.130.125.158
