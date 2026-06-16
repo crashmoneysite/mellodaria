@@ -23,7 +23,6 @@ trojan://humanity@104.19.229.21:443?path=//assignment&security=tls&insecure=0&ho
 trojan://humanity@104.16.174.121:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#@FREE_VPN02
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?encryption=none&host=de.vpnbase.net&path=/http&security=none&type=ws#🫐16@oneclickvpnkeys
 vless://9843588f-413a-4cac-a593-9d32ca66f0af@awgshop24.ru:2083?path=/randompath123&security=none&encryption=none&host=www.google.com&type=ws#@V2VODKA_A 🇮🇹 1
-vless://c49a0981-6d37-4ec0-9a01-1b63ccc07e4f@peekconfig.hamrahfree1.workers.dev:2096?path=/eyJqdW5rIjoiZHlCcVpqeEYiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iLCJbMjYwMjpmYzU5OjExOjY0OjpdIiwiWzI2MDI6ZmM1OTpiMDo2NDo6XSJdfQ==?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=peekconfig.hamrahfree1.workers.dev&fp=chrome&type=ws&sni=pEeKcOnFig.haMRaHfREe1.wOrKerS.DEv#𝙋𝙚𝙚𝙠𝘾𝙤𝙣𝙛𝙞𝙜 | مخصوص همراه اول | 1
 trojan://humanity@104.20.6.134:443?security=tls&type=ws&sni=www.calmloud.com&path=/assignment&host=www.calmloud.com#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD9
 vless://4f013568-a58b-4b04-b5dd-4d52bf1c33a4@betty.ns.cloudflare.com:443?encryption=none&host=amoosamiii.net&path=/poiuyws&security=tls&sni=amoosamiii.net&type=ws#🫐84@oneclickvpnkeys
 vless://40cc9b52-25b8-4cd5-8b45-715ae26e6baf@sc-thenetherlands1.09vpn.com:80?encryption=none&path=%2Fvless%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ANL
@@ -41,9 +40,7 @@ vless://40cc9b52-25b8-4cd5-8b45-715ae26e6baf@163.172.214.188:80?security=none&ty
 vless://64647238-c6a2-4142-8c74-c1be239140ab@client.jison.ir:443?type=ws&path=/ws&host=sdt.jison.ir&security=tls&fp=&alpn=h3,h2,http/1.1&sni=fty.jison.ir#🇨🇦74464 | ⚡️Telegram = t.me/SOSkeyNET
 vless://73796e63-0000-4000-8000-000000000000@grok.com:443?encryption=none&type=ws&host=assusususususu.j-inxfansever.workers.dev&path=/sync&security=tls&fp=chrome&sni=assusususususu.j-inxfansever.workers.dev#🇨🇦74463 | ⚡️Telegram = t.me/SOSkeyNET
 vless://a491b1c4-1141-4f59-9731-e0621f6e452f@8.6.112.232:443?path=/@mahdi_383ir&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=website.yaroo383mardak.online&fp=chrome&type=ws&allowInsecure=0&sni=website.yaroo383mardak.online#🔵@chillguy_vpn
-vless://245a420e-7811-4296-b347-59bf12bcfc5b@ger39.vlessgroup.com:8443?path=/images&security=tls&encryption=none&host=ger39.vlessgroup.com&type=ws#@filembad
 vless://7a5cd520-f42a-5190-802f-d2cf86772c95@193.200.16.127:2052?path=%2Fvless&security=&encryption=none&type=ws#%3E%3E%40ShadowsocksM%3A%3APL
 vless://12e2b366-6426-4e09-9c6f-9c894262b923@de2.niekotin.de:80?encryption=none&host=de2.niekotin.de&path=%2Fvless&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AXX
-vless://073d1d50-8478-47bf-a828-7a1b381931d5@betty.ns.cloudflare.com:443?encryption=none&type=ws&host=octopusss.net&path=%2Fodiyfws&security=tls&sni=octopusss.net#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-trojan://humanity@www.gossipglove.com:443?fp=chrome&path=%2Fassignment&security=tls&type=ws#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-vmess://eyJhZGQiOiIzOC4xMDcuMjM0LjU3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjU2N2Y0YmU1LTEyYWItNDJlMS1iOGQ5LWRiNmZkMWZkZDMxYyIsIm5ldCI6IndzIiwicGF0aCI6Ii92bWVzcy8iLCJwb3J0IjoiODAiLCJwcyI6ImhhbWVkcDcxOjrwn4+04oCN4pig77iPIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
+vless://40cc9b52-25b8-4cd5-8b45-715ae26e6baf@SC-TheNetherlands1.09vpn.com:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+trojan://trojan@109.234.211.66:8443?security=tls&sni=store.timimi.dpdns.org&fp=chrome&type=ws&path=/&host=store.timimi.dpdns.org#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
