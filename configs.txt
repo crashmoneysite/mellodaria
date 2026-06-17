@@ -38,5 +38,3 @@ trojan://63c392c7d53c@104.21.70.127:443?path=/eyJqdW5rIjoidkMySGZZY24iLCJwcm90b2
 trojan://MiTiVPN@104.21.18.41:443?path=/cdn=mitivpn&security=tls&alpn=http/1.1&host=linkkon-w.ir&fp=chrome&type=ws&sni=linkkon-w.ir#@outline_ir
 vless://7d74eae4-8a06-4306-a923-ad686f30bf26@57.129.41.216:80?encryption=none&host=OV-Germany1.09vpn.com&path=%2Fvless%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ADE
 vless://6e25f7b4-efce-425a-af98-3f310623bfa2@45.130.125.2:2053?encryption=none&type=ws&host=8.globalmanagment.ir&path=%2F%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&fp=chrome&sni=8.globalmanagment.ir#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://073d1d50-8478-47bf-a828-7a1b381931d5@betty.ns.cloudflare.com:443?encryption=none&type=ws&host=octopusss.net&path=%2Fodiyfws&security=tls&sni=octopusss.net#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-vless://c9ec8f14-3e9b-44a0-a1cd-0b1d270c4556@31.76.82.3:8080?encryption=none&type=ws&host=progressiya-vpn.online&path=%2Fdda12c57317ed12178061db1b799ebd2&security=none#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
