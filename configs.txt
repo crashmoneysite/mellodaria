@@ -13,7 +13,6 @@ vless://c9ec8f14-3e9b-44a0-a1cd-0b1d270c4556@31.76.82.3:8080?encryption=none&typ
 vless://245a420e-7811-4296-b347-59bf12bcfc5b@ger39.vlessgroup.com:8443?path=/images&security=tls&encryption=none&host=ger39.vlessgroup.com&type=ws#@filembad
 vless://073d1d50-8478-47bf-a828-7a1b381931d5@betty.ns.cloudflare.com:443?encryption=none&type=ws&host=octopusss.net&path=%2Fodiyfws&security=tls&sni=octopusss.net#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@betty.ns.cloudflare.com:443?encryption=none&type=ws&host=terazhediii.info&path=%2Fhdgrbws&security=tls&sni=terazhediii.info#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://1fd53fc6-f1ce-438e-b55e-5780be54d0d7@leecher56.zereshkeqanbar.ir:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=Anten.ir&path=/&security=tls&sni=leecher56.zereshkeqanbar.ir&type=ws#Germany|🇩🇪-@Leecher56-100.00GB📊
 trojan://humanity@www.multiplydose.com:443?path=/assignment&security=tls&type=ws#@ReleaseNet
 trojan://humanity@172.64.152.23:443?security=tls&type=ws&sni=www.calmlunch.com&path=/assignment&host=www.calmlunch.com#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD8
 vmess://eyJhZGQiOiJkZTUudGFza2Zsb3dodWIub3JnIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJkZTUudGFza2Zsb3dodWIub3JnIiwiaWQiOiJiYjVmZmRmYS1lY2M4LTRiZmEtOTUxYS1iMGRlZGVkZjgxODQiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvcmVhbHRpbWUiLCJwb3J0IjoiMjA4NyIsInBzIjoiPj5AY29uZmlnVjJyYXlORzo6REUiLCJzY3kiOiJhdXRvIiwic25pIjoiZGU1LnRhc2tmbG93aHViLm9yZyIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
@@ -42,5 +41,3 @@ vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?encryption=none&h
 vless://2bcfbfba-b446-4ad5-93ad-72af9e008f61@nuclear.us.kg:443?encryption=none&security=tls&sni=nuclear.us.kg&insecure=0&allowInsecure=0&type=ws&path=/free/1.226.227.169:50001#%3E%3E%40configshub2%3A%3AUS
 vless://7d74eae4-8a06-4306-a923-ad686f30bf26@57.129.41.216:80?encryption=none&host=OV-Germany1.09vpn.com&path=%2Fvless%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ADE
 vless://ac25a33c-a88d-514f-b37b-7e57d4f268c0@195.54.161.222:2052?encryption=none&path=%2Fvless&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AGB
-trojan://humanity@www.gossipglove.com:443?fp=chrome&path=%2Fassignment&security=tls&type=ws#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-vless://c9ec8f14-3e9b-44a0-a1cd-0b1d270c4556@31.76.82.3:8080?encryption=none&type=ws&host=progressiya-vpn.online&path=%2Fdda12c57317ed12178061db1b799ebd2&security=none#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
