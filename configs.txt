@@ -32,29 +32,12 @@ trojan://humanity@www.ignitelimit.com:443?security=tls&type=ws&path=/assignment#
 trojan://MiTiVPN@104.21.18.41:443?path=/cdn=mitivpn&security=tls&alpn=http/1.1&host=linkkon-w.ir&fp=chrome&type=ws&sni=linkkon-w.ir#@outline_ir
 trojan://humanity@104.16.174.121:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#@FREE_VPN02
 trojan://humanity@www.multiplydose.com:443?path=%2Fassignment&security=tls&insecure=1&type=ws&allowInsecure=1#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-vless://073d1d50-8478-47bf-a828-7a1b381931d5@betty.ns.cloudflare.com:443?encryption=none&type=ws&host=octopusss.net&path=%2Fodiyfws&security=tls&sni=octopusss.net#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 vless://69330ab9-eb51-4bb6-9c07-3f2401c476af@panel.dibaux.ir:80?encryption=none&type=ws&path=%2Fstream&security=none#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-trojan://MiTiVPN@188.114.97.6:443?path=/ed=mitivpn&security=tls&alpn=http/1.1&host=wwww.95r.ir&fp=chrome&type=ws&sni=wwww.95r.ir#@outline_ir
-trojan://MiTiVPN@188.114.97.6:443?path=/ed=mitivpn&security=tls&alpn=http/1.1&host=wwww.95r.ir&fp=chrome&type=ws&sni=wwww.95r.ir#@outline_ir
+trojan://MiTiVPN@104.21.18.41:443?path=/cdn=mitivpn&security=tls&alpn=http/1.1&host=linkkon-w.ir&fp=chrome&type=ws&sni=linkkon-w.ir#@outline_ir
 trojan://humanity@104.18.152.229:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#@ReleaseNet
-trojan://A4u^p(_UR*F6@www.speedtest.net:443?path=/eyJqdW5rIjoidlhnMXN5OXFUSiIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=?ed=2560&security=tls&alpn=http/1.1&host=027.electrocellco-cf-027.workers.dev&fp=chrome&type=ws&sni=027.ELeCTroCelLco-CF-027.wORkERS.dEv#Channel id: @internet_azad_2026 🇨🇦
-vless://049e56d8-0ba0-49e3-b764-ee04122b9f00@ov-italy1.09vpn.com:80?path=/vless/&security=&encryption=none&type=ws#🇮🇹75924 | ⚡️Telegram = t.me/SOSkeyNET
 vless://14fcbcd4-2c96-4c30-b3ca-2e87ea8918d7@188.114.97.6:80?encryption=none&type=ws&path=/ws-vlees&host=app3.app-all-ccoo.com#4https://t.me/ConfigX2ray
 vless://91679c30-bc1f-35e4-2cb2-ff0358e3d823@66.33.23.63:443?encryption=none&security=tls&sni=tmesubgift.up.railway.app&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=tmesubgift.up.railway.app&path=/ws/91679c30-bc1f-35e4-2cb2-ff0358e3d823#92-3
-vless://9ce7ac33-5004-40ea-8236-15bc2d25a37c@104.17.17.136:8443?path=/v2ngfast---v2ngfast---v2ngfast---v2ngfast---v2ngfast&security=tls&encryption=none&host=v2ngfast.njiuhbvgy1458.workers.dev&fp=chrome&type=ws&sni=v2ngfast.njiuhbvgy1458.workers.dev#🇩🇪 @V2ngFast
-vless://9ce7ac33-5004-40ea-8236-15bc2d25a37c@104.17.17.136:8443?path=/v2ngfast---v2ngfast---v2ngfast---v2ngfast---v2ngfast&security=tls&encryption=none&host=v2ngfast.njiuhbvgy1458.workers.dev&fp=chrome&type=ws&sni=v2ngfast.njiuhbvgy1458.workers.dev#🇩🇪 @V2ngFast
-vless://b585dc5e-55bf-4a8b-913a-27c9ccac05c3@149.202.58.99:443?encryption=none&type=ws&security=tls&path=/vws/&host=bab-6.site&sni=bab-6.site&fp=chrome&insecure=0&allowInsecure=0#6https://t.me/ConfigX2ray
-vless://c77d5867-7528-4062-8370-700eaf351560@cdn8.nomac.ir:2082?path=/&security=none&encryption=none&host=se1.nomac.ir&type=ws#🇩🇪75956 | ⚡️Telegram = t.me/SOSkeyNET
-vless://dcfc4c1b-55b1-d704-6c33-bcdf7d6dac79@tmesubgift.up.railway.app:443?path=/ws/dcfc4c1b-55b1-d704-6c33-bcdf7d6dac79&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=&fp=chrome&type=ws&allowInsecure=0&sni=#🇺🇸US-🚀@VPNine1
 vless://e73df646-1f62-41bf-8c50-653497d603d0@sc-thenetherlands2.09vpn.com:80?path=/vless/&security=none&encryption=none&host=SC-TheNetherlands2.09vpn.com&type=ws#@v2raybaaz
 vless://049e56d8-0ba0-49e3-b764-ee04122b9f00@OV-Italy1.09vpn.com:80?path=/vless/&security=&encryption=none&type=ws#%3E%3E%40configshub2%3A%3AXX
 vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@152.228.162.19:80?path=%2Fvless%2F&security=&encryption=none&type=ws#%3E%3E%40configV2rayNG%3A%3AFR
-trojan://ppmk@104.18.32.47:8443?allowInsecure=1&alpn=http%252F1.1&ed=2560&eh=Sec-WebSocket-Protocol&fp=chrome&host=flat-firefly-6022.rixewi3168.workers.dev&path=%2F&sni=flat-firefly-6022.rixewi3168.workers.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
-vless://79863d42-9f1c-4e8e-a65b-1003090871c1@45.147.248.115:443?alpn=http%2F1.1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=confighaye.mokhaberatebinzon.workers.dev&path=%2FeyJqdW5rIjoiUHVXcXFjYTJGVGI3IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19&security=tls&sni=coNFIghayE.moKhaBeraTebInZON.workErS.deV&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ADE
-trojan://humanity@www.gossipglove.com:443?allowInsecure=1&path=%2Fassignment&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
-trojan://trojan@109.234.211.66:8443?security=tls&sni=store.timimi.dpdns.org&fp=chrome&type=ws&path=/&host=store.timimi.dpdns.org#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-trojan://trojan@109.234.211.66:8443?security=tls&sni=store.timimi.dpdns.org&fp=chrome&type=ws&path=/&host=store.timimi.dpdns.org#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://1244a6b2-70e2-41fd-8997-97eebe3d2c61@198.41.223.229:443?encryption=none&type=ws&host=accv9.mmhz9.workers.dev&path=%2F&security=tls&fp=chrome&sni=accv9.mmhz9.workers.dev#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@po.fastbrokencompony.com:2053?encryption=none&type=ws&host=po.fastbrokencompony.com&path=%2F&security=tls&alpn=h3%2Ch2&fp=chrome&sni=po.fastbrokencompony.com#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://69330ab9-eb51-4bb6-9c07-3f2401c476af@panel.dibaux.ir:80?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/stream&security=none&encryption=none&host=&type=ws#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-vless://0b952492-2b0f-4eab-831c-6223c652437c@98.159.111.111:80?encryption=none&type=ws&path=%2F&security=none#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
