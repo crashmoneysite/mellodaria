@@ -18,7 +18,6 @@ trojan://humanity@172.64.152.23:443?security=tls&type=ws&sni=www.calmlunch.com&p
 vmess://eyJhZGQiOiJkZTUudGFza2Zsb3dodWIub3JnIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJkZTUudGFza2Zsb3dodWIub3JnIiwiaWQiOiJiYjVmZmRmYS1lY2M4LTRiZmEtOTUxYS1iMGRlZGVkZjgxODQiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvcmVhbHRpbWUiLCJwb3J0IjoiMjA4NyIsInBzIjoiPj5AY29uZmlnVjJyYXlORzo6REUiLCJzY3kiOiJhdXRvIiwic25pIjoiZGU1LnRhc2tmbG93aHViLm9yZyIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
 trojan://humanity@104.19.229.21:443?path=//assignment&security=tls&insecure=0&host=www.multiplydose.com&type=ws&allowInsecure=0&sni=www.multiplydose.com#@Filtershekan_channel |3
 trojan://humanity@104.16.174.121:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#@FREE_VPN02
-trojan://humanity@104.20.6.134:443?security=tls&type=ws&sni=www.calmloud.com&path=/assignment&host=www.calmloud.com#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD9
 vless://4f013568-a58b-4b04-b5dd-4d52bf1c33a4@betty.ns.cloudflare.com:443?encryption=none&host=amoosamiii.net&path=/poiuyws&security=tls&sni=amoosamiii.net&type=ws#🫐84@oneclickvpnkeys
 trojan://VN3zRAL4Hq@45.130.125.156:8080?type=ws&security=none&path=/da&host=s3.aananas.ir#🇸🇨SC-🚀@VPNine1
 vless://73796e63-0000-4000-8000-000000000000@grok.com:443?encryption=none&type=ws&host=assusususususu.j-inxfansever.workers.dev&path=/sync&security=tls&fp=chrome&sni=assusususususu.j-inxfansever.workers.dev#🇨🇦74463 | ⚡️Telegram = t.me/SOSkeyNET
@@ -38,11 +37,10 @@ vless://5ce84688-f535-46ad-a512-37b17becf6ea@152.228.162.19:80?path=/vless/&secu
 vless://037b730a-ea28-5191-ad7c-3424be5efe2e@46.246.97.218:2052?encryption=none&type=ws&path=/vless#@freenettir
 vless://b585dc5e-55bf-4a8b-913a-27c9ccac05c3@149.202.58.99:443?path=/vws/&security=tls&encryption=none&insecure=0&host=bab-6.site&fp=chrome&type=ws&allowInsecure=0&sni=bab-6.site#V2RFA
 vless://e0346ac5-f345-44d9-a969-54378934e49f@z4.ramito.ir:2052?path=/&security=none&encryption=none&host=n4.ramito.ir&type=ws#🇨🇦74706 | ⚡️Telegram = t.me/SOSkeyNET
-vless://037b730a-ea28-5191-ad7c-3424be5efe2e@46.246.97.218:2052?path=/vless&security=none&encryption=none&type=ws#@FarazV2ray
 vless://049e56d8-0ba0-49e3-b764-ee04122b9f00@OV-Italy1.09vpn.com:80?path=/vless/&security=&encryption=none&type=ws#%3E%3E%40configshub2%3A%3AXX
 vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@152.228.162.19:80?path=%2Fvless%2F&security=&encryption=none&type=ws#%3E%3E%40configV2rayNG%3A%3AFR
 vless://7d74eae4-8a06-4306-a923-ad686f30bf26@57.129.41.216:80?encryption=none&host=OV-Germany1.09vpn.com&path=%2Fvless%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ADE
 vless://049e56d8-0ba0-49e3-b764-ee04122b9f00@ov-italy1.09vpn.com:80?encryption=none&path=%2Fvless%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AXX
-trojan://humanity@www.ignitelimit.com:443?security=tls&encryption=none&type=ws&path=%2fassignment#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+vless://073d1d50-8478-47bf-a828-7a1b381931d5@betty.ns.cloudflare.com:443?encryption=none&type=ws&host=octopusss.net&path=%2Fodiyfws&security=tls&sni=octopusss.net#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 trojan://humanity@www.multiplydose.com:443?path=%2Fassignment&security=tls&insecure=1&type=ws&allowInsecure=1#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-vless://f9558e6a-0447-48a0-94e9-cd69fc638d73@de2.niekotin.de:80?encryption=none&type=ws&path=%2Fvless&security=none#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://c9ec8f14-3e9b-44a0-a1cd-0b1d270c4556@31.76.82.3:8080?encryption=none&type=ws&host=progressiya-vpn.online&path=%2Fdda12c57317ed12178061db1b799ebd2&security=none#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
