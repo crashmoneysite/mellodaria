@@ -38,4 +38,3 @@ vless://64647238-c6a2-4142-8c74-c1be239140ab@client.jison.ir:443?type=ws&path=/w
 vless://73796e63-0000-4000-8000-000000000000@grok.com:443?encryption=none&type=ws&host=assusususususu.j-inxfansever.workers.dev&path=/sync&security=tls&fp=chrome&sni=assusususususu.j-inxfansever.workers.dev#🇨🇦74463 | ⚡️Telegram = t.me/SOSkeyNET
 vless://a491b1c4-1141-4f59-9731-e0621f6e452f@8.6.112.232:443?path=/@mahdi_383ir&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=website.yaroo383mardak.online&fp=chrome&type=ws&allowInsecure=0&sni=website.yaroo383mardak.online#🔵@chillguy_vpn
 vless://7a5cd520-f42a-5190-802f-d2cf86772c95@193.200.16.127:2052?path=%2Fvless&security=&encryption=none&type=ws#%3E%3E%40ShadowsocksM%3A%3APL
-vless://12e2b366-6426-4e09-9c6f-9c894262b923@de2.niekotin.de:80?encryption=none&host=de2.niekotin.de&path=%2Fvless&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AXX
