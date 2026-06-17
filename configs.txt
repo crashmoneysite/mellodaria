@@ -33,7 +33,6 @@ vless://40cc9b52-25b8-4cd5-8b45-715ae26e6baf@SC-TheNetherlands1.09vpn.com:80?pat
 trojan://humanity@104.19.229.21:443?path=/assignment&security=tls&insecure=0&host=www.gossipglove.com&type=ws&allowInsecure=0&sni=www.gossipglove.com#@Filtershekan_channel |7
 vless://037b730a-ea28-5191-ad7c-3424be5efe2e@46.246.97.218:2052?path=/vless&security=none&encryption=none&type=ws#@FarazV2ray
 trojan://VN3zRAL4Hq@45.130.125.156:8080?type=ws&security=none&path=/da&host=s3.aananas.ir#🇸🇨SC-🚀@VPNine1
-vless://037b730a-ea28-5191-ad7c-3424be5efe2e@46.246.97.218:2052?path=/vless&security=&encryption=none&type=ws#⚡@V2ray_official
 vless://40cc9b52-25b8-4cd5-8b45-715ae26e6baf@163.172.214.188:80?security=none&type=ws&path=/vless/#🇳🇱 Join+Telegram:@Farah_VPN 🇳🇱
 vless://64647238-c6a2-4142-8c74-c1be239140ab@client.jison.ir:443?type=ws&path=/ws&host=sdt.jison.ir&security=tls&fp=&alpn=h3,h2,http/1.1&sni=fty.jison.ir#🇨🇦74464 | ⚡️Telegram = t.me/SOSkeyNET
 vless://73796e63-0000-4000-8000-000000000000@grok.com:443?encryption=none&type=ws&host=assusususususu.j-inxfansever.workers.dev&path=/sync&security=tls&fp=chrome&sni=assusususususu.j-inxfansever.workers.dev#🇨🇦74463 | ⚡️Telegram = t.me/SOSkeyNET
