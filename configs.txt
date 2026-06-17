@@ -35,13 +35,6 @@ vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?encryption=none&h
 vmess://eyJhZGQiOiI1Ny4xMzEuMzIuMTkxIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJPVi1JdGFseTEuMDl2cG4uY29tIiwiaWQiOiI4NDhhZjMzYy04MWYyLTQwYzktOTNiMi00NjgxZDA1NjkzNmIiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdm1lc3MvIiwicG9ydCI6Ijg0NDMiLCJwcyI6IkBGYXJhelYycmF5Iiwic2N5IjoiYXV0byIsInNuaSI6Ik9WLUl0YWx5MS4wOXZwbi5jb20iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
 vless://12e2b366-6426-4e09-9c6f-9c894262b923@de2.niekotin.de:80?encryption=none&host=de2.niekotin.de&path=%2Fvless&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AXX
 trojan://hF7uSJfeBPtSNXKtuYvTRNaBdGkkXHpKJfLRfbpaDWovomSL@3.8.238.251:443?path=/uk1-uk1-gcjtze&security=tls&insecure=0&host=uk1.bw8848.org&type=ws&allowInsecure=0&sni=uk1.bw8848.org#برای اتصال دائمی جوین شو⛩️ TelegramID ⌲Express_freevpn 🪩
-vless://5ce84688-f535-46ad-a512-37b17becf6ea@152.228.162.19:80?path=/vless/&security=none&encryption=none&host=akamaized.net&type=ws#[Kia_Net] 🇫🇷 FR-507
-vless://9843588f-413a-4cac-a593-9d32ca66f0af@awgshop24.ru:2083?path=/randompath123&security=none&encryption=none&host=www.google.com&type=ws#@V2VODKA_A 🇮🇹 1
-vless://b585dc5e-55bf-4a8b-913a-27c9ccac05c3@149.202.58.99:443?path=/vws/&security=tls&encryption=none&insecure=0&host=bab-6.site&fp=chrome&type=ws&allowInsecure=0&sni=bab-6.site#V2RFA
-vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@152.228.162.19:80?path=%2Fvless%2F&security=&encryption=none&type=ws#%3E%3E%40configV2rayNG%3A%3AFR
 vless://7d74eae4-8a06-4306-a923-ad686f30bf26@57.129.41.216:80?encryption=none&host=OV-Germany1.09vpn.com&path=%2Fvless%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ADE
-vless://7a5cd520-f42a-5190-802f-d2cf86772c95@193.200.16.127:2052?path=%2Fvless&security=&encryption=none&type=ws#%3E%3E%40ShadowsocksM%3A%3APL
-vless://ac25a33c-a88d-514f-b37b-7e57d4f268c0@195.54.161.222:2052?encryption=none&path=%2Fvless&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AGB
-vless://f9558e6a-0447-48a0-94e9-cd69fc638d73@de2.niekotin.de:80?encryption=none&type=ws&path=%2Fvless&security=none#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://f9558e6a-0447-48a0-94e9-cd69fc638d73@de2.niekotin.de:80?encryption=none&type=ws&path=%2Fvless&security=none#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://c9ec8f14-3e9b-44a0-a1cd-0b1d270c4556@31.76.82.3:8080?encryption=none&type=ws&host=progressiya-vpn.online&path=%2Fdda12c57317ed12178061db1b799ebd2&security=none#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://98cbf020-c871-40f2-83a9-991911839aba@188.114.96.2:443?encryption=none&security=tls&sni=trYTOcONecT.PageS.dEV&alpn=http/1.1&fp=chrome&type=ws&host=trytoconect.pages.dev&path=/eyJqdW5rIjoiOElsMXlHNnRZM3RUTmRtIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==?ed=2560#🇨🇦 CA | 188.114.96.2
