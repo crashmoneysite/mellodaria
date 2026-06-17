@@ -35,17 +35,8 @@ vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@152.228.162.19:80?path=%2Fvless%2F&
 vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@OV-France1.09vpn.com:80?path=/vless/&security=none&encryption=none&type=ws#[Kia_Net] 🇫🇷 FR-489
 trojan://humanity@www.multiplydose.com:443?path=%2Fassignment&security=tls&insecure=1&type=ws&allowInsecure=1#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 trojan://MiTiVPN@188.114.97.6:443?path=/ed=mitivpn&security=tls&alpn=http/1.1&host=wwww.95r.ir&fp=chrome&type=ws&sni=wwww.95r.ir#@outline_ir
-trojan://MiTiVPN@104.21.18.41:443?path=/cdn=mitivpn&security=tls&alpn=http/1.1&host=linkkon-w.ir&fp=chrome&type=ws&sni=linkkon-w.ir#@outline_ir
-trojan://A4u^p(_UR*F6@www.speedtest.net:443?path=/eyJqdW5rIjoidlhnMXN5OXFUSiIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=?ed=2560&security=tls&alpn=http/1.1&host=027.electrocellco-cf-027.workers.dev&fp=chrome&type=ws&sni=027.ELeCTroCelLco-CF-027.wORkERS.dEv#Channel id: @internet_azad_2026 🇨🇦
-vless://037b730a-ea28-5191-ad7c-3424be5efe2e@46.246.97.218:2052?encryption=none&security=none&type=ws&path=/vless#🇸🇪 Join+Telegram:@Farah_VPN 🇸🇪
 vless://037b730a-ea28-5191-ad7c-3424be5efe2e@46.246.97.218:2052?encryption=none&type=ws&path=/vless#@meliproxyy
 vless://9843588f-413a-4cac-a593-9d32ca66f0af@awgshop24.ru:2083?path=/randompath123&security=none&encryption=none&host=www.google.com&type=ws#@V2VODKA_A 🇮🇹 1
-trojan://ppmk@104.18.32.47:8443?allowInsecure=1&alpn=http%252F1.1&ed=2560&eh=Sec-WebSocket-Protocol&fp=chrome&host=flat-firefly-6022.rixewi3168.workers.dev&path=%2F&sni=flat-firefly-6022.rixewi3168.workers.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://7d74eae4-8a06-4306-a923-ad686f30bf26@57.129.41.216:80?encryption=none&host=OV-Germany1.09vpn.com&path=%2Fvless%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ADE
-trojan://humanity@www.gossipglove.com:443?allowInsecure=1&path=%2Fassignment&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
-trojan://humanity@www.gossipglove.com:443?fp=chrome&path=%2Fassignment&security=tls&type=ws#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-vmess://eyJhZGQiOiIxNTIuNjcuMjE4LjM4IiwiaWQiOiJiNWU5NDgwYS1iN2FhLTQwYTQtZjlhNy01Mjk5YjVlMzYzYjQiLCJwb3J0IjoiNDQzIiwic2N5IjoiYXV0byIsInYiOiIyIiwibmV0Ijoid3MiLCJob3N0IjoiIiwicGF0aCI6Ii8iLCJ0bHMiOiJub25lIiwicHMiOiJoYW1lZHA3MTo68J+PtOKAjeKYoO+4jyJ9
-trojan://humanity@www.gossipglove.com:443?fp=chrome&path=%2Fassignment&security=tls&type=ws#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-vless://12e2b366-6426-4e09-9c6f-9c894262b923@de2.niekotin.de:80?encryption=none&host=de2.niekotin.de&path=%2Fvless&security=none&type=ws#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vmess://eyJhZGQiOiIxNTIuNjcuMjE4LjM4IiwiaWQiOiJiNWU5NDgwYS1iN2FhLTQwYTQtZjlhNy01Mjk5YjVlMzYzYjQiLCJwb3J0IjoiNDQzIiwic2N5IjoiYXV0byIsInYiOiIyIiwibmV0Ijoid3MiLCJob3N0IjoiIiwicGF0aCI6Ii8iLCJ0bHMiOiJub25lIiwicHMiOiJoYW1lZHA3MTo68J+PtOKAjeKYoO+4jyJ9
-vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@152.228.162.19:80?type=ws&path=%2Fvless%2F#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+vless://073d1d50-8478-47bf-a828-7a1b381931d5@betty.ns.cloudflare.com:443?encryption=none&type=ws&host=octopusss.net&path=%2Fodiyfws&security=tls&sni=octopusss.net#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+vless://073d1d50-8478-47bf-a828-7a1b381931d5@betty.ns.cloudflare.com:443?encryption=none&type=ws&host=octopusss.net&path=%2Fodiyfws&security=tls&sni=octopusss.net#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
