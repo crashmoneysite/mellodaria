@@ -31,23 +31,19 @@ vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@OV-France1.09vpn.com:80?path=/vless
 vless://9eb226cd-a45f-4715-b4c8-a794ae23dad6@chatgpt.com:8443?path=/&security=tls&alpn=http/1.1&encryption=none&host=fl2.hknet.pro&type=ws&sni=fl2.hknet.pro#🇫🇮 2 - LumosConfig
 vless://9843588f-413a-4cac-a593-9d32ca66f0af@awgshop24.ru:2083?path=/randompath123&security=none&encryption=none&host=www.google.com&type=ws#@V2VODKA_A 🇮🇹 1
 trojan://MiTiVPN@188.114.97.6:443?path=/ed=mitivpn&security=tls&alpn=http/1.1&host=wwww.95r.ir&fp=chrome&type=ws&sni=wwww.95r.ir#@outline_ir
-vless://049e56d8-0ba0-49e3-b764-ee04122b9f00@ov-italy1.09vpn.com:80?encryption=none&path=%2Fvless%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AXX
-trojan://humanity@104.20.6.134:443?security=tls&type=ws&sni=www.calmloud.com&path=/assignment&host=www.calmloud.com#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD13
 trojan://MiTiVPN@188.114.97.6:443?path=/ed=mitivpn&security=tls&alpn=http/1.1&host=wwww.95r.ir&fp=chrome&type=ws&sni=wwww.95r.ir#@outline_ir
-vless://c9ec8f14-3e9b-44a0-a1cd-0b1d270c4556@31.76.82.3:8080?encryption=none&type=ws&host=progressiya-vpn.online&path=%2Fdda12c57317ed12178061db1b799ebd2&security=none#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@betty.ns.cloudflare.com:443?encryption=none&type=ws&host=terazhediii.info&path=%2Fhdgrbws&security=tls&sni=terazhediii.info#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-trojan://MiTiVPN@188.114.97.6:443?path=index.php?mitivpn&security=tls&alpn=http/1.1&host=cdn.95r.ir&fp=chrome&type=ws&sni=cdn.95r.ir#@outline_ir
 vless://5ce84688-f535-46ad-a512-37b17becf6ea@152.228.162.19:80?path=/vless/&security=none&encryption=none&host=akamaized.net&type=ws#[Kia_Net] 🇫🇷 FR-507
-vless://b585dc5e-55bf-4a8b-913a-27c9ccac05c3@149.202.58.99:443?path=/vws/&security=tls&encryption=none&insecure=0&host=bab-6.site&fp=chrome&type=ws&allowInsecure=0&sni=bab-6.site#V2RFA
-vless://049e56d8-0ba0-49e3-b764-ee04122b9f00@OV-Italy1.09vpn.com:80?path=/vless/&security=&encryption=none&type=ws#%3E%3E%40configshub2%3A%3AXX
 vless://40cc9b52-25b8-4cd5-8b45-715ae26e6baf@sc-thenetherlands1.09vpn.com:80?encryption=none&path=%2Fvless%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ANL
-vless://00e94078-bb1e-49aa-8567-e1b3b2843150@172.67.195.229:443?allowInsecure=1&encryption=none&fp=chrome&host=rapid-hat-441d.platovpn.workers.dev&path=%2F&security=tls&sni=rapid-hat-441d.platovpn.workers.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
-trojan://humanity@www.gossipglove.com:443?allowInsecure=1&path=%2Fassignment&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
-vmess://eyJhZGQiOiIxNTIuNjcuOC4yMDUiLCJpZCI6IjlkYjRjNzA4LWFlZjgtNDM1OS04MjFiLTM4ZTQ3OTkwYmUwZCIsInBvcnQiOiI4MCIsInNjeSI6ImF1dG8iLCJ2IjoiMiIsIm5ldCI6IndzIiwiaG9zdCI6IiIsInBhdGgiOiIvIiwidGxzIjoibm9uZSIsInBzIjoiaGFtZWRwNzE6OvCfj7TigI3imKDvuI8ifQ
-vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@betty.ns.cloudflare.com:443?encryption=none&type=ws&host=amooaliii.net&path=%2Fjdhfyws&security=tls&sni=amooaliii.net#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-vmess://eyJhZGQiOiIxNTIuNjcuOC4yMDUiLCJpZCI6IjlkYjRjNzA4LWFlZjgtNDM1OS04MjFiLTM4ZTQ3OTkwYmUwZCIsInBvcnQiOiI4MCIsInNjeSI6ImF1dG8iLCJ2IjoiMiIsIm5ldCI6IndzIiwiaG9zdCI6IiIsInBhdGgiOiIvIiwidGxzIjoibm9uZSIsInBzIjoiaGFtZWRwNzE6OvCfj7TigI3imKDvuI8ifQ
-vless://31fc82da-1136-4a84-a596-7fbba8026c1d@another-cf.dnsyes.kawaii520.icu:443?encryption=none&type=ws&host=tupdfsfrgsdgd57345v8de.kawaii520.icu&path=%2F&security=tls&fp=chrome&sni=tupdfsfrgsdgd57345v8de.kawaii520.icu#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vmess://eyJhZGQiOiIxNTIuNjcuOC4yMDUiLCJpZCI6IjlkYjRjNzA4LWFlZjgtNDM1OS04MjFiLTM4ZTQ3OTkwYmUwZCIsInBvcnQiOiI4MCIsInNjeSI6ImF1dG8iLCJ2IjoiMiIsIm5ldCI6IndzIiwiaG9zdCI6IiIsInBhdGgiOiIvIiwidGxzIjoibm9uZSIsInBzIjoiaGFtZWRwNzE6OvCfj7TigI3imKDvuI8ifQ
-vmess://eyJhZGQiOiIxNTIuNjcuOC4yMDUiLCJpZCI6IjlkYjRjNzA4LWFlZjgtNDM1OS04MjFiLTM4ZTQ3OTkwYmUwZCIsInBvcnQiOiI4MCIsInNjeSI6ImF1dG8iLCJ2IjoiMiIsIm5ldCI6IndzIiwiaG9zdCI6IiIsInBhdGgiOiIvIiwidGxzIjoibm9uZSIsInBzIjoiaGFtZWRwNzE6OvCfj7TigI3imKDvuI8ifQ
-vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@betty.ns.cloudflare.com:443?encryption=none&type=ws&host=amooaliii.net&path=%2Fjdhfyws&security=tls&sni=amooaliii.net#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@betty.ns.cloudflare.com:443?encryption=none&type=ws&host=amooaliii.net&path=%2Fjdhfyws&security=tls&sni=amooaliii.net#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+vless://073d1d50-8478-47bf-a828-7a1b381931d5@betty.ns.cloudflare.com:443?encryption=none&type=ws&host=octopusss.net&path=%2Fodiyfws&security=tls&sni=octopusss.net#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+trojan://MiTiVPN@104.21.18.41:443?path=/cdn=mitivpn&security=tls&alpn=http/1.1&host=linkkon-w.ir&fp=chrome&type=ws&sni=linkkon-w.ir#@outline_ir
+trojan://A4u^p(_UR*F6@www.speedtest.net:443?path=/eyJqdW5rIjoidlhnMXN5OXFUSiIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=?ed=2560&security=tls&alpn=http/1.1&host=027.electrocellco-cf-027.workers.dev&fp=chrome&type=ws&sni=027.ELeCTroCelLco-CF-027.wORkERS.dEv#Channel id: @internet_azad_2026 🇨🇦
+vless://7a5cd520-f42a-5190-802f-d2cf86772c95@193.200.16.127:2052?path=/vless&security=none&encryption=none&type=ws#Channel id: @internet_azad_2026 🇵🇱
+trojan://ppmk@104.18.32.47:8443?allowInsecure=1&alpn=http%252F1.1&ed=2560&eh=Sec-WebSocket-Protocol&fp=chrome&host=flat-firefly-6022.rixewi3168.workers.dev&path=%2F&sni=flat-firefly-6022.rixewi3168.workers.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
+trojan://humanity@www.multiplydose.com:443?path=%2Fassignment&security=tls&insecure=1&type=ws&allowInsecure=1#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+vless://12e2b366-6426-4e09-9c6f-9c894262b923@de2.niekotin.de:80?encryption=none&host=de2.niekotin.de&path=%2Fvless&security=none&type=ws#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vmess://eyJhZGQiOiIxNTIuNjcuMjE4LjM4IiwiaWQiOiJiNWU5NDgwYS1iN2FhLTQwYTQtZjlhNy01Mjk5YjVlMzYzYjQiLCJwb3J0IjoiNDQzIiwic2N5IjoiYXV0byIsInYiOiIyIiwibmV0Ijoid3MiLCJob3N0IjoiIiwicGF0aCI6Ii8iLCJ0bHMiOiJub25lIiwicHMiOiJoYW1lZHA3MTo68J+PtOKAjeKYoO+4jyJ9
+vmess://eyJhZGQiOiIxNTIuNjcuMjE4LjM4IiwiaWQiOiJiNWU5NDgwYS1iN2FhLTQwYTQtZjlhNy01Mjk5YjVlMzYzYjQiLCJwb3J0IjoiNDQzIiwic2N5IjoiYXV0byIsInYiOiIyIiwibmV0Ijoid3MiLCJob3N0IjoiIiwicGF0aCI6Ii8iLCJ0bHMiOiJub25lIiwicHMiOiJoYW1lZHA3MTo68J+PtOKAjeKYoO+4jyJ9
+vless://12e2b366-6426-4e09-9c6f-9c894262b923@de2.niekotin.de:80?encryption=none&host=de2.niekotin.de&path=%2Fvless&security=none&type=ws#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vmess://eyJhZGQiOiIxNTIuNjcuMjE4LjM4IiwiaWQiOiJiNWU5NDgwYS1iN2FhLTQwYTQtZjlhNy01Mjk5YjVlMzYzYjQiLCJwb3J0IjoiNDQzIiwic2N5IjoiYXV0byIsInYiOiIyIiwibmV0Ijoid3MiLCJob3N0IjoiIiwicGF0aCI6Ii8iLCJ0bHMiOiJub25lIiwicHMiOiJoYW1lZHA3MTo68J+PtOKAjeKYoO+4jyJ9
+trojan://humanity@www.gossipglove.com:443?fp=chrome&path=%2Fassignment&security=tls&type=ws#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+trojan://humanity@www.gossipglove.com:443?fp=chrome&path=%2Fassignment&security=tls&type=ws#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
