@@ -30,7 +30,6 @@ trojan://humanity@www.multiplydose.com:443?path=%2Fassignment&security=tls&insec
 vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@188.114.97.6:443?path=%2Fhdgrbws&security=tls&encryption=none&insecure=0&host=terazhediii.info&fp=chrome&type=ws&allowInsecure=0&sni=terazhediii.info#🆔capoit%20🔒%20VL-WS-N/A%20❔%20XX%202ms
 trojan://humanity@104.21.40.34:443?security=tls&type=ws&sni=www.gossipglove.com&path=/assignment&host=www.gossipglove.com#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD22
 trojan://humanity@104.16.174.12:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#@hopev2ray💜
-vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@de.vpnbase.net:80?encryption=none&host=@SylphNet&path=/http&security=none&type=ws#@SylphNet | 2026-06-19 08:22
 vless://7d74eae4-8a06-4306-a923-ad686f30bf26@ov-germany1.09vpn.com:80?encryption=none&host=OV-Germany1.09vpn.com&path=%2Fvless%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ADE
 vless://14fcbcd4-2c96-4c30-b3ca-2e87ea8918d7@188.114.97.6:80?encryption=none&type=ws&path=%2Fws-vlees&host=app3.app-all-ccoo.com#🆔configx2ray%20🔓%20VL-WS-N/A%20🇺🇸%20US%202ms
 vless://b3bd8d0e-3cbe-4241-a4f1-e3dd0a9e432c@45.130.125.158:443?path=/page=2&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=server-ir-3.ariyuz.org&fp=chrome&type=ws&allowInsecure=0&sni=server-ir-3.ariyuz.org#@ReleaseNet
