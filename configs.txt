@@ -29,7 +29,6 @@ trojan://humanity@www.multiplydose.com:443?path=%2Fassignment&security=tls&insec
 vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@188.114.97.6:443?path=%2Fhdgrbws&security=tls&encryption=none&insecure=0&host=terazhediii.info&fp=chrome&type=ws&allowInsecure=0&sni=terazhediii.info#🆔capoit%20🔒%20VL-WS-N/A%20❔%20XX%202ms
 trojan://humanity@104.21.40.34:443?security=tls&type=ws&sni=www.gossipglove.com&path=/assignment&host=www.gossipglove.com#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD22
 trojan://humanity@104.16.174.12:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#@hopev2ray💜
-vless://7d74eae4-8a06-4306-a923-ad686f30bf26@ov-germany1.09vpn.com:80?encryption=none&host=OV-Germany1.09vpn.com&path=%2Fvless%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ADE
 vless://b3bd8d0e-3cbe-4241-a4f1-e3dd0a9e432c@45.130.125.158:443?path=/page=2&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=server-ir-3.ariyuz.org&fp=chrome&type=ws&allowInsecure=0&sni=server-ir-3.ariyuz.org#@ReleaseNet
 vless://7d74eae4-8a06-4306-a923-ad686f30bf26@OV-Germany1.09vpn.com:80?path=%2Fvless%2F&security=&encryption=none&type=ws#🆔soskeynet%20🔓%20VL-WS-N/A%20🇩🇪%20DE%20162ms
 vmess://eyJ2IjoiMiIsInBzIjoi8J+Hq/Cfh7cgRlLms5Xlm70obWliZWk3Ny5jb20g57Gz6LSd6IqC54K55YiG5LqrKSIsImFkZCI6IjY5Ljg0LjE4Mi40OSIsInBvcnQiOiI4MCIsInR5cGUiOiJub25lIiwiaWQiOiJmODk3NTg3MS1hN2EwLTQ5MDYtODgzNS1hMjNjMTI1OGNhMWUiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsImhvc3QiOiJnb29nbGUud2hhdHNhcHAuc25hcHAudG9yb2IuYmFzYWxhbS56dWxhLnVwbGFvZC1tdXNpYy5pci4iLCJ0bHMiOiIifQ==
@@ -47,7 +46,6 @@ vless://31ad2842-0081-4d9d-8c92-f186fb342a39@104.16.72.70:443?path=/eyJqdW5rIjoi
 vless://3727b0ac-9f3e-4da8-895e-33f739e9d9bb@104.27.78.203:2083?encryption=none&fp=chrome&host=fhfhfhf.kathykroger.workers.dev&path=/&security=tls&sni=fhfhfhf.kathykroger.workers.dev&type=ws#🏟️41@NetFlowTools
 vless://3805c64a-ac60-49ad-883c-43e6309b68d0@65.21.109.91:80?encryption=none&host=speedtest.com&path=/notbin&security=none&type=ws#🇫🇮FI-🚀@VPNine1
 vless://41b90a88-64b3-4337-9c60-c901df3e5b44@188.114.97.6:443?path=/?ed=2048&security=tls&encryption=none&insecure=0&host=t06.tzteam.online&fp=chrome&type=ws&allowInsecure=0&sni=t06.tzteam.online#🇬🇧 t.me/Natrixo AA
-vless://5b9503aa-119b-4288-aa4f-0bbee2b4d5af@188.114.97.6:443?path=/?ed=2048&security=tls&encryption=none&host=t01.tzteam.online&fp=chrome&type=ws&sni=t01.tzteam.online#Channel id: @internet_azad_2026
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@162.120.94.30:8880?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=vms.lifetime07.workers.dev&path=/&security=none&type=ws#🧢24@NetFlowTools
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@50.62.198.50:8880?security=none&allowInsecure=0&encryption=none&type=ws&host=vms.lifetime39.workers.dev&path=/#@Netzone_ir
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@8.34.70.30:8880?path=/?ed=2560&security=none&encryption=none&host=vms.lifetime09.workers.dev&type=ws#kurdconfig
