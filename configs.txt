@@ -38,7 +38,4 @@ trojan://humanity@www.multiplydose.com:443?path=%2Fassignment&security=tls&insec
 trojan://humanity@199.181.197.143:443?security=tls&type=ws&sni=www.calmloud.com&path=/assignment&host=www.calmloud.com#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD5
 trojan://humanity@104.16.174.117:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#@Filtershekan_channel |2
 vless://18535741-e8b3-4b43-9348-785b55936751@57.129.41.216:80?security=none&type=ws&path=/vless/&host=ov-germany1.09vpn.com👉🆔freenettir📡🇩🇪®️Germany©️Limburg an der Lahn🅿️ping:27.95ms
-vless://1e280316-0408-47c4-b058-05b8f1f17f02@ov-italy1.09vpn.com:80?encryption=none&type=ws&path=%2Fvless%2F&security=none#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
-vmess://eyJ2IjpudWxsLCJwcyI6ImhhbWVkcDcxOjrwn4er8J+HtyIsImFkZCI6ImZyNS50YXNrZmxvd2h1Yi5vcmciLCJwb3J0IjoyMDg3LCJpZCI6ImI4ZTU5MGE4LTQ4NzAtNDE0Yi05NjdiLWQyZjQzZDAxMzA1YSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjpudWxsLCJob3N0IjoiZnI1LnRhc2tmbG93aHViLm9yZyIsImFscG4iOm51bGwsInBhdGgiOiIvcmVhbHRpbWUiLCJ0bHMiOiJ0bHMiLCJzbmkiOiIiLCJmcCI6bnVsbH0
-vless://c9ec8f14-3e9b-44a0-a1cd-0b1d270c4556@31.76.82.3:8080?encryption=none&type=ws&host=progressiya-vpn.online&path=%2Fdda12c57317ed12178061db1b799ebd2&security=none#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://af2c3727-c1e7-41c1-86b5-7fb5fcc63359@191.40.5.176:2087?encryption=none&host=&path=/&security=none&type=ws#🇩🇪 DE | 191.40.5.176
