@@ -50,7 +50,6 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.142.120.40:8880?encryption=none&
 vless://f6ec3ac9-fb0f-4bce-86bb-26cdb9933a60@188.114.97.6:443?path=%2Fin-do&security=tls&encryption=none&insecure=0&host=zaintest.vuclip.com.r3xxe.eu.cc&type=ws&allowInsecure=0&sni=zaintest.vuclip.com.r3xxe.eu.cc#🆔spotify_porteghali%20🔒%20VL-WS-N/A%20❔%20XX%207ms
 vless://5f596575-dfce-8cbb-5a58-d43c1698e862@188.114.98.0:80?encryption=none&security=none&sni=wispy-field-43fb.mirar6bad.workers.dev&fp=chrome&type=ws&host=wispy-field-43fb.mirar6bad.workers.dev&path=%2Fsixseven#🆔ar14n24b%20🔓%20VL-WS-N/A%20❔%20XX%206ms
 trojan://B7X8C5rOaZ@104.17.108.1:443?path=/?ed=2048&security=tls&insecure=0&host=a1.aananas.ir&fp=chrome&type=ws&allowInsecure=0&sni=a1.aananas.ir#@tootffarangi🍓-4
-trojan://MITIVPN@151.101.242.172:80?path=/ed=mitivpn&security=none&host=mitivpn--4.global.ssl.fastly.net&type=ws#همه اپراتور سرعتی⚡
 trojan://humanity@www.multiplydose.com:443?path=/assignment&security=tls&type=ws#Channel id: @internet_azad_2026 🇨🇦
 trojan://iKmZWib7Mb@104.17.108.1:443?path=/?ed=2048&security=tls&insecure=0&host=a2.aananas.ir&fp=chrome&type=ws&allowInsecure=0&sni=a2.aananas.ir#@FarazV2ray
 vless://1043634e-8d9d-4736-83fa-f14ddc9d464c@188.114.97.6:443?path=/id-amz&security=tls&encryption=none&insecure=0&host=dfsuporte.garena.com.ex33r.eu.cc&type=ws&allowInsecure=0&sni=dfsuporte.garena.com.ex33r.eu.cc#TEL;Father_vpn
