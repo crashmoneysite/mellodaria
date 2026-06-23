@@ -14,7 +14,6 @@ vless://659a9075-d5ab-4fd2-bf34-b37043fae832@108.162.194.135:443?encryption=none
 vless://7bd180e8-1142-4387-93f5-03e8d750a896@python-graysongon.wasmer.app:443?path=%2F7bd180e8&security=tls&encryption=none&insecure=0&host=python-graysongon.wasmer.app&type=ws&allowInsecure=0&sni=python-graysongon.wasmer.app#🆔ar14n24b%20🔒%20VL-WS-N/A%20❔%20XX%20219ms
 vless://c9ec8f14-3e9b-44a0-a1cd-0b1d270c4556@31.76.82.3:8080?encryption=none&type=ws&host=progressiya-vpn.online&path=%2Fdda12c57317ed12178061db1b799ebd2&security=none#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@167.82.0.1:80?path=/&security=&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#https://t.me/v2rayNplus |🇩🇪
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@pishdad.org:8080?path=/&security=none&encryption=none&host=tr-cd.sublink-vip2.com&type=ws#@VpnCostumer+|+بیا+تو+وصل+باش+💙
 vmess://eyJhZGQiOiIxMDQuMTguMTkuOTkiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InZ5dnp5aGd6LmNvbSIsImlkIjoiYjRhNjU2MTEtNDk2OS00MmIyLWJjNzQtNTc2OGI5NDBiZDllIiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI0NDMiLCJwcyI6Ikdsb2JhbCDwn4yQIHwgQFJheWRpa2FseCB8IDIzODUiLCJzY3kiOiJhdXRvIiwic25pIjoidnl2enloZ3ouY29tIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
 vless://06b65903-406d-4a41-8400-6fd5c0ee7798@104.18.47.140:2096?encryption=none&fp=chrome&host=sp.linuxdododo.ccwu.cc&path=/proxyip=ProxyIP.JP.cmliussss.netfp=chrome&security=tls&sni=sp.linuxdododo.ccwu.cc&type=ws#3🦀@oneclickvpnkeys
 vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@173.245.58.75:443?encryption=none&host=terazhediii.info&path=%2Fhdgrbws&security=tls&sni=terazhediii.info&type=ws#🤹‍♀️
@@ -47,7 +46,6 @@ vless://c27538ca-d170-4182-87e5-aee87c8a0c4a@188.114.97.6:443?encryption=none&se
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.12.30.30:8880?encryption=none&security=none&type=ws&host=vms.lifetime28.workers.dev&path=%2F#🆔capoit%20🔓%20VL-WS-N/A%20❔%20XX%206ms
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.142.120.40:8880?encryption=none&security=none&type=ws&host=vms.lifetime08.workers.dev&path=%2F#🆔capoit%20🔓%20VL-WS-N/A%20❔%20XX%207ms
 vless://5f596575-dfce-8cbb-5a58-d43c1698e862@188.114.98.0:80?encryption=none&security=none&sni=wispy-field-43fb.mirar6bad.workers.dev&fp=chrome&type=ws&host=wispy-field-43fb.mirar6bad.workers.dev&path=%2Fsixseven#🆔ar14n24b%20🔓%20VL-WS-N/A%20❔%20XX%206ms
-trojan://B7X8C5rOaZ@104.17.108.1:443?path=/?ed=2048&security=tls&insecure=0&host=a1.aananas.ir&fp=chrome&type=ws&allowInsecure=0&sni=a1.aananas.ir#@tootffarangi🍓-4
 trojan://humanity@www.multiplydose.com:443?path=/assignment&security=tls&type=ws#Channel id: @internet_azad_2026 🇨🇦
 vless://1244a6b2-70e2-41fd-8997-97eebe3d2c61@198.41.223.229:443?encryption=none&fp=chrome&host=accv9.mmhz9.workers.dev&path=/&security=tls&sni=accv9.mmhz9.workers.dev&type=ws#🦀8@oneclickvpnkeys
 vless://29f6e546-e399-a594-5a33-10be32a87a7d@188.114.97.7:8443?path=/sync&security=tls&encryption=none&insecure=0&host=fragrant-unit-d662.mmammatrix770088.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=fragrant-unit-d662.mmammatrix770088.workers.dev#telegram @mtmvpn 9
