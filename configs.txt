@@ -42,10 +42,8 @@ vless://1e280316-0408-47c4-b058-05b8f1f17f02@57.131.32.191:80?path=/vless/&secur
 vless://36562b99-aadd-4e38-b566-24e0d219b1d6@195.63.133.145:443?security=none&encryption=none&type=ws#@hex_proxy ³
 vless://5f4267f0-cb88-4bd0-a659-5d5d83481245@www.speedtest.net:2053?path=/eyJqdW5rIjoiWTMzS21HRGE3VXFlVFJCeSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=?ed=2560&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=masterserver1-wsecfd.nouri49.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=MASTERSeRVEr1-WsecFD.NourI49.WoRkERs.DeV#🚀@VPNine1
 vless://7c7c2a41-bf8c-4dcc-8cca-5e6776da616c@45.130.125.112:443?path=/ws?ed=2580&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=speed.thctech.ir&fp=chrome&type=ws&allowInsecure=0&sni=speed.thctech.ir#@hex_proxy ⁷
-vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@betty.ns.cloudflare.com:443?encryption=none&type=ws&security=tls&path=/rdfgtws&host=vangoghhh.info&sni=vangoghhh.info&insecure=0&allowInsecure=0#🇩🇪 Join+Telegram:@Farah_VPN 🇩🇪
 vless://e73df646-1f62-41bf-8c50-653497d603d0@163.172.213.174:80?encryption=none&type=ws&path=/vless/&host=SC-TheNetherlands2.09vpn.com#ProxyMtpVPN-523
 vless://f3b8c2a1-9d4e-4b7f-a6c5-2e8d1f0b4a93@188.114.97.6:8443?path=%2F&security=tls&encryption=none&insecure=0&host=srv71.perfectbulk.info&fp=chrome&type=ws&allowInsecure=0&sni=srv71.perfectbulk.info#🔵@chillguy_vpn
-trojan://humanity@www.gossipglove.com:443?fp=chrome&path=%2Fassignment&security=tls&type=ws#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@ov-france1.09vpn.com:80?encryption=none&path=/vless/&security=none&type=ws#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-vless://40cc9b52-25b8-4cd5-8b45-715ae26e6baf@SC-TheNetherlands1.09vpn.com:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-trojan://humanity@www.gossipglove.com:443?fp=chrome&path=%2Fassignment&security=tls&type=ws#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
+trojan://humanity@www.multiplydose.com:443?path=%2Fassignment&security=tls&insecure=1&type=ws&allowInsecure=1#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
+vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@OV-France1.09vpn.com:80?path=/vless/&security=&encryption=none&type=ws#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+vless://e73df646-1f62-41bf-8c50-653497d603d0@163.172.213.174:80?encryption=none&path=%2Fvless%2F&security=none&type=ws#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
