@@ -60,5 +60,4 @@ vless://aebe5a70-0ca3-46ce-8208-8b5bab1346ce@mybb.com:443?security=tls&sni=rAyAn
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@162.120.94.30:8880?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=vms.lifetime07.workers.dev&path=/&security=none&type=ws#🇺🇸US-🚀@VPNine1
 trojan://humanity@www.multiplydose.com:443?path=%2Fassignment&security=tls&insecure=1&type=ws&allowInsecure=1#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 vless://18535741-e8b3-4b43-9348-785b55936751@57.129.41.216:80?encryption=none&type=ws&host=ov-germany1.09vpn.com&path=%2Fvless%2F&security=none#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@152.228.162.19:80?type=ws&path=%2Fvless%2F#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 trojan://257d8622-6701-4c98-a432-67a9696f58ae@shazira.app:443?security=tls&sni=shazira.app&type=ws&path=%2FNovan-ID9&Host=shazira.app#%F0%9F%8F%81RELAY-172.67.218.196-0854
