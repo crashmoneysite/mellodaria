@@ -23,7 +23,6 @@ vless://f5c47e9c-914a-4a91-a81e-a5a77bc10fc1@OV-France1.09vpn.com:80?path=/vless
 vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@45.130.125.158:2053?encryption=none&security=tls&sni=po.fastbrokencompony.com&insecure=0&allowInsecure=0&type=ws&host=po.fastbrokencompony.com&path=%2F#%40Daily_Configs
 trojan://humanity@141.193.213.21:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmloud.com&type=ws&allowInsecure=0&sni=www.calmloud.com#%40V2ray_Alpha%F0%9F%A5%B2%206♾نامحدود
 trojan://humanity@104.16.174.121:443?type=ws&security=tls&path=%2Fassignment&host=www.ignitelimit.com&sni=www.ignitelimit.com&insecure=0&allowInsecure=0#%40W570W%20-%202
-vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@188.114.97.6:80?path=%2Fhttp&security=none&encryption=none&host=de.vpnbase.net&type=ws#🆔v2ray1_ng%20🔓%20VL-WS-N/A%20❔%20XX%202ms
 trojan://7002R3Gxo1@45.130.125.2:443?path=/da&security=tls&insecure=0&host=sa.farxmode.ir&fp=chrome&type=ws&allowInsecure=0&sni=sa.farxmode.ir
 trojan://humanity@104.17.121.43:443?path=%2Fassignment&security=tls&host=www.calmlunch.com&allowinsecure=0&type=ws&sni=www.calmlunch.com#%40hi_proxy_iran
 vless://4454f3d1-6359-401b-b10c-81d0b3f0b7c2@104.21.82.201:2087?path=/eyJqdW5rIjoiY0lZS1FrazRnIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=v2ngfast-mnbjhv.akbarbikar.workers.dev&fp=chrome&type=ws&sni=V2NgFaST-MNBjhv.AkbarbikAr.WorKErs.DEV#🇨🇦 CA | 104.21.82.201
@@ -41,5 +40,4 @@ vless://1e280316-0408-47c4-b058-05b8f1f17f02@57.131.32.191:80?path=/vless/&secur
 vless://36562b99-aadd-4e38-b566-24e0d219b1d6@195.63.133.145:443?security=none&encryption=none&type=ws#@hex_proxy ³
 vless://5f4267f0-cb88-4bd0-a659-5d5d83481245@www.speedtest.net:2053?path=/eyJqdW5rIjoiWTMzS21HRGE3VXFlVFJCeSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=?ed=2560&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=masterserver1-wsecfd.nouri49.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=MASTERSeRVEr1-WsecFD.NourI49.WoRkERs.DeV#🚀@VPNine1
 vless://7c7c2a41-bf8c-4dcc-8cca-5e6776da616c@45.130.125.112:443?path=/ws?ed=2580&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=speed.thctech.ir&fp=chrome&type=ws&allowInsecure=0&sni=speed.thctech.ir#@hex_proxy ⁷
-vless://e73df646-1f62-41bf-8c50-653497d603d0@163.172.213.174:80?encryption=none&type=ws&path=/vless/&host=SC-TheNetherlands2.09vpn.com#ProxyMtpVPN-523
 vless://f3b8c2a1-9d4e-4b7f-a6c5-2e8d1f0b4a93@188.114.97.6:8443?path=%2F&security=tls&encryption=none&insecure=0&host=srv71.perfectbulk.info&fp=chrome&type=ws&allowInsecure=0&sni=srv71.perfectbulk.info#🔵@chillguy_vpn
