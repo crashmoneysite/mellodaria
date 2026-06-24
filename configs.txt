@@ -26,7 +26,6 @@ vless://023e0e98-9550-4f6b-9bda-363d3105d407@www.speedtest.net:443?path=/eyJqdW5
 trojan://humanity@www.multiplydose.com:443?path=%2Fassignment&security=tls&insecure=1&type=ws&allowInsecure=1#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.0.1:80?encryption=none&type=ws&path=%2F&host=max-gb1.global.ssl.fastly.net#🆔configfa%20🔓%20VL-WS-N/A%20❔%20XX%202ms
 vless://36562b99-aadd-4e38-b566-24e0d219b1d6@195.63.133.145:443?path=%2F&security=&encryption=none&type=ws#%3E%3E%40configV2rayNG%3A%3ANL
-vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?path=%2Fhttp&security=none&encryption=none&host=google.com&type=ws#🆔v2ray1_ng%20🔓%20VL-WS-N/A%20❔%20XX%20down
 trojan://P6oS8vzFbu@45.130.125.2:443?path=/db&security=tls&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&insecure=0&host=sb.farxmode.ir&fp=chrome&type=ws&allowInsecure=0&sni=sb.farxmode.ir#https://t.me/v2rayNplus |🇸🇨
 vless://36562b99-aadd-4e38-b566-24e0d219b1d6@195.63.133.145:443?security=none&encryption=none&type=ws#@hex_proxy ³
 vless://5f4267f0-cb88-4bd0-a659-5d5d83481245@www.speedtest.net:2053?path=/eyJqdW5rIjoiWTMzS21HRGE3VXFlVFJCeSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=?ed=2560&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=masterserver1-wsecfd.nouri49.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=MASTERSeRVEr1-WsecFD.NourI49.WoRkERs.DeV#🚀@VPNine1
