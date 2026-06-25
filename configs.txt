@@ -27,22 +27,18 @@ vless://7d74eae4-8a06-4306-a923-ad686f30bf26@57.129.41.216:80?encryption=none&ho
 vless://18535741-e8b3-4b43-9348-785b55936751@57.129.41.216:80?encryption=none&type=ws&path=%2Fvless%2F&security=none#🆔ar14n24b%20🔓%20VL-WS-N/A%20❔%20XX%20156ms
 vless://5582f622-f805-4a7a-81c5-f99b74b5bdfb@www.fghrsh.net:443?path=/10835/cdn-cgi&security=tls&encryption=none&insecure=0&host=raz.mmadcoffee.info&fp=chrome&type=ws&allowInsecure=0&sni=sni.mmadcoffee.info#@meliproxyy
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?path=%2Fhttp&security=none&encryption=none&host=google.com&type=ws#🆔v2ray1_ng%20🔓%20VL-WS-N/A%20❔%20XX%20150ms
-trojan://7ihmqYssaO@manager.xyzxz.qzz.io:443?security=tls&sni=manager.xyzxz.qzz.io&fp=chrome&alpn=h3,h2,http/1.1&insecure=0&allowInsecure=0&type=ws&host=manager.xyzxz.qzz.io&path=/15554/mehdi#🚀@VPNine1
 vless://f3b8c2a1-9d4e-4b7f-a6c5-2e8d1f0b4a93@104.17.108.69:8443?encryption=none&security=tls&sni=srv14.hamiibar.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=srv14.hamiibar.com&path=/#@W570W
 vless://40cc9b52-25b8-4cd5-8b45-715ae26e6baf@sc-thenetherlands1.09vpn.com:80?encryption=none&path=%2Fvless%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ANL
 trojan://humanity@www.multiplydose.com:443?path=%2Fassignment&security=tls&insecure=1&type=ws&allowInsecure=1#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 trojan://humanity@8.6.112.0:443?security=tls&type=ws&sni=www.multiplydose.com&path=/assignment&host=www.multiplydose.com#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD11
 vless://5b6be23b-dff4-428f-8a60-4f11568abe12@192.200.160.252:443?encryption=none&security=tls&sni=sync.amordad.xyz&type=ws&host=sync.amordad.xyz&path=/api/v1/stream#🇺🇸US-🚀@VPNine1
-vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@45.130.125.158:2053?encryption=none&security=tls&sni=po.fastbrokencompony.com&insecure=0&allowInsecure=0&type=ws&host=po.fastbrokencompony.com&path=%2F#%40Daily_Configs
 vless://f3b8c2a1-9d4e-4b7f-a6c5-2e8d1f0b4a93@188.114.97.6:8443?path=%2F&security=tls&encryption=none&insecure=0&host=srv71.perfectbulk.info&fp=chrome&type=ws&allowInsecure=0&sni=srv71.perfectbulk.info#🔵@chillguy_vpn
-vless://f3b8c2a1-9d4e-4b7f-a6c5-2e8d1f0b4a93@45.130.125.114:8443?path=%2F&security=tls&encryption=none&insecure=0&host=srv75.perfectbulk.info&fp=chrome&type=ws&allowInsecure=0&sni=srv75.perfectbulk.info#🆔vpnbaz%20🔒%20VL-WS-N/A%20❔%20XX%202ms
-trojan://CHhHZoXQCp@45.130.125.2:443/?type=ws&host=se.farxmode.ir&path=/da&security=tls&sni=se.farxmode.ir&fp=chrome#🐙59@oneclickvpnkeys
-trojan://GavW8e3DN7@45.130.125.2:443?type=ws&security=tls&path=/db&alpn=-@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN&host=sf.farxmode.ir&sni=sf.farxmode.ir&fp=chrome&insecure=0&allowInsecure=0#🇩🇪 Telegram @SRCVPN ²
 vless://1e280316-0408-47c4-b058-05b8f1f17f02@57.131.32.191:80?path=/vless/&security=none&encryption=none&host=OV-Italy1.09vpn.com&type=ws#Channel : @Daily_Configs
-vless://e32b0e12-f108-4b73-be2d-bf09c00ad888@151.101.110.219:443?path=/&security=tls&encryption=none&insecure=0&host=italyan.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=default.ssl.fastly.net#@Soul737
-vmess://ewogICAgImFkZCI6ICJteXZwc2hvc3RpbmcubmFtZS5uZyIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIm15dnBzaG9zdGluZy5uYW1lLm5nIiwKICAgICJpZCI6ICI5NjQwOGY5YS1kZjAzLTQ0OGItYjdlNC1lYzhlMmMyMTY2ODIiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvdm1lc3MiLAogICAgInBvcnQiOiA4MCwKICAgICJwcyI6ICLwn4ez8J+HsU5MLTE0OC4xMzUuMjA3LjE0Mi01OTEwIiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiBmYWxzZSwKICAgICJzbmkiOiAibXl2cHNob3N0aW5nLm5hbWUubmciCn0=
-vless://5bf12aea-0a92-41fb-ab2d-0e034b9f57a2@194.238.79.150.fwqfw783rg2dad.website:443?encryption=none&type=ws&path=%2Fsequre%2Fws&security=tls&alpn=h2&fp=ios&sni=194.238.79.150.fwqfw783rg2dad.website#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@OV-France1.09vpn.com:80?path=/vless/&security=&encryption=none&type=ws#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-vless://40cc9b52-25b8-4cd5-8b45-715ae26e6baf@SC-TheNetherlands1.09vpn.com:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-vless://7d74eae4-8a06-4306-a923-ad686f30bf26@OV-Germany1.09vpn.com:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://7d74eae4-8a06-4306-a923-ad686f30bf26@OV-Germany1.09vpn.com:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://f5c47e9c-914a-4a91-a81e-a5a77bc10fc1@ov-france1.09vpn.com:80?encryption=none&type=ws&path=%2Fvless%2F&security=none#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+vless://c9ec8f14-3e9b-44a0-a1cd-0b1d270c4556@31.76.82.3:8080?encryption=none&type=ws&host=progressiya-vpn.online&path=%2Fdda12c57317ed12178061db1b799ebd2&security=none#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@188.114.97.6:80?path=%2Fhttp&security=none&encryption=none&host=de.vpnbase.net&type=ws#🆔v2ray1_ng%20🔓%20VL-WS-N/A%20❔%20XX%202ms
+vless://f3b8c2a1-9d4e-4b7f-a6c5-2e8d1f0b4a93@104.16.72.162:8443?encryption=none&security=tls&sni=srv37.hamiibar.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=srv37.hamiibar.com&path=/#@Daily_Configs
+vless://e32b0e12-f108-4b73-be2d-bf09c00ad888@199.232.78.159:443?path=/&security=tls&encryption=none&insecure=0&host=albaniijji.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=default.ssl.fastly.net#@Soul737
+trojan://humanity@45.130.125.2:443?path=%2Fassignment&security=tls&insecure=0&host=Www.cReaTIOnLONG.OrG&type=ws&allowInsecure=0&sni=Www.cReaTIOnLONG.OrG#%3E%3E%40configshub2%3A%3APL
+vmess://eyJhZGQiOiIxNTIuNjcuMjE4LjM4IiwiaWQiOiJiNWU5NDgwYS1iN2FhLTQwYTQtZjlhNy01Mjk5YjVlMzYzYjQiLCJwb3J0IjoiNDQzIiwic2N5IjoiYXV0byIsInYiOiIyIiwibmV0Ijoid3MiLCJob3N0IjoiIiwicGF0aCI6Ii8iLCJ0bHMiOiJub25lIiwicHMiOiJoYW1lZHA3MTo68J+PtOKAjeKYoO+4jyJ9
+vless://7d90f043-ed7f-40c9-ac2f-352987904958@OV-Germany1.09vpn.com:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
