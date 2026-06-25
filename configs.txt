@@ -36,6 +36,5 @@ trojan://GavW8e3DN7@45.130.125.2:443?type=ws&security=tls&path=/db&alpn=-@SRCVPN
 trojan://Mitivpn@iranpoems.ir:443?path=/usa=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=www.gamingdll.ir&fp=chrome&type=ws&allowInsecure=0&sni=www.gamingdll.ir#@tootffarangi🍓-1💥
 vless://5bf12aea-0a92-41fb-ab2d-0e034b9f57a2@194.238.79.150:443/?type=ws&encryption=none&flow=&path=/sequre/ws&security=tls&sni=194.238.79.150.fwqfw783rg2dad.website#[81902] - Telegram : @V2All
 vless://f3b8c2a1-9d4e-4b7f-a6c5-2e8d1f0b4a93@45.130.125.114:8443?path=%2F&security=tls&encryption=none&insecure=0&host=srv75.perfectbulk.info&fp=chrome&type=ws&allowInsecure=0&sni=srv75.perfectbulk.info#🆔vpnbaz%20🔒%20VL-WS-N/A%20❔%20XX%202ms
-vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@188.114.97.6:80?path=%2Fhttp&security=none&encryption=none&host=de.vpnbase.net&type=ws#🆔v2ray1_ng%20🔓%20VL-WS-N/A%20❔%20XX%202ms
 vless://40cc9b52-25b8-4cd5-8b45-715ae26e6baf@sc-thenetherlands1.09vpn.com:80?encryption=none&path=%2Fvless%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ANL
 trojan://humanity@www.gossipglove.com:443?fp=chrome&path=%2Fassignment&security=tls&type=ws#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
