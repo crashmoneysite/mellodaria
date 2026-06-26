@@ -27,7 +27,6 @@ vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?encryption=none&t
 trojan://humanity@104.17.121.43:443?path=%2Fassignment&security=tls&host=www.calmlunch.com&allowinsecure=0&type=ws&sni=www.calmlunch.com#%40hi_proxy_iran
 vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@betty.ns.cloudflare.com:443?path=%2Fjdhfyws&security=tls&encryption=none&host=amooaliii.net&fp=chrome&type=ws&sni=amooaliii.net#%40appsooner%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%F0%9F%95%8A%EF%B8%8F
 vless://192bc523-26fe-4233-b10d-725deb710ea5@support.zoom.us:443?path=/us-gllc&security=tls&encryption=none&insecure=0&host=support.zoom.us.yxls.eu.cc&type=ws&allowInsecure=0&sni=support.zoom.us.yxls.eu.cc#🇺🇸US-🚀@VPNine1
-vless://40cc9b52-25b8-4cd5-8b45-715ae26e6baf@SC-TheNetherlands1.09vpn.com:80?path=/vless/&security=none&encryption=none&type=ws#[کیانت] 🇳🇱 NL-775
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?encryption=none&host=@SylphNet&path=/http&security=none&type=ws#@SylphNet | 2026-06-26 10:06
 trojan://humanity@45.130.125.2:443?path=%2Fassignment&security=tls&insecure=0&host=Www.cReaTIOnLONG.OrG&type=ws&allowInsecure=0&sni=Www.cReaTIOnLONG.OrG#%3E%3E%40configshub2%3A%3APL
 vless://7bd180e8-1142-4387-93f5-03e8d750a896@62.210.172.147:443?path=%2F7bd180e8&security=tls&encryption=none&insecure=0&host=python-graysongon.wasmer.app&type=ws&allowInsecure=0&sni=python-graysongon.wasmer.app#🆔soskeynet%20🔒%20VL-WS-N/A%20🇫🇷%20FR%20153ms
