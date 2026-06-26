@@ -38,4 +38,3 @@ vless://7bd180e8-1142-4387-93f5-03e8d750a896@62.210.172.147:443?path=%2F7bd180e8
 vless://7d90f043-ed7f-40c9-ac2f-352987904958@OV-Germany1.09vpn.com:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#🆔ar14n24b%20🔓%20VL-WS-N/A%20❔%20XX%20168ms
 vless://7d74eae4-8a06-4306-a923-ad686f30bf26@ov-germany1.09vpn.com:80?encryption=none&host=OV-Germany1.09vpn.com&path=%2Fvless%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ADE
 vless://e73df646-1f62-41bf-8c50-653497d603d0@163.172.213.174:80?type=ws&encryption=none&flow=&host=SC-TheNetherlands2.09vpn.com&path=%2Fvless%2F#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-vless://00722148-3d6c-403d-854e-581b105ceffd@www.ietf.org:443?path=/api/v3/ws/events&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=RigW6bZIE7qM3Iqn.geekylinux.com&fp=chrome&type=ws&allowInsecure=0&sni=0iXGgvWA3b.geekylinux.com#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
