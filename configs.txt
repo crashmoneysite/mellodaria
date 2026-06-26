@@ -37,11 +37,6 @@ vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?encryption=none&h
 trojan://humanity@45.130.125.2:443?path=%2Fassignment&security=tls&insecure=0&host=Www.cReaTIOnLONG.OrG&type=ws&allowInsecure=0&sni=Www.cReaTIOnLONG.OrG#%3E%3E%40configshub2%3A%3APL
 vless://7bd180e8-1142-4387-93f5-03e8d750a896@62.210.172.147:443?path=%2F7bd180e8&security=tls&encryption=none&insecure=0&host=python-graysongon.wasmer.app&type=ws&allowInsecure=0&sni=python-graysongon.wasmer.app#🆔soskeynet%20🔒%20VL-WS-N/A%20🇫🇷%20FR%20153ms
 vless://7d90f043-ed7f-40c9-ac2f-352987904958@OV-Germany1.09vpn.com:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#🆔ar14n24b%20🔓%20VL-WS-N/A%20❔%20XX%20168ms
-vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@betty.ns.cloudflare.com:443?encryption=none&type=ws&security=tls&path=/rdfgtws&host=vangoghhh.info&sni=vangoghhh.info&insecure=0&allowInsecure=0#🇩🇪 Join+Telegram:@Farah_VPN 🇩🇪
-vless://3db635e4-f9ec-42d6-8aba-e23df8b0e6da@cf1.466688.xyz:2053?encryption=none&security=tls&sni=balafi7691.pages.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=balafi7691.pages.dev&path=/jump/tv/content?ed=2560#TG@QiangLieTuiJian
-vless://3db635e4-f9ec-42d6-8aba-e23df8b0e6da@cf1.466688.xyz:2053?encryption=none&security=tls&sni=balafi7691.pages.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=balafi7691.pages.dev&path=/jump/tv/content?ed=2560#TG@QiangLieTuiJian
-vless://7d74eae4-8a06-4306-a923-ad686f30bf26@OV-Germany1.09vpn.com:80?path=/vless/&security=none&encryption=none&type=ws#[سلینا] 🇩🇪 DE-5320
 vless://7d74eae4-8a06-4306-a923-ad686f30bf26@ov-germany1.09vpn.com:80?encryption=none&host=OV-Germany1.09vpn.com&path=%2Fvless%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ADE
 vless://e73df646-1f62-41bf-8c50-653497d603d0@163.172.213.174:80?type=ws&encryption=none&flow=&host=SC-TheNetherlands2.09vpn.com&path=%2Fvless%2F#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 vless://00722148-3d6c-403d-854e-581b105ceffd@www.ietf.org:443?path=/api/v3/ws/events&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=RigW6bZIE7qM3Iqn.geekylinux.com&fp=chrome&type=ws&allowInsecure=0&sni=0iXGgvWA3b.geekylinux.com#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@OV-France1.09vpn.com:80?path=/vless/&security=&encryption=none&type=ws#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
