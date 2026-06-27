@@ -20,7 +20,6 @@ vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@173.245.58.75:443?encryption=none&h
 vless://eb0c6d6c-4e05-43f3-a077-8a65c926219e@188.114.97.6:8443?encryption=none&type=ws&host=argoovpn.imanaghapour.ir&path=%2F&security=tls&alpn=http%2F1.1&fp=chrome&sni=argoovpn.imanaghapour.ir#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
 trojan://humanity@104.16.174.121:443?type=ws&security=tls&path=%2Fassignment&host=www.ignitelimit.com&sni=www.ignitelimit.com&insecure=0&allowInsecure=0#%40W570W%20-%202
 vless://192bc523-26fe-4233-b10d-725deb710ea5@support.zoom.us:443?path=/us-gllc&security=tls&encryption=none&insecure=0&host=support.zoom.us.yxls.eu.cc&type=ws&allowInsecure=0&sni=support.zoom.us.yxls.eu.cc#🇺🇸US-🚀@VPNine1
-trojan://humanity@45.130.125.2:443?path=%2Fassignment&security=tls&insecure=0&host=Www.cReaTIOnLONG.OrG&type=ws&allowInsecure=0&sni=Www.cReaTIOnLONG.OrG#%3E%3E%40configshub2%3A%3APL
 vless://7d90f043-ed7f-40c9-ac2f-352987904958@OV-Germany1.09vpn.com:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#🆔ar14n24b%20🔓%20VL-WS-N/A%20❔%20XX%20168ms
 trojan://GavW8e3DN7@45.130.125.2:443?type=ws&security=tls&path=/db&alpn=-@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN&host=sf.farxmode.ir&sni=sf.farxmode.ir&fp=chrome&insecure=0&allowInsecure=0#🇩🇪 Telegram @SRCVPN ²
 trojan://humanity@www.gossipglove.com:443?fp=chrome&path=/assignment&security=tls&type=ws#@v2rayconfigamir 4002
@@ -41,7 +40,6 @@ vless://073d1d50-8478-47bf-a828-7a1b381931d5@159.112.235.52:443?path=/odiyfws&se
 vless://1189bc23-27f7-47c1-89d4-1e6843a09cb6@172.64.147.226:2083?encryption=none&fp=chrome&host=freetools-h2s.pages.dev&path=/&security=tls&sni=freetools-h2s.pages.dev&type=ws#[82630] - Telegram : @V2All
 vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@OV-France1.09vpn.com:80?path=/vless/&security=none&encryption=none&type=ws#[] 🇫🇷 FR-489
 vless://4c1b83e4-5ade-46a8-966d-1eeb7a8dcc65@104.18.42.68:8443?encryption=none&fp=chrome&host=wz1.fum.ccwu.cc&path=/proxyip=sjc.o00o.ooo&security=tls&sni=wz1.fum.ccwu.cc&type=ws#[82629] - Telegram : @V2All
-vless://79863d42-9f1c-4e8e-a65b-1003090871c1@45.147.248.115:443?alpn=http%2F1.1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=confighaye.mokhaberatebinzon.workers.dev&path=%2FeyJqdW5rIjoiUHVXcXFjYTJGVGI3IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19&security=tls&sni=coNFIghayE.moKhaBeraTebInZON.workErS.deV&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ADE
 trojan://humanity@www.multiplydose.com:443?path=%2Fassignment&security=tls&insecure=1&type=ws&allowInsecure=1#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 vless://18535741-e8b3-4b43-9348-785b55936751@57.129.41.216:80?encryption=none&type=ws&path=%2Fvless%2F&security=none#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 trojan://f922fa0f-3311-4368-85ff-cf65e727c854@space.byu.id.yxls.eu.cc:443?security=tls&type=ws&path=%2Fbr-orcl#%F0%9F%8F%81RELAY-104.20.39.109-2357
