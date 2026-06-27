@@ -39,7 +39,5 @@ trojan://humanity@104.17.121.43:443?path=%2Fassignment&security=tls&host=www.cal
 trojan://humanity@104.16.174.121:443?type=ws&security=tls&path=%2Fassignment&host=www.ignitelimit.com&sni=www.ignitelimit.com&insecure=0&allowInsecure=0#%40W570W%20-%202
 trojan://GavW8e3DN7@45.130.125.2:443?type=ws&security=tls&path=/db&alpn=-@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN&host=sf.farxmode.ir&sni=sf.farxmode.ir&fp=chrome&insecure=0&allowInsecure=0#🇩🇪 Telegram @SRCVPN ²
 trojan://Mitivpn@151.101.193.242:80?ed=2560&eh=Sec-WebSocket-Protocol&host=cdn.gamingdll.ir&path=https://t.me/WangCai2🇨🇳&security=none&type=ws#🇭🇰HK_@WangCai_8
-vless://078a2c59-8e96-4875-1b98-bf6d00000001@late-wood-c116.vahshi2000.workers.dev:2096?insecure=0&security=tls&encryption=none&path=/ali&sni=late-wood-c116.vahshi2000.workers.dev&fp=chrome&host=late-wood-c116.vahshi2000.workers.dev&allowInsecure=0&type=ws#@vmesskhodam
 vless://40cc9b52-25b8-4cd5-8b45-715ae26e6baf@SC-TheNetherlands1.09vpn.com:80?path=/vless/&security=none&encryption=none&type=ws#[کیانت] 🇳🇱 NL-775
 vless://40cc9b52-25b8-4cd5-8b45-715ae26e6baf@sc-thenetherlands1.09vpn.com:80?encryption=none&path=/vless/&security=none&type=ws#1🐚@oneclickvpnkeys
-vless://f5c47e9c-914a-4a91-a81e-a5a77bc10fc1@OV-France1.09vpn.com:80?path=/vless/&security=none&encryption=none&type=ws#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
