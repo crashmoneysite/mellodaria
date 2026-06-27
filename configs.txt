@@ -20,7 +20,6 @@ vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@173.245.58.75:443?encryption=none&h
 vless://eb0c6d6c-4e05-43f3-a077-8a65c926219e@188.114.97.6:8443?encryption=none&type=ws&host=argoovpn.imanaghapour.ir&path=%2F&security=tls&alpn=http%2F1.1&fp=chrome&sni=argoovpn.imanaghapour.ir#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
 trojan://humanity@104.16.174.121:443?type=ws&security=tls&path=%2Fassignment&host=www.ignitelimit.com&sni=www.ignitelimit.com&insecure=0&allowInsecure=0#%40W570W%20-%202
 vless://192bc523-26fe-4233-b10d-725deb710ea5@support.zoom.us:443?path=/us-gllc&security=tls&encryption=none&insecure=0&host=support.zoom.us.yxls.eu.cc&type=ws&allowInsecure=0&sni=support.zoom.us.yxls.eu.cc#🇺🇸US-🚀@VPNine1
-vless://7d90f043-ed7f-40c9-ac2f-352987904958@OV-Germany1.09vpn.com:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#🆔ar14n24b%20🔓%20VL-WS-N/A%20❔%20XX%20168ms
 trojan://GavW8e3DN7@45.130.125.2:443?type=ws&security=tls&path=/db&alpn=-@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN&host=sf.farxmode.ir&sni=sf.farxmode.ir&fp=chrome&insecure=0&allowInsecure=0#🇩🇪 Telegram @SRCVPN ²
 trojan://humanity@www.gossipglove.com:443?fp=chrome&path=/assignment&security=tls&type=ws#@v2rayconfigamir 4002
 trojan://CHhHZoXQCp@45.130.125.2:443?path=/da&security=tls&insecure=0&host=se.farxmode.ir&fp=chrome&type=ws&allowInsecure=0&sni=se.farxmode.ir#@vmesskhodam
