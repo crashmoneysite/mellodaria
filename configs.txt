@@ -33,7 +33,6 @@ vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@152.228.162.19:80?path=/vless/&secu
 trojan://humanity@www.multiplydose.com:443?path=%2Fassignment&security=tls&insecure=1&type=ws&allowInsecure=1#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 trojan://Mitivpn@151.101.0.0:80?security=none&type=ws&path=/ed=mitivpn&host=3-mitivpn.global.ssl.fastly.net#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD26
 trojan://Mitivpn@151.101.193.242:80?ed=2560&eh=Sec-WebSocket-Protocol&host=cdn.gamingdll.ir&path=https://t.me/WangCai2🇨🇳&security=none&type=ws#🇭🇰HK_@WangCai_8
-vless://40cc9b52-25b8-4cd5-8b45-715ae26e6baf@SC-TheNetherlands1.09vpn.com:80?path=/vless/&security=none&encryption=none&type=ws#[کیانت] 🇳🇱 NL-775
 vless://7d74eae4-8a06-4306-a923-ad686f30bf26@OV-Germany1.09vpn.com:80?path=/vless/&security=none&encryption=none&type=ws#[سلینا] 🇩🇪 DE-5320
 vless://7d90f043-ed7f-40c9-ac2f-352987904958@OV-Germany1.09vpn.com:80?path=/vless/&security=none&encryption=none&type=ws#[] 🇩🇪 DE-5378
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?path=/http&security=none&encryption=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=ws#[82747] - Telegram : @V2All
