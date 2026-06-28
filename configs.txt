@@ -38,4 +38,3 @@ trojan://humanity@www.multiplydose.com:443?path=%2Fassignment&security=tls&insec
 trojan://Mitivpn@iranpoems.ir:443?path=/usa=mitivpn&security=tls&host=www.gamingdll.ir&type=ws&sni=www.gamingdll.ir#@appsooner کانال تلگرام 🕊️
 trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#🇵🇱@FreakConfig
 trojan://humanity@www.calmlunch.com:443/?type=ws&path=/assignment&security=tls&fp=chrome#🏇73@oneclickvpnkeys
-vless://40cc9b52-25b8-4cd5-8b45-715ae26e6baf@sc-thenetherlands1.09vpn.com:80?encryption=none&path=%2Fvless%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ANL
