@@ -38,9 +38,6 @@ vless://0779dc74-2464-461f-90ef-874e4cae7fae@188.114.96.3:2053?path=%2FeyJqdW5rI
 vless://690b6997-198a-49d2-8cef-e4c70efc2288@104.21.75.46:443?path=%2F&security=tls&encryption=none&insecure=0&host=bold-term-2b48.stary3989.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=bold-term-2b48.stary3989.workers.dev#%3E%3E%40v2ray1_ng%3A%3AUS
 vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@betty.ns.cloudflare.com:443?path=%2Fjdhfyws&security=tls&encryption=none&host=amooaliii.net&fp=chrome&type=ws&sni=amooaliii.net#%40appsooner%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%F0%9F%95%8A%EF%B8%8F
 vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@45.130.125.158:2053?encryption=none&security=tls&sni=po.fastbrokencompony.com&insecure=0&allowInsecure=0&type=ws&host=po.fastbrokencompony.com&path=%2F#%40Daily_Configs
-vless://f3b8c2a1-9d4e-4b7f-a6c5-2e8d1f0b4a93@45.130.125.114:8443?path=%2F&security=tls&encryption=none&insecure=0&host=srv75.perfectbulk.info&fp=chrome&type=ws&allowInsecure=0&sni=srv75.perfectbulk.info#🆔vpnbaz%20🔒%20VL-WS-N/A%20❔%20XX%202ms
-trojan://Mitivpn@151.101.193.242:80?ed=2560&eh=Sec-WebSocket-Protocol&host=cdn.gamingdll.ir&path=https://t.me/WangCai2🇨🇳&security=none&type=ws#🇭🇰HK_@WangCai_8
-trojan://Mitivpn@iranpoems.ir:443?path=/usa=mitivpn&security=tls&insecure=0&host=www.gamingdll.ir&type=ws&allowInsecure=0&sni=www.gamingdll.ir#@meliproxyy
 vless://073d1d50-8478-47bf-a828-7a1b381931d5@108.162.192.75:443?path=/odiyfws&security=tls&encryption=none&insecure=0&host=octopusss.net&type=ws&allowInsecure=0&sni=octopusss.net#@NewsDarya
 vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@152.228.162.19:80?path=/vless/&security=none&encryption=none&type=ws#[] 🇫🇷 FR-513
 vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@OV-France1.09vpn.com:80?path=/vless/&security=none&encryption=none&type=ws#[] 🇫🇷 FR-489
@@ -48,7 +45,6 @@ vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@ov-france1.09vpn.com:80?encryption=
 vless://4454f3d1-6359-401b-b10c-81d0b3f0b7c2@104.21.82.201:2087?path=/eyJqdW5rIjoiY0lZS1FrazRnIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=v2ngfast-mnbjhv.akbarbikar.workers.dev&fp=chrome&type=ws&sni=V2NgFaST-MNBjhv.AkbarbikAr.WorKErs.DEV#🇩🇪 @V2ngFast
 vless://5ce84688-f535-46ad-a512-37b17becf6ea@152.228.162.19:80?path=/vless/&security=none&encryption=none&host=akamaized.net&type=ws#[] 🇫🇷 FR-507
 vless://9b6438bf-ad00-49b6-9752-0bc82899165f@n8.ramito.ir:2052?path=/&security=none&encryption=none&type=ws#@filembad
-vless://2bcfbfba-b446-4ad5-93ad-72af9e008f61@nuclear.us.kg:443?encryption=none&security=tls&sni=nuclear.us.kg&insecure=0&allowInsecure=0&type=ws&path=/free/1.226.227.169:50001#%3E%3E%40configshub2%3A%3AUS
 vless://40cc9b52-25b8-4cd5-8b45-715ae26e6baf@sc-thenetherlands1.09vpn.com:80?encryption=none&path=%2Fvless%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ANL
 vless://9b6438bf-ad00-49b6-9752-0bc82899165f@n8.ramito.ir:2052?path=%2F&security=&encryption=none&type=ws#%3E%3E%40configV2rayNG%3A%3ADE
 vless://fc8a0708-951a-4027-860f-2a154ebc4dd7@172.67.78.254:2083?path=%2F&security=tls&encryption=none&insecure=0&host=crimson-king-301d.nexoxnet.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=crimson-king-301d.nexoxnet.workers.dev#%3E%3E%40ShadowsocksM%3A%3AUS
