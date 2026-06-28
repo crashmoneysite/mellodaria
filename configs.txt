@@ -39,7 +39,6 @@ trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=0&hos
 trojan://humanity@www.calmlunch.com:443/?type=ws&path=/assignment&security=tls&fp=chrome#🏇73@oneclickvpnkeys
 vmess://eyJ2IjoiMiIsInBzIjoiQ2hhbm5lbCBpZDogQFNoYWRvd1Byb3h5NiIsImFkZCI6IjY5Ljg0LjE4Mi40OSIsInBvcnQiOiI4MCIsImlkIjoiZjg5NzU4NzEtYTdhMC00OTA2LTg4MzUtYTIzYzEyNThjYTFlIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6Imdvb2dsZS53aGF0c2FwcC5zbmFwcC50b3JvYi5iYXNhbGFtLnp1bGEudXBsYW9kLW11c2ljLmlyLiIsInBhdGgiOiIvIiwidGxzIjoibm9uZSIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6IiJ9
 trojan://humanity@104.16.174.121:443?type=ws&security=tls&path=%2Fassignment&host=www.ignitelimit.com&sni=www.ignitelimit.com&insecure=0&allowInsecure=0#%40W570W%20-%202
-trojan://Mitivpn@iranpoems.ir:443?path=/usa=mitivpn&security=tls&host=www.gamingdll.ir&type=ws&sni=www.gamingdll.ir#@appsooner کانال تلگرام 🕊️
 vless://f3b8c2a1-9d4e-4b7f-a6c5-2e8d1f0b4a93@45.130.125.158:8443?path=%2F&security=tls&encryption=none&host=srv03.perfectbulk.info&fp=chrome&type=ws&sni=srv03.perfectbulk.info#『🚀』𖤐
 vless://f3b8c2a1-9d4e-4b7f-a6c5-2e8d1f0b4a93@45.130.125.114:8443?path=%2F&security=tls&encryption=none&insecure=0&host=srv75.perfectbulk.info&fp=chrome&type=ws&allowInsecure=0&sni=srv75.perfectbulk.info#🆔vpnbaz%20🔒%20VL-WS-N/A%20❔%20XX%203ms
 vless://5b6be23b-dff4-428f-8a60-4f11568abe12@192.200.160.252:443?path=%2Fapi%2Fv1%2Fstream&security=tls&encryption=none&insecure=0&host=sync.amordad.xyz&type=ws&allowInsecure=0&sni=sync.amordad.xyz#🆔ar14n24b%20🔒%20VL-WS-N/A%20🇺🇸%20US%203ms
@@ -48,7 +47,6 @@ vless://b585dc5e-55bf-4a8b-913a-27c9ccac05c3@149.202.58.99:443?encryption=none&t
 trojan://Mitivpn@151.101.193.242:80?ed=2560&eh=Sec-WebSocket-Protocol&host=cdn.gamingdll.ir&path=https://t.me/WangCai2🇨🇳&security=none&type=ws#🇭🇰HK_@WangCai_8
 trojan://ZzE0ZXql6p@45.130.125.2:443?path=/db&security=tls&alpn=-@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN&insecure=0&host=sh.farxmode.ir&fp=chrome&type=ws&allowInsecure=0&sni=sh.farxmode.ir#اگه میخوای قطع نشی جوین شو : @farsiproxy
 vless://7d74eae4-8a06-4306-a923-ad686f30bf26@OV-Germany1.09vpn.com:80?path=/vless/&security=none&encryption=none&type=ws#[سلینا] 🇩🇪 DE-5320
-vless://2390502c-ceb9-420b-a4f4-a37aa4c1867d@nodejs.org:8443?path=/eyJqdW5rIjoiTWhyY2V4ZEc1MUIiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=v2ngfast.naderyakoza.workers.dev&fp=chrome&type=ws&sni=v2nGFast.nadERYaKoZA.Workers.dev#🇩🇪 @V2ngFast
 vless://9b6438bf-ad00-49b6-9752-0bc82899165f@n8.ramito.ir:2052?path=/&security=none&encryption=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=ws#@MARAMBASHI 💙
 trojan://humanity@www.gossipglove.com:443?fp=chrome&path=/assignment&security=tls&type=ws#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 vless://18535741-e8b3-4b43-9348-785b55936751@57.129.41.216:80?encryption=none&type=ws&path=%2Fvless%2F&security=none#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
