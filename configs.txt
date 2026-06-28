@@ -23,13 +23,11 @@ vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@ov-france1.09vpn.com:80?encryption=
 vless://192bc523-26fe-4233-b10d-725deb710ea5@support.zoom.us:443?path=/us-gllc&security=tls&encryption=none&insecure=0&host=support.zoom.us.yxls.eu.cc&type=ws&allowInsecure=0&sni=support.zoom.us.yxls.eu.cc#@meliproxyy
 vless://073d1d50-8478-47bf-a828-7a1b381931d5@108.162.192.75:443?path=/odiyfws&security=tls&encryption=none&insecure=0&host=octopusss.net&type=ws&allowInsecure=0&sni=octopusss.net#@NewsDarya
 vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@173.245.58.75:443?encryption=none&host=terazhediii.info&path=%2Fhdgrbws&security=tls&sni=terazhediii.info&type=ws#🤹‍♀️
-trojan://humanity@104.16.174.121:443?type=ws&security=tls&path=%2Fassignment&host=www.ignitelimit.com&sni=www.ignitelimit.com&insecure=0&allowInsecure=0#%40W570W%20-%202
 trojan://humanity@45.130.125.2:443?path=%2Fassignment&security=tls&insecure=0&host=Www.cReaTIOnLONG.OrG&type=ws&allowInsecure=0&sni=Www.cReaTIOnLONG.OrG#%3E%3E%40configshub2%3A%3APL
 trojan://humanity@104.18.152.233:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.calmloud.com&type=ws&allowInsecure=0&sni=www.calmloud.com#@V2raySup0 | 🚀
 vless://615b457e-fb2a-4bb7-854b-99c0e2c16b2a@162.159.43.30:2096?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=sd.cbb.j3.ink&path=/cn/data/images&security=tls&sni=sd.cbb.j3.ink&type=ws#☀️10@oneclickvpnkeys
 vless://9b6438bf-ad00-49b6-9752-0bc82899165f@n8.ramito.ir:2052?path=/&security=none&encryption=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=ws#@erfanandroid
 trojan://humanity@188.114.96.3:443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#@V2raySup0🚀
-vless://a47f13eb-eac7-4bc8-843a-da8688cc1621@www.ravinoz.ir:443?alpn=h2,http/1.1,h3&encryption=none&fp=chrome&host=live.ravinoz.ir&path=/live-stream&security=tls&sni=docs.ravinoz.ir&type=ws#@filembad
 vless://9b6438bf-ad00-49b6-9752-0bc82899165f@n8.ramito.ir:2052?path=%2F&security=&encryption=none&type=ws#%3E%3E%40configV2rayNG%3A%3ADE
 vless://fc8a0708-951a-4027-860f-2a154ebc4dd7@172.67.78.254:2083?path=%2F&security=tls&encryption=none&insecure=0&host=crimson-king-301d.nexoxnet.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=crimson-king-301d.nexoxnet.workers.dev#%3E%3E%40ShadowsocksM%3A%3AUS
 vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@152.228.162.19:80?type=ws&path=%2Fvless%2F#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
@@ -40,6 +38,4 @@ trojan://humanity@www.calmlunch.com:443/?type=ws&path=/assignment&security=tls&f
 trojan://humanity@www.calmlunch.com:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0#@vmesskhodam
 trojan://humanity@www.multiplydose.com:443/?type=ws&path=/assignment&security=tls&fp=chrome#🏇74@oneclickvpnkeys
 vless://5ce84688-f535-46ad-a512-37b17becf6ea@152.228.162.19:80?path=/vless/&security=none&encryption=none&host=akamaized.net&type=ws#[] 🇫🇷 FR-507
-vless://7d74eae4-8a06-4306-a923-ad686f30bf26@OV-Germany1.09vpn.com:80?path=/vless/&security=none&encryption=none&type=ws#[سلینا] 🇩🇪 DE-5320
-vless://7d90f043-ed7f-40c9-ac2f-352987904958@OV-Germany1.09vpn.com:80?path=/vless/&security=none&encryption=none&type=ws#[] 🇩🇪 DE-5378
 vless://7d74eae4-8a06-4306-a923-ad686f30bf26@ov-germany1.09vpn.com:80?encryption=none&type=ws&path=%2Fvless%2F&security=none#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
