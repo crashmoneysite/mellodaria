@@ -20,7 +20,6 @@ vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@152.228.162.19:80?path=/vless/&secu
 vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@OV-France1.09vpn.com:80?path=/vless/&security=none&encryption=none&type=ws#[] 🇫🇷 FR-489
 vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@ov-france1.09vpn.com:80?encryption=none&path=/vless/&security=none&type=ws#@v2reya88 | @confinghub2
 vless://192bc523-26fe-4233-b10d-725deb710ea5@support.zoom.us:443?path=/us-gllc&security=tls&encryption=none&insecure=0&host=support.zoom.us.yxls.eu.cc&type=ws&allowInsecure=0&sni=support.zoom.us.yxls.eu.cc#@meliproxyy
-vless://073d1d50-8478-47bf-a828-7a1b381931d5@108.162.192.75:443?path=/odiyfws&security=tls&encryption=none&insecure=0&host=octopusss.net&type=ws&allowInsecure=0&sni=octopusss.net#@NewsDarya
 vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@152.228.162.19:80?type=ws&path=%2Fvless%2F#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 vless://5ce84688-f535-46ad-a512-37b17becf6ea@152.228.162.19:80?path=/vless/&security=none&encryption=none&host=akamaized.net&type=ws#[] 🇫🇷 FR-507
 vless://7d74eae4-8a06-4306-a923-ad686f30bf26@OV-Germany1.09vpn.com:80?path=/vless/&security=&encryption=none&type=ws#canfingV2rayNG-298
@@ -31,10 +30,28 @@ vless://7d74eae4-8a06-4306-a923-ad686f30bf26@57.129.41.216:80?encryption=none&ho
 trojan://Mitivpn@iranpoems.ir:443?path=/usa=mitivpn&security=tls&host=www.gamingdll.ir&type=ws&sni=www.gamingdll.ir#@appsooner کانال تلگرام 🕊️
 vless://7d90f043-ed7f-40c9-ac2f-352987904958@OV-Germany1.09vpn.com:80?path=/vless/&security=none&encryption=none&type=ws&note=#@Ap_Ir6
 vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@173.245.58.75:443?encryption=none&host=terazhediii.info&path=%2Fhdgrbws&security=tls&sni=terazhediii.info&type=ws#🤹‍♀️
-trojan://Mitivpn@iranpoems.ir:443?path=/usa=mitivpn&security=tls&host=www.gamingdll.ir&type=ws&sni=www.gamingdll.ir#@appsooner کانال تلگرام 🕊️
 vless://f3b8c2a1-9d4e-4b7f-a6c5-2e8d1f0b4a93@45.130.125.158:8443?path=%2F&security=tls&encryption=none&host=srv03.perfectbulk.info&fp=chrome&type=ws&sni=srv03.perfectbulk.info#『🚀』𖤐
 vless://e277ac9b-3225-3381-a9fb-3585419f7142@love.ns.cloudflare.com:443?encryption=none&type=ws&security=tls&path=%2Fmedia14&host=media14.ftmsoft.com&sni=media14.ftmsoft.com&alpn=http%2F1.1&fp=chrome&insecure=0&allowInsecure=0#🆔configfa%20🔒%20VL-WS-N/A%20❔%20XX%2014ms
 vless://9b6438bf-ad00-49b6-9752-0bc82899165f@n8.ramito.ir:2052?path=%2F&security=none&encryption=none&type=ws#🆔ar14n24b%20🔓%20VL-WS-N/A%20❔%20XX%20386ms
-vless://b585dc5e-55bf-4a8b-913a-27c9ccac05c3@149.202.58.99:443?encryption=none&type=ws&security=tls&path=%2Fvws%2F&host=bab-6.site&sni=bab-6.site&fp=chrome&insecure=0&allowInsecure=0#🆔configx2ray%20🔒%20VL-WS-N/A%20❔%20XX%20145ms
 vless://9b6438bf-ad00-49b6-9752-0bc82899165f@n8.ramito.ir:2052?path=/&security=&encryption=none&type=ws#@TEHRANARGO丨چنل تلگرام
 vless://9b6438bf-ad00-49b6-9752-0bc82899165f@n8.ramito.ir:2052?path=/&security=none&encryption=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=ws#@MARAMBASHI 💙
+trojan://humanity@104.17.121.43:443?path=%2Fassignment&security=tls&host=www.calmlunch.com&allowinsecure=0&type=ws&sni=www.calmlunch.com#%40hi_proxy_iran
+vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@betty.ns.cloudflare.com:443?path=%2Fjdhfyws&security=tls&encryption=none&host=amooaliii.net&fp=chrome&type=ws&sni=amooaliii.net#%40appsooner%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%F0%9F%95%8A%EF%B8%8F
+vless://5b6be23b-dff4-428f-8a60-4f11568abe12@192.200.160.252:443?path=%2Fapi%2Fv1%2Fstream&security=tls&encryption=none&insecure=0&host=sync.amordad.xyz&type=ws&allowInsecure=0&sni=sync.amordad.xyz#🆔ar14n24b%20🔒%20VL-WS-N/A%20🇺🇸%20US%203ms
+trojan://Mitivpn@146.75.116.190:80?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/?https://t.me/app_bedal🇨🇳&security=none&host=3-mitivpn.global.ssl.fastly.net&type=ws#🇩🇪 @rayhub_ir 0627-14
+trojan://humanity@www.calmlunch.com:443/?type=ws&path=/assignment&security=tls&fp=chrome#🏇73@oneclickvpnkeys
+trojan://humanity@www.calmlunch.com:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0#@vmesskhodam
+vless://40cc9b52-25b8-4cd5-8b45-715ae26e6baf@SC-TheNetherlands1.09vpn.com:80?path=/vless/&security=none&encryption=none&type=ws#[کیانت] 🇳🇱 NL-775
+vless://73fc635f-e51c-4cf8-b659-6b99482618f9@support.fastcmd.top:443?encryption=none&type=ws&host=pass.pccmd.ir&path=/&security=tls&fp=chrome&sni=pass.pccmd.ir&alpn=http/1.1&allowInsecure=false#🇺🇸US-🚀@VPNine1
+vless://be470e29-56ba-481d-8bcb-35910b071e99@104.17.122.16:2053?path=/&security=tls&encryption=none&insecure=0&host=nova-falcon-stack-5e21.panelc3.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=nova-falcon-stack-5e21.panelc3.workers.dev#@V2ray_confiig
+trojan://86957ec0-b213-433b-a43b-51f2175e0ec3@space.byu.id.yxls.eu.cc:443?fp=chrome&path=/au-do&type=ws#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+vless://7d74eae4-8a06-4306-a923-ad686f30bf26@ov-germany1.09vpn.com:80?encryption=none&type=ws&path=%2Fvless%2F&security=none#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://7d74eae4-8a06-4306-a923-ad686f30bf26@ov-germany1.09vpn.com:80?encryption=none&type=ws&path=%2Fvless%2F&security=none#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+trojan://86957ec0-b213-433b-a43b-51f2175e0ec3@space.byu.id.yxls.eu.cc:443?fp=chrome&path=/au-do&type=ws#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+trojan://86957ec0-b213-433b-a43b-51f2175e0ec3@space.byu.id.yxls.eu.cc:443?fp=chrome&path=/au-do&type=ws#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+trojan://86957ec0-b213-433b-a43b-51f2175e0ec3@space.byu.id.yxls.eu.cc:443?fp=chrome&path=/au-do&type=ws#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+trojan://86957ec0-b213-433b-a43b-51f2175e0ec3@space.byu.id.yxls.eu.cc:443?fp=chrome&path=/au-do&type=ws#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+trojan://86957ec0-b213-433b-a43b-51f2175e0ec3@space.byu.id.yxls.eu.cc:443?fp=chrome&path=/au-do&type=ws#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+trojan://86957ec0-b213-433b-a43b-51f2175e0ec3@space.byu.id.yxls.eu.cc:443?fp=chrome&path=/au-do&type=ws#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+trojan://humanity@www.gossipglove.com:443?fp=chrome&path=/assignment&security=tls&type=ws#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+trojan://humanity@www.gossipglove.com:443?fp=chrome&path=/assignment&security=tls&type=ws#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
