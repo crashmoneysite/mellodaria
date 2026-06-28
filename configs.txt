@@ -32,20 +32,12 @@ vless://6e76eb41-46c0-438a-8e23-3c3abc7bfd77@162.159.17.145:2087?path=/eyJqdW5rI
 vless://9b6438bf-ad00-49b6-9752-0bc82899165f@n8.ramito.ir:2052?path=%2F&security=none&encryption=none&type=ws#🆔ar14n24b%20🔓%20VL-WS-N/A%20❔%20XX%20386ms
 vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@173.245.58.75:443?encryption=none&host=terazhediii.info&path=%2Fhdgrbws&security=tls&sni=terazhediii.info&type=ws#🤹‍♀️
 vless://e277ac9b-3225-3381-a9fb-3585419f7142@love.ns.cloudflare.com:443?encryption=none&type=ws&security=tls&path=%2Fmedia14&host=media14.ftmsoft.com&sni=media14.ftmsoft.com&alpn=http%2F1.1&fp=chrome&insecure=0&allowInsecure=0#🆔configfa%20🔒%20VL-WS-N/A%20❔%20XX%2014ms
-trojan://Mitivpn@151.101.193.242:80?ed=2560&eh=Sec-WebSocket-Protocol&host=cdn.gamingdll.ir&path=https://t.me/WangCai2🇨🇳&security=none&type=ws#🇭🇰HK_@WangCai_8
 vless://9b6438bf-ad00-49b6-9752-0bc82899165f@n8.ramito.ir:2052?path=/&security=&encryption=none&type=ws#@TEHRANARGO丨چنل تلگرام
 vless://9b6438bf-ad00-49b6-9752-0bc82899165f@n8.ramito.ir:2052?path=/&security=none&encryption=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=ws#@MARAMBASHI 💙
-vless://049e56d8-0ba0-49e3-b764-ee04122b9f00@ov-italy1.09vpn.com:80?encryption=none&path=%2Fvless%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AIT
 trojan://humanity@104.17.121.43:443?path=%2Fassignment&security=tls&host=www.calmlunch.com&allowinsecure=0&type=ws&sni=www.calmlunch.com#%40hi_proxy_iran
 vless://f3b8c2a1-9d4e-4b7f-a6c5-2e8d1f0b4a93@45.130.125.158:8443?path=%2F&security=tls&encryption=none&host=srv03.perfectbulk.info&fp=chrome&type=ws&sni=srv03.perfectbulk.info#『🚀』𖤐
 trojan://humanity@www.calmlunch.com:443/?type=ws&path=/assignment&security=tls&fp=chrome#🏇73@oneclickvpnkeys
 trojan://humanity@www.calmlunch.com:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0#@vmesskhodam
 vless://c9ec8f14-3e9b-44a0-a1cd-0b1d270c4556@31.76.82.3:8080?path=/dda12c57317ed12178061db1b799ebd2&security=&encryption=none&host=progressiya-vpn.online&type=ws#@Soul737
 vless://f3b8c2a1-9d4e-4b7f-a6c5-2e8d1f0b4a93@45.130.125.114:8443?path=/&security=tls&encryption=none&insecure=0&host=srv10.perfectbulk.info&fp=chrome&type=ws&allowInsecure=0&sni=srv10.perfectbulk.info#@ehsawn8
-trojan://86957ec0-b213-433b-a43b-51f2175e0ec3@space.byu.id.yxls.eu.cc:443?fp=chrome&path=/au-do&type=ws#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
-vless://7d74eae4-8a06-4306-a923-ad686f30bf26@ov-germany1.09vpn.com:80?encryption=none&type=ws&path=%2Fvless%2F&security=none#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://7d74eae4-8a06-4306-a923-ad686f30bf26@ov-germany1.09vpn.com:80?encryption=none&type=ws&path=%2Fvless%2F&security=none#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-trojan://86957ec0-b213-433b-a43b-51f2175e0ec3@space.byu.id.yxls.eu.cc:443?fp=chrome&path=/au-do&type=ws#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
-trojan://86957ec0-b213-433b-a43b-51f2175e0ec3@space.byu.id.yxls.eu.cc:443?fp=chrome&path=/au-do&type=ws#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
-trojan://humanity@www.gossipglove.com:443?fp=chrome&path=/assignment&security=tls&type=ws#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-trojan://humanity@www.gossipglove.com:443?fp=chrome&path=/assignment&security=tls&type=ws#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+vless://18535741-e8b3-4b43-9348-785b55936751@57.129.41.216:80?encryption=none&type=ws&path=%2Fvless%2F&security=none#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
