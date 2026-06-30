@@ -25,12 +25,10 @@ vmess://ewogICAgImFkZCI6ICI5NC4xMzEuMTA4LjM2IiwKICAgICJhaWQiOiAwLAogICAgImhvc3Qi
 vless://f5c47e9c-914a-4a91-a81e-a5a77bc10fc1@OV-France1.09vpn.com:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 vless://b788e98c-ce84-4edc-b094-cb39b0c3560d@172.67.147.147:2087?path=/eyJqdW5rIjoiR0dOV0RFdWdUU3k1cmYiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=ez-52028e.shirshir.workers.dev&fp=chrome&type=ws&sni=ez-52028E.ShIrShir.WoRkers.dEV#🇨🇦 CA | 172.67.147.147
 vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@188.114.97.6:443?path=/hdgrbws&security=tls&encryption=none&host=terazhediii.info&fp=chrome&type=ws&sni=terazhediii.info#@appsooner کانال تلگرام 🕊️
-trojan://humanity@www.calmlunch.com:443/?type=ws&path=/assignment&security=tls&fp=chrome#🏇73@NetFlowTools
 trojan://humanity@104.16.174.12:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#@Filtershekan_channel |3
 trojan://humanity@188.114.96.3:443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#@V2raySup0🚀
 trojan://humanity@www.multiplydose.com:443/?type=ws&path=/assignment&security=tls&fp=chrome#🏇74@NetFlowTools
 vless://767b6340-96dc-4aa0-8013-a8af7513d920@172.67.75.194:8443?encryption=none&host=c7dabe95.proxy-978.pages.dev&path=/&security=tls&sni=c7dabe95.proxy-978.pages.dev&type=ws#🦖67@NetFlowTools
-vless://e277ac9b-3225-3381-a9fb-3585419f7142@172.64.34.119:443?alpn=http/1.1&encryption=none&host=media14.ftmsoft.com&path=/media14&security=tls&sni=media14.ftmsoft.com&type=ws#☀️81@NetFlowTools
 trojan://humanity@104.18.13.149:443?path=/assignment&security=tls&alpn=http/1.1&insecure=1&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmloud.com#https://t.me/AarazV2ray
 trojan://humanity@45.130.125.2:443?path=%2Fassignment&security=tls&insecure=0&host=Www.cReaTIOnLONG.OrG&type=ws&allowInsecure=0&sni=Www.cReaTIOnLONG.OrG#%3E%3E%40configshub2%3A%3APL
 trojan://humanity@www.multiplydose.com:443?path=%2Fassignment&security=tls&insecure=1&type=ws&allowInsecure=1#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
